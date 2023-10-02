@@ -26,7 +26,7 @@ for list in list_of_lists:
     list[:4] = []
     list[6:] = []
 
-print(f"This is your data after removing the game title, date of draw, and powerball number from the list: {list_of_lists[:1]}\n")
+print(f"This is your data after removing the game title and date of draw: {list_of_lists[:1]}\n")
 
 with open("just_numbers.csv", "w") as fileref:
     fileref.write("B1,B2,B3,B4,B5,PB\n")
