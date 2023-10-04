@@ -34,22 +34,16 @@ for lst in list_of_lists_of_words:
             word = word.lower()
             book_dictionary[word] = 0
 
-for lst in list_of_lists_of_words:
-    if lst == []:
-        del lst
-    else:
-        for word in book_dictionary:
-            if book_dictionary[word]:
-              book_dictionary[word] = book_dictionary[word] + 1
+print(book_dictionary)
+
+## I need the counting algorithm!
 
 print(book_dictionary["flowers"])
 
-with open("book_dictonary", "w") as fileref:
-    for thing in book_dictionary:
-       fileref.write(f"{thing}")
 
-
-
+#with open("book_dictonary", "w") as fileref:
+#    for word in book_dictionary:
+#       fileref.write(f"{word} ")
 
 
 
