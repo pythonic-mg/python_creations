@@ -23,27 +23,30 @@ for line in book:
 
 print(list_of_lists_of_words[:5])
 
-book_dictionary = {}
+word_and_count = dict()
 
 for lst in list_of_lists_of_words:
     if lst == []:
-        pass
+        del lst
     else:
         for word in lst:
-            word = re.sub(r'[^\w]', "", word)
-            word = word.lower()
-            book_dictionary[word] = 0
+            if word in word_and_count:
+                word_and_count[word] += 1
+            else:
+                word_and_count[word] = 1
 
-print(book_dictionary)
+## The problem here is that it doesn't account for punctuation, so there will be more than one "flowers" entry 
 
-## I need the counting algorithm!
+print(word_and_count["flowers"])
 
-print(book_dictionary["flowers"])
+## error...too many values to unpack, expected two?
+## for word, value in word_and_count: 
+##    fileref.write(f"{word}: {count}\n) 
 
-
-#with open("book_dictonary", "w") as fileref:
-#    for word in book_dictionary:
-#       fileref.write(f"{word} ")
+## ??
+with open("word_and_count", "w") as fileref:
+    for word in word_and_count:
+       fileref.write(f"{word}: \n ")
 
 
 
