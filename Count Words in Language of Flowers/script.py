@@ -39,14 +39,9 @@ for lst in list_of_lists_of_words:
 
 print(word_and_count["flowers"])
 
-## error...too many values to unpack, expected two?
-## for word, value in word_and_count: 
-##    fileref.write(f"{word}: {count}\n) 
-
-## ??
 with open("word_and_count", "w") as fileref:
-    for word in word_and_count:
-       fileref.write(f"{word}: \n ")
+    for word, count in word_and_count.items():
+       fileref.write(f"{word}: {count}\n ")
 
 
 
