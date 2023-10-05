@@ -21,8 +21,6 @@ list_of_lists_of_words = []
 for line in book:
     list_of_lists_of_words.append(line.split())
 
-print(list_of_lists_of_words[:5])
-
 word_and_count = dict()
 
 for lst in list_of_lists_of_words:
@@ -30,14 +28,12 @@ for lst in list_of_lists_of_words:
         del lst
     else:
         for word in lst:
+            word = re.sub(r'\W', "", word)
+            word = word.lower()
             if word in word_and_count:
                 word_and_count[word] += 1
             else:
                 word_and_count[word] = 1
-
-## The problem here is that it doesn't account for punctuation, so there will be more than one "flowers" entry 
-
-print(word_and_count["flowers"])
 
 with open("word_and_count", "w") as fileref:
     for word, count in word_and_count.items():
