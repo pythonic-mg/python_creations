@@ -36,8 +36,8 @@ for lst in list_of_lists_of_words:
                 word_and_count[word] = 1
 
 with open("word_and_count", "w") as fileref:
-    for word, count in word_and_count.items():
-       fileref.write(f"{word}: {count}\n ")
+    for word, count in sorted(word_and_count.items()):
+        fileref.write(f"{word}: {count}\n ")
 
 
 
