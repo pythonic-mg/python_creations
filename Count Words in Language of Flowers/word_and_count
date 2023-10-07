@@ -1,34 +1,34 @@
-the: 3148
+the: 3142
  language: 12
  of: 1733
  flowers: 155
  illustration: 6
  rose: 71
- blue: 41
+ blue: 40
  violet: 20
  jasmine: 7
  moss: 27
  bud: 8
- _your: 5
- beauty: 74
- modesty: 9
- and: 1879
- amiability_: 1
- _have: 1
+ your: 62
+ beauty: 77
+ modesty: 10
+ and: 1874
+ amiability: 4
+ have: 148
  drawn: 2
  from: 263
- me: 118
- a: 947
- confession: 3
- love_: 13
+ me: 119
+ a: 944
+ confession: 4
+ love: 193
  : 2617
- floral: 6
- offering: 3
- token: 2
- affection: 14
+ floral: 5
+ offering: 2
+ token: 5
+ affection: 16
  esteem: 4
  comprising: 1
- poetry: 7
+ poetry: 9
  with: 407
  coloured: 3
  illustrations: 1
@@ -38,31 +38,31 @@ the: 3148
  henrietta: 1
  dumont: 1
  philadelphia: 2
- h: 5
- c: 2
+ h: 11
+ c: 10
  peck: 2
  theo: 2
  bliss: 5
  1851: 2
  entered: 2
  according: 12
- to: 897
+ to: 895
  act: 1
  congress: 1
- in: 769
+ in: 768
  year: 24
- clerks: 1
+ clerkï¿½s: 1
  office: 2
  district: 2
  court: 4
  eastern: 2
  pennsylvania: 1
  stereotyped: 1
- l: 1
+ l: 3
  johnson: 1
  co: 1
  preface: 1
- why: 27
+ why: 26
  has: 99
  beneficent: 1
  creator: 1
@@ -73,17 +73,17 @@ the: 3148
  such: 58
  profusion: 3
  beautiful: 54
- flowersflowers: 1
+ flowers--flowers: 1
  thousand: 13
  million: 1
  every: 61
- landfrom: 1
+ land--from: 1
  tiny: 6
- snowdrop: 14
- that: 473
+ snowdrop: 13
+ that: 472
  gladdens: 2
  chill: 3
- spring: 45
+ spring: 44
  north: 6
  gorgeous: 3
  magnolia: 1
@@ -92,9 +92,9 @@ the: 3148
  regions: 1
  tropics: 1
  is: 498
- it: 363
+ it: 358
  landscape: 1
- its: 297
+ its: 292
  appropriate: 7
  nation: 1
  national: 1
@@ -102,20 +102,20 @@ the: 3148
  home: 31
  do: 36
  enter: 2
- shed: 12
+ shed: 11
  their: 176
  perfume: 14
  scene: 7
  life: 63
  cradle: 1
  grave: 16
- are: 206
- made: 52
+ are: 207
+ made: 51
  utter: 3
  all: 246
  voices: 4
  joy: 29
- sorrow: 26
+ sorrow: 27
  varying: 1
  scenes: 6
  chaplet: 2
@@ -125,30 +125,28 @@ the: 3148
  wreath: 8
  blooms: 5
  tomb: 7
- for: 288
- no: 111
+ for: 286
+ no: 110
  other: 37
  reason: 5
  than: 62
- have: 147
  themselves: 7
  real: 3
  natural: 3
  significance: 1
- they: 192
+ they: 193
  positive: 1
  relation: 1
- man: 41
- his: 296
+ man: 40
+ his: 295
  sentiments: 2
- passions: 7
+ passions: 6
  feelings: 10
  correspond: 1
  actual: 1
  emotions: 8
- missiona: 1
+ mission--a: 1
  mission: 2
- love: 180
  mercy: 5
  remotest: 1
  ages: 7
@@ -160,9 +158,9 @@ the: 3148
  universally: 2
  understood: 1
  applied: 1
- time: 74
+ ï¿½time: 1
  out: 44
- mind: 46
+ mind.ï¿½: 1
  meaning: 4
  finds: 5
  place: 18
@@ -174,7 +172,7 @@ the: 3148
  europe: 13
  existed: 1
  recognised: 1
- long: 48
+ long: 47
  although: 7
  scarcely: 2
  noticed: 3
@@ -183,7 +181,7 @@ the: 3148
  comparatively: 1
  recent: 3
  period: 3
- shakspeare: 7
+ shakspeare: 46
  however: 7
  whom: 14
  nothing: 21
@@ -201,7 +199,7 @@ the: 3148
  languages: 1
  recognise: 1
  propriety: 1
- an: 96
+ an: 93
  extent: 1
  now: 71
  become: 6
@@ -210,12 +208,12 @@ the: 3148
  part: 14
  polished: 4
  education: 2
- our: 124
+ our: 123
  little: 40
  volume: 4
- devoted: 6
+ devoted: 7
  explanation: 1
- we: 112
+ we: 110
  complete: 3
  materials: 2
  limits: 1
@@ -224,129 +222,132 @@ the: 3148
  present: 11
  readers: 1
  humble: 10
- hope: 43
+ hope: 45
  shall: 79
  increase: 3
  means: 6
  elegant: 5
  innocent: 5
  enjoyment: 2
+ ï¿½floral: 1
+ offering.ï¿½: 1
  contents: 1
  page: 4
  acacia: 4
- friendship: 12
+ friendship: 14
  123: 1
  acanthus: 6
- arts: 7
+ arts: 8
  140: 1
  almond: 6
  blossom: 9
- indiscretion: 4
+ indiscretion: 5
  22: 13
  aloe: 5
- grief: 23
+ grief: 26
  28: 13
- althea: 5
- consumed: 3
+ althea: 7
+ consumed: 4
  162: 1
  amaranth: 8
- immortality: 9
+ immortality: 10
  100: 2
- anemone: 10
- forsaken: 5
+ anemone: 12
+ forsaken: 6
  122: 1
  ash: 3
- tree: 78
- grandeur: 6
+ tree: 77
+ grandeur: 7
  222: 2
  box: 9
- stoicism: 2
+ stoicism: 3
  63: 2
- broom: 10
- humility: 5
+ broom: 9
+ humility: 6
  179: 1
- cactus: 6
- ardent: 6
+ cactus: 7
+ ardent: 7
  26: 13
  camellia: 4
  japonica: 3
- modest: 12
- merit: 6
+ modest: 14
+ merit: 7
  156: 1
  chamomile: 4
- energy: 2
- adversity: 5
+ energy: 3
+ adversity: 7
  225: 1
  china: 10
- aster: 8
- variety: 12
+ aster: 22
+ variety: 13
  200: 1
  citron: 2
- estrangement: 1
+ estrangement: 2
  227: 1
- columbine: 10
- desertion: 1
+ columbine: 9
+ desertion: 2
  87: 1
  common: 43
  thistle: 3
- misanthropy: 2
+ misanthropy: 3
  243: 1
  corn: 14
- riches: 8
+ riches: 10
  186: 2
  cowslip: 7
- pensiveness: 1
+ pensiveness: 2
  113: 1
  coxcomb: 2
- singularity: 1
+ singularity: 2
  235: 1
  cranberry: 3
- cure: 5
- heartache: 1
+ cure: 6
+ heartache: 2
  188: 1
- crocus: 13
- youth: 28
+ crocus: 22
+ youth: 29
  23: 13
  cypress: 13
- mourning: 6
+ mourning: 7
  49: 1
  dahlia: 4
- elegance: 6
- dignity: 4
+ elegance: 7
+ dignity: 5
  154: 1
  daisy: 14
  innocence: 13
  39: 1
  dandelion: 11
  rustic: 4
- oracle: 3
+ oracle: 4
  132: 1
  dead: 24
  leaves: 50
- death: 26
+ death: 27
  217: 1
  dew: 14
  plant: 47
- serenade: 1
+ serenade: 2
  246: 1
  dragon: 4
- you: 90
+ you: 93
  near: 12
- snare: 2
+ snare: 3
  229: 1
- dyers: 5
+ dyerï¿½s: 4
  weed: 6
- relief: 4
+ relief: 5
  166: 1
  fennel: 3
- strength: 15
+ strength: 16
  233: 1
  fir: 4
+ time: 74
  238: 1
- forgetmenot: 10
+ forget-me-not: 9
  116: 2
  grass: 18
- submission: 4
+ submission: 5
  236: 1
  hawthorn: 12
  52: 1
@@ -357,221 +358,219 @@ the: 3148
  heliotrope: 6
  106: 1
  holly: 16
- foresight: 2
+ foresight: 3
  195: 1
  hollyhock: 6
- ambition: 8
+ ambition: 9
  96: 1
  hyacinth: 8
- constancy: 9
+ constancy: 11
  59: 1
  ice: 5
- frigidity: 1
+ frigidity: 2
  25: 13
  ivy: 10
  193: 1
- amiability: 2
  109: 1
  juniper: 6
- protection: 4
+ protection: 5
  203: 2
- ladys: 9
+ ladyï¿½s: 9
  slipper: 4
- capricious: 4
+ capricious: 5
  160: 1
  larkspur: 4
- flights: 1
- fancy: 18
+ flights: 2
+ fancy: 19
  164: 1
  laurel: 12
- glory: 18
+ glory: 19
  98: 1
  lavender: 4
- distrust: 1
+ distrust: 2
  36: 1
  lichen: 3
- solitude: 7
+ solitude: 8
  254: 1
  lilac: 9
- first: 63
+ first: 64
  46: 1
  lily: 37
- majesty: 7
+ majesty: 8
  67: 1
  valley: 10
  58: 1
- loveliesbleeding: 4
- deserted: 2
+ love-lies-bleeding: 4
+ deserted: 3
  55: 1
  marigold: 17
  72: 1
  marvel: 10
  peru: 6
- timidity: 3
+ timidity: 4
  143: 1
  meadow: 11
  saffron: 10
- my: 224
- best: 13
- days: 29
- past: 25
+ my: 225
+ best: 12
+ days: 25
+ past: 26
  198: 1
- mezereon: 5
+ mezereon: 6
  coquetry: 3
  desire: 7
- please: 4
+ please: 5
  13: 13
  mignonette: 6
- your: 57
  qualities: 8
  surpass: 5
- charms: 21
+ charms: 23
  108: 1
  mistletoe: 5
- i: 361
+ i: 360
  climb: 3
- greatness: 2
+ greatness: 3
  220: 1
- maternal: 4
+ maternal: 5
  125: 1
  69: 1
  myrtle: 7
- 56: 2
- narcissus: 17
+ 56: 1
+ narcissus: 31
  daffodil: 10
- selflove: 4
+ self-love: 5
  65: 1
  nasturtion: 3
- patriotism: 1
+ patriotism: 2
  168: 1
  nettles: 4
- cruelty: 5
+ cruelty: 6
  86: 1
  nightshade: 4
  or: 209
- bittersweet: 3
- truth: 21
+ bitter-sweet: 3
+ truth: 22
  170: 1
  oak: 25
- nobility: 2
+ nobility: 3
  206: 1
- geranium: 11
+ geranium: 12
  150: 1
  orchis: 10
- belle: 1
+ belle: 2
  61: 1
  pansy: 5
- think: 35
+ think: 36
  37: 1
  passion: 12
  flower: 129
- faith: 9
- 89: 2
+ faith: 10
+ 89: 1
  peony: 6
- anger: 4
+ anger: 5
  85: 1
  periwinkle: 6
- tender: 16
- recollections: 3
+ tender: 17
+ recollections: 4
  43: 1
- pimpernel: 9
- weatherglass: 1
+ pimpernel: 8
+ weather-glass: 2
  133: 1
  pine: 13
- pity: 8
+ pity: 10
  248: 1
  pink: 18
- pure: 23
+ pure: 24
  91: 1
  poppy: 17
- consolation: 4
+ consolation: 5
  135: 1
  primrose: 16
- early: 19
+ early: 20
  20: 13
  red: 44
  77: 1
  reed: 3
- single: 9
- blessedness: 3
+ single: 11
+ blessedness: 4
  231: 1
  rosemary: 9
- remembrance: 5
+ remembrance: 6
  120: 1
  sage: 3
- domestic: 1
- virtues: 9
+ domestic: 2
+ virtues: 10
  251: 2
  scarlet: 13
- stupidity: 4
+ stupidity: 5
  147: 1
  sensitive: 5
- chastity: 6
+ chastity: 7
  92: 1
  15: 13
  starwort: 15
- american: 6
- welcome: 3
+ american: 7
+ welcome: 4
  202: 2
  st: 368
- johns: 5
+ johnï¿½s: 5
  wort: 5
- superstition: 7
+ superstition: 8
  181: 1
  stock: 7
- lasting: 4
+ lasting: 5
  145: 1
  strawberry: 10
- perfection: 8
+ perfection: 9
  102: 1
- sweetbrier: 2
+ sweet-brier: 2
  eglantine: 4
  45: 1
- sweetflagacorus: 1
+ sweet-flag--acorus: 1
  calamus: 3
- grace: 23
+ grace: 24
  172: 1
  sunflower: 12
- false: 7
+ false: 8
  104: 1
- thornapple: 7
- deceitful: 2
+ thorn-apple: 7
+ deceitful: 3
  158: 1
- thyme: 8
- activity: 4
+ thyme: 7
+ activity: 5
  94: 1
  tuberose: 5
- dangerous: 8
+ dangerous: 9
  152: 1
  tulip: 10
- declaration: 2
+ declaration: 3
  48: 1
  valerian: 6
  accommodating: 4
- disposition: 4
+ disposition: 5
  142: 1
  vervain: 7
- enchantment: 4
+ enchantment: 5
  184: 1
- worth: 5
+ worth: 6
  31: 8
- wallflower: 4
- fidelity: 5
+ wall-flower: 3
+ fidelity: 6
  51: 2
  white: 74
- waterlily: 6
- purity: 5
+ water-lily: 6
+ purity: 6
  70: 1
- be: 182
+ be: 181
  74: 1
  woodbine: 7
  honeysuckle: 5
  111: 1
  wormwood: 5
- absence: 7
+ absence: 8
  30: 12
  yellow: 49
- jealousy: 6
+ jealousy: 7
  75: 1
  yew: 11
  215: 1
@@ -582,8 +581,7 @@ the: 3148
  268: 1
  dial: 5
  293: 1
- _coquetrydesire: 1
- please_: 1
+ coquetry--desire: 1
  shrub: 9
  clothed: 3
  showy: 1
@@ -595,12 +593,12 @@ the: 3148
  imprudent: 3
  coquettish: 1
  female: 4
- who: 131
- though: 63
+ who: 129
+ though: 62
  shivering: 1
  cold: 41
  wears: 4
- her: 266
+ her: 267
  attire: 3
  depth: 4
  winter: 21
@@ -611,7 +609,7 @@ the: 3148
  gives: 8
  appearance: 12
  wood: 22
- nature: 40
+ nature: 39
  hide: 7
  deformity: 1
  encircled: 1
@@ -620,10 +618,10 @@ the: 3148
  terminating: 1
  tuft: 2
  these: 54
- give: 26
+ give: 25
  peculiar: 3
  offensive: 1
- smell: 9
+ smell: 8
  oftentimes: 3
  can: 75
  mark: 6
@@ -636,7 +634,7 @@ the: 3148
  heartless: 1
  fickle: 3
  swelled: 2
- selfconceit: 1
+ self-conceit: 1
  avoiding: 1
  alway: 1
  what: 77
@@ -645,47 +643,46 @@ the: 3148
  advises: 1
  flutters: 1
  butterfly: 3
- while: 62
- burns: 5
+ while: 61
+ burns: 14
  sun: 35
  nor: 63
  afterwards: 3
  missed: 1
  when: 208
  done: 12
- _w: 2
- c_: 2
+ w: 8
  clouds: 15
  turn: 21
  wind: 18
  about: 41
  keep: 18
- us: 54
+ us: 55
  suspense: 1
  doubt: 3
  yet: 85
  oft: 20
  perverse: 1
- womankind: 2
+ woman-kind: 1
  seen: 16
  scud: 1
  against: 9
- not: 219
- lady: 17
+ not: 218
+ lady: 16
  just: 12
  same: 15
  tell: 25
  aim: 3
- _swift_: 1
- thou: 132
+ swift: 8
+ thou: 134
  delightest: 1
- worlds: 5
+ worldï¿½s: 5
  gaze: 15
  crowned: 7
  gem: 7
- but: 227
+ but: 226
  thy: 131
- lovers: 7
+ loverï¿½s: 4
  smile: 24
  should: 35
  dearer: 2
@@ -693,7 +690,7 @@ the: 3148
  incense: 3
  prizest: 1
  them: 72
- gay: 24
+ gay: 25
  playful: 1
  tone: 3
  flattering: 3
@@ -702,17 +699,17 @@ the: 3148
  unknown: 10
  blame: 2
  fondest: 2
- _john: 6
- everett_: 2
+ john: 21
+ everett: 2
  know: 40
  celia: 1
- since: 18
+ since: 17
  art: 42
- so: 183
+ so: 182
  proud: 20
- twas: 20
+ ï¿½twas: 20
  gave: 10
- thee: 116
+ thee: 113
  renown: 2
  hadst: 1
  forgotten: 6
@@ -730,29 +727,28 @@ the: 3148
  power: 25
  none: 11
  thine: 27
- eyes: 44
+ eyes: 43
  sweets: 5
  graces: 4
  mine: 22
  star: 23
- shinst: 1
+ shinï¿½st: 1
  skies: 10
- then: 82
+ then: 81
  dart: 1
  borrowed: 2
  sphere: 5
  lightning: 8
- on: 257
+ on: 256
  him: 71
  fixed: 8
  there: 108
- _thomas: 2
- carew_: 2
- _hope_: 2
+ thomas: 7
+ carew: 3
  looked: 13
  herald: 3
  approach: 7
- flowerwreathed: 1
+ flower-wreathed: 1
  winds: 11
  howl: 2
  naked: 6
@@ -765,7 +761,7 @@ the: 3148
  musicians: 1
  silent: 12
  stern: 7
- winters: 10
+ winterï¿½s: 7
  icy: 2
  hand: 24
  chills: 1
@@ -775,24 +771,24 @@ the: 3148
  murmur: 4
  at: 152
  season: 8
- springs: 9
+ springs: 8
  up: 52
  amid: 14
  expands: 3
  blossoms: 27
  leads: 10
- thought: 39
+ thought: 34
  verdant: 4
- hours: 25
+ hours: 24
  come: 39
  sign: 2
  awakening: 1
- may: 99
+ may: 97
  aptly: 2
  considered: 10
  emblem: 55
  timid: 5
- child: 17
+ child: 16
  awakes: 2
  bedewed: 2
  tears: 25
@@ -800,9 +796,9 @@ the: 3148
  around: 27
  fragrance: 23
  mild: 4
- where: 114
+ where: 113
  rival: 2
- flowerets: 5
+ flowerets: 3
  bloom: 21
  bare: 12
  chilling: 2
@@ -829,30 +825,30 @@ the: 3148
  showers: 4
  bed: 10
  below: 10
- whereer: 6
+ whereï¿½er: 6
  find: 30
  gentle: 30
  still: 86
- sweet: 73
+ sweet: 69
  dear: 22
  cheerless: 2
  hour: 26
- sunbeams: 4
+ sunbeams: 3
  pale: 21
  felt: 16
  wintry: 5
  gale: 5
  wept: 5
  shrunk: 1
- _mary: 1
- robinson_: 2
+ mary: 12
+ robinson: 2
  one: 103
  accursed: 1
  fate: 12
  utterly: 1
  desolate: 2
  some: 79
- heart: 116
+ heart: 115
  responds: 2
  unto: 20
  own: 42
@@ -863,27 +859,31 @@ the: 3148
  quivering: 2
  strings: 4
  whispers: 3
- song: 13
+ song: 14
+ ï¿½where: 1
  hast: 14
  stayed: 1
- _longfellow_: 4
+ long?ï¿½: 1
+ longfellow: 4
  will: 79
  beam: 8
- sorrows: 11
+ sorrowï¿½s: 5
  night: 33
  phantoms: 3
  despair: 6
  flight: 3
- _anon_: 16
- call: 15
+ anon: 16
+ ï¿½why: 1
+ call: 13
  bright: 66
  christmas: 6
  came: 21
  before: 33
  did: 29
- aconite: 3
+ aconite.ï¿½: 1
+ aconite: 2
  neither: 6
- eer: 9
+ eï¿½er: 9
  within: 23
  garden: 14
  grows: 16
@@ -899,19 +899,19 @@ the: 3148
  won: 8
  wee: 5
  thing: 27
- young: 40
+ young: 47
  nursed: 3
  loved: 28
- told: 9
- how: 77
+ told: 8
+ how: 76
  always: 15
  blossomed: 2
  marked: 6
  trembling: 1
  stem: 9
  dainty: 7
- bell: 7
- oh: 56
+ bell: 6
+ oh: 54
  tenderly: 1
  enjoyed: 2
  faint: 7
@@ -924,14 +924,13 @@ the: 3148
  gold: 22
  merry: 10
  fill: 9
- _her_: 1
- gardens: 8
+ gardenï¿½s: 2
  small: 26
  domain: 2
  herself: 9
  earliest: 6
- she: 130
- others: 15
+ she: 129
+ others: 11
  behind: 11
  lo: 4
  above: 22
@@ -942,17 +941,17 @@ the: 3148
  hang: 4
  here: 37
  foam: 4
- stormblack: 1
+ storm-black: 1
  wave: 8
  pearls: 3
- ethiops: 1
+ ethiopï¿½s: 1
  ear: 17
- theyre: 4
+ theyï¿½re: 4
  crowding: 3
  thick: 3
  wealth: 18
  note: 6
- oer: 54
+ oï¿½er: 54
  woody: 4
  isle: 3
  lies: 8
@@ -961,10 +960,10 @@ the: 3148
  moat: 2
  under: 21
  tall: 10
- dark: 26
+ dark: 25
  crested: 2
  firs: 1
- snowdrops: 3
+ snowdrops: 2
  gloomy: 8
  lightness: 2
  clear: 13
@@ -982,7 +981,7 @@ the: 3148
  died: 11
  roses: 13
  cultured: 1
- ones: 9
+ ones: 7
  run: 8
  wild: 29
  fruits: 5
@@ -996,12 +995,12 @@ the: 3148
  borders: 2
  neat: 3
  trim: 1
- beings: 2
+ beings: 1
  tended: 1
- alls: 1
+ allï¿½s: 1
  drear: 3
  brave: 7
- een: 16
+ eï¿½en: 16
  laid: 8
  low: 14
  stately: 6
@@ -1015,17 +1014,18 @@ the: 3148
  into: 52
  lieth: 1
  shadowy: 4
- dream: 17
+ dream: 16
  groweth: 2
  plenteously: 1
  fragile: 3
+ snowdropï¿½s: 1
  human: 24
  pride: 21
  wouldst: 5
  list: 3
  tale: 10
- _louisa: 13
- twamley_: 13
+ louisa: 13
+ twamley: 13
  bowed: 4
  golden: 40
  anchor: 1
@@ -1033,9 +1033,9 @@ the: 3148
  watching: 5
  angry: 4
  flood: 2
- mid: 15
+ mid: 14
  dreariment: 1
- halfburied: 1
+ half-buried: 1
  lay: 25
  sleeping: 10
  frozen: 4
@@ -1064,14 +1064,20 @@ the: 3148
  watched: 5
  root: 5
  strike: 5
+ ï¿½i: 1
+ call,ï¿½: 1
+ ï¿½in: 1
  memory: 9
  birth: 6
  reverence: 6
  held: 7
+ me.ï¿½: 1
+ ï¿½and: 5
  ever: 59
  hidden: 6
- bowers: 6
- go: 23
+ bowers,ï¿½: 1
+ ï¿½it: 4
+ go: 22
  warn: 1
  away: 55
  sheeted: 2
@@ -1080,20 +1086,22 @@ the: 3148
  remain: 8
  scatter: 4
  wide: 20
- hill: 5
+ hill: 6
  plain: 8
  return: 7
  companion: 2
+ thee.ï¿½: 3
  stooped: 1
  kissed: 4
  sister: 7
+ ï¿½for: 2
  gone: 22
- im: 5
+ iï¿½m: 5
  left: 19
- alone: 35
+ alone: 34
  without: 24
  fix: 1
- twill: 1
+ ï¿½twill: 1
  cheer: 6
  many: 79
  lonely: 15
@@ -1102,14 +1110,13 @@ the: 3148
  those: 62
  sink: 4
  raised: 5
- theyll: 5
- look: 35
+ theyï¿½ll: 5
+ look: 34
  sadful: 1
  sing: 14
  bringeth: 1
- _miller_: 10
- _early: 1
- grief_: 1
+ spring.ï¿½: 1
+ miller: 13
  anciently: 2
  called: 14
  paralisos: 1
@@ -1119,23 +1126,23 @@ the: 3148
  metamorphosed: 1
  parents: 1
  favourite: 13
- poets: 12
+ poets: 7
  fairest: 8
  whilst: 4
- last: 26
+ last: 27
  live: 25
  fidele: 1
- ill: 27
+ iï¿½ll: 17
  sweeten: 1
- sad: 14
+ sad: 13
  shalt: 7
  lack: 1
- thats: 11
- _cymbeline_: 1
- natures: 13
+ thatï¿½s: 11
+ cymbeline: 1
+ natureï¿½s: 12
  meek: 5
- _balfour_: 2
- nay: 4
+ balfour: 2
+ nay: 3
  weep: 14
  shines: 5
  cloudless: 3
@@ -1147,21 +1154,20 @@ the: 3148
  companions: 2
  round: 32
  move: 9
- true: 30
+ true: 29
  friends: 18
  whose: 48
  looks: 17
  anxious: 5
  step: 7
  pursue: 6
- _commonplace: 1
+ common-place: 1
  book: 6
- poetry_: 1
  tenant: 1
  glade: 12
  virtue: 13
  shade: 10
- mayne_: 1
+ mayne: 1
  ask: 10
  send: 4
  firstling: 1
@@ -1175,7 +1181,7 @@ the: 3148
  show: 12
  green: 41
  sickly: 2
- too: 59
+ too: 58
  bending: 4
  break: 6
  must: 40
@@ -1193,41 +1199,40 @@ the: 3148
  dewy: 5
  gleam: 5
  very: 31
- primrosetufts: 1
+ primrose-tufts: 1
  beneath: 26
  spell: 14
  holy: 11
- preciousoh: 1
+ precious--oh: 1
  guard: 1
- well: 50
+ well: 44
  yes: 4
  stray: 3
- loves: 32
+ loves: 10
  sullying: 1
  world: 47
  brought: 12
  native: 20
- again: 40
+ again: 39
  sound: 13
  rustling: 2
- fathers: 8
+ fatherï¿½s: 5
  door: 3
  kindly: 10
  more: 84
- _mrs: 37
- hemans_: 4
- _indiscretion_: 1
+ mrs: 38
+ hemans: 5
  put: 7
  forth: 20
  breathes: 5
  flowering: 10
  frosts: 1
  often: 15
- deathchill: 1
+ death-chill: 1
  precocious: 1
  germs: 1
  fruit: 8
- times: 17
+ times: 15
  abundance: 3
  promise: 3
  fruitful: 1
@@ -1235,15 +1240,15 @@ the: 3148
  fabulous: 1
  account: 9
  origin: 11
- treedemophoon: 1
- son: 7
+ tree:--demophoon: 1
+ son: 6
  theseus: 1
- phædra: 1
+ phï¿½dra: 1
  returning: 3
  siege: 2
  troy: 3
  thrown: 6
- storm: 17
+ storm: 16
  shores: 1
  thrace: 1
  reigned: 1
@@ -1272,10 +1277,10 @@ the: 3148
  soon: 16
  returned: 2
  overwhelmed: 2
- he: 186
+ he: 182
  offered: 4
  sacrifice: 1
- seaside: 1
+ sea-side: 1
  appease: 2
  manes: 1
  instantly: 2
@@ -1286,19 +1291,18 @@ the: 3148
  tongue: 11
  deep: 39
  laborious: 1
- thoughts: 25
+ thoughts: 24
  drew: 8
  knew: 6
  might: 34
- beenah: 1
+ been,--ah: 1
  thrice: 3
  sager: 1
  says: 7
  alas: 6
  shows: 6
- _barry: 6
- cornwall_: 6
- _youth_: 1
+ barry: 6
+ cornwall: 6
  therefore: 7
  fit: 7
  variegated: 6
@@ -1306,8 +1310,7 @@ the: 3148
  principal: 5
  being: 17
  purple: 24
- _crocus: 9
- vernus_: 2
+ vernus: 3
  various: 9
  parts: 7
  england: 16
@@ -1315,17 +1318,16 @@ the: 3148
  country: 14
  learn: 5
  mr: 1
- mrs: 1
- howitt: 1
+ howitt: 4
  plentiful: 2
  nottingham: 1
- gleaming: 2
+ ï¿½gleaming: 1
  distance: 4
  perfect: 9
  tempting: 1
- hearts: 18
+ hearts: 14
  graver: 1
- gather: 12
+ gather.ï¿½: 1
  glorious: 7
  far: 36
  richer: 4
@@ -1336,20 +1338,21 @@ the: 3148
  two: 14
  spreading: 2
  field: 15
- bygone: 3
- childhoods: 3
+ by-gone: 2
+ childhoodï¿½s: 3
  thoughtless: 5
  laughter: 8
  marvelled: 1
  after: 18
  bring: 13
- firstborn: 3
+ springï¿½s: 1
+ first-born: 3
  waking: 2
  kindred: 5
  appear: 12
  usher: 1
- hopeinvested: 1
- youre: 2
+ hope-invested: 1
+ youï¿½re: 2
  glad: 4
  because: 19
  nose: 1
@@ -1364,14 +1367,15 @@ the: 3148
  rosy: 5
  maid: 9
  make: 34
+ oneï¿½s: 2
  cozy: 1
  fine: 9
- morrows: 2
- youll: 7
+ morrows: 1
+ youï¿½ll: 6
  listen: 4
  hear: 20
  speak: 6
- _my_: 2
+ sorrows: 6
  theirs: 4
  fed: 6
  less: 12
@@ -1382,7 +1386,7 @@ the: 3148
  sunshine: 10
  buxom: 1
  health: 2
- hue: 27
+ hue: 26
  wit: 4
  invention: 1
  new: 22
@@ -1390,7 +1394,7 @@ the: 3148
  vigour: 5
  born: 4
  easy: 3
- spirits: 16
+ spirits: 12
  slumbers: 1
  fly: 13
  morn: 12
@@ -1401,11 +1405,11 @@ the: 3148
  ills: 5
  care: 13
  beyond: 8
- today: 4
+ to-day: 3
  wait: 4
  ministers: 1
  black: 7
- misfortunes: 1
+ misfortuneï¿½s: 1
  baleful: 2
  train: 6
  ah: 15
@@ -1416,40 +1420,39 @@ the: 3148
  murderous: 1
  band: 4
  men: 44
- _grays: 1
+ grayï¿½s: 1
  eton: 1
- college_: 1
+ college: 3
  went: 18
  maying: 1
  poesy: 1
- _coleridge_: 2
- iceplant: 2
- _frigidity_: 1
+ coleridge: 2
+ ice-plant: 2
  canst: 4
  ray: 7
  impart: 4
  strangely: 2
  work: 7
  sculptured: 1
- friendships: 5
+ friendshipï¿½s: 5
  yields: 7
  declares: 1
  vain: 18
  destitute: 2
- _o: 2
- s: 2
- m: 4
- ordway_: 1
+ o: 16
+ s: 4
+ m: 9
+ ordway: 1
  pellucid: 2
  studs: 1
- iceflower: 1
+ ice-flower: 1
  gems: 6
  rimy: 1
  foliage: 7
  candied: 1
  stems: 3
- _darwin_: 2
- water: 16
+ darwin: 3
+ water: 15
  fluid: 1
  grow: 22
  solid: 1
@@ -1462,8 +1465,7 @@ the: 3148
  does: 15
  course: 7
  restrain: 1
- _cowley_: 1
- _ardent: 1
+ cowley: 1
  chosen: 8
  signify: 2
  glowing: 8
@@ -1479,25 +1481,24 @@ the: 3148
  selected: 4
  represent: 2
  full: 19
- flame: 15
+ flame: 14
  evening: 21
  spreads: 4
  robes: 1
  sits: 4
  blushing: 5
  arms: 8
- moons: 1
+ moonï¿½s: 1
  crescent: 1
- heavens: 8
+ heavenï¿½s: 6
  waveless: 1
  sea: 14
- stars: 17
+ stars: 16
  blessed: 8
- theei: 2
- _g: 2
- w: 6
- prentice_: 1
- thourt: 3
+ thee--i: 2
+ g: 3
+ prentice: 1
+ thouï¿½rt: 3
  forlorn: 2
  blackness: 2
  coming: 6
@@ -1511,38 +1512,38 @@ the: 3148
  soul: 39
  bade: 4
  flee: 1
- starwhen: 1
+ star--when: 1
  lone: 10
  wander: 5
  view: 10
  lamps: 2
  rays: 8
+ spiritï¿½s: 4
  nerved: 2
  anew: 4
  thus: 43
- thoust: 1
+ thouï¿½st: 1
  mix: 4
  cup: 11
  even: 26
- lifes: 13
+ lifeï¿½s: 13
  darkest: 5
- starwheneer: 1
+ star--wheneï¿½er: 1
  upward: 2
  turned: 5
  orbs: 2
  awe: 1
  celestial: 5
  blaze: 3
- seemst: 1
+ seemï¿½st: 1
  beautifully: 1
  almost: 6
  feel: 19
- were: 81
+ were: 78
  met: 4
  sight: 15
- _american: 1
- ladies: 5
- magazine_: 1
+ ladiesï¿½: 1
+ magazine: 1
  genius: 5
  dull: 12
  decay: 4
@@ -1553,24 +1554,26 @@ the: 3148
  change: 19
  estrange: 1
  taught: 8
- embury_: 6
+ embury: 6
  sick: 1
+ loveï¿½s: 22
  delusions: 1
  dreams: 7
  dreading: 1
  losses: 1
  makes: 12
  shadow: 13
+ gather: 11
  sadly: 5
  sees: 6
  countless: 4
  privations: 1
- farcoming: 1
- storms: 3
+ far-coming: 1
+ storms: 2
  shrinking: 3
  conjures: 1
- _simmss: 1
- poems_: 1
+ simmsï¿½s: 1
+ poems: 2
  rolling: 2
  wheel: 3
  hardest: 1
@@ -1581,7 +1584,7 @@ the: 3148
  firmest: 2
  flint: 3
  continuance: 2
- wear: 10
+ wear: 9
  dropping: 4
  entreaty: 1
  soften: 1
@@ -1594,8 +1597,7 @@ the: 3148
  bids: 2
  sigh: 14
  wail: 3
- _spenser_: 5
- _grief_: 2
+ spenser: 5
  attached: 3
  soil: 6
  feeble: 5
@@ -1610,7 +1612,7 @@ the: 3148
  bitterness: 4
  magnificent: 3
  monstrous: 2
- plants: 21
+ plants: 20
  barbarous: 3
  africa: 1
  rocks: 4
@@ -1635,30 +1637,30 @@ the: 3148
  end: 14
  treat: 1
  friend: 16
- _r: 2
- milnes_: 1
+ r: 4
+ milnes: 1
  silence: 7
  broken: 8
  vow: 3
  blighted: 1
- hopes: 13
+ hopes: 10
  wasted: 5
  forget: 19
- store: 4
+ store: 3
  sources: 1
  futurity: 1
  bear: 16
  folds: 2
  issue: 1
  streams: 13
- whateer: 2
- pastthe: 1
- pasti: 1
+ whateï¿½er: 2
+ past--the: 1
+ past--i: 1
  never: 50
- hale_: 9
+ hale: 9
  comfort: 4
- lets: 2
- talk: 9
+ letï¿½s: 2
+ talk: 8
  graves: 7
  worms: 2
  epitaphs: 1
@@ -1669,20 +1671,19 @@ the: 3148
  bosom: 16
  executors: 1
  wills: 1
- sofor: 1
+ so--for: 1
  bequeath: 2
  save: 12
  deposed: 1
  bodies: 1
- _shakspeare_: 39
- _absence_: 1
  bitterest: 1
  la: 2
  fontaine: 1
  worst: 2
  evils: 1
  breasts: 2
- divine: 7
+ ï¿½flame: 1
+ divineï¿½: 1
  agree: 1
  french: 8
  author: 2
@@ -1694,7 +1695,7 @@ the: 3148
  naught: 12
  else: 3
  yield: 7
- memorys: 2
+ memoryï¿½s: 2
  fondly: 4
  lead: 5
  meet: 16
@@ -1709,11 +1710,12 @@ the: 3148
  alloy: 1
  fervent: 1
  prayer: 2
+ ï¿½heavenï¿½s: 1
  choicest: 1
  blessings: 7
  rest: 20
- _miss: 13
- gould_: 2
+ miss: 14
+ gould: 2
  glintin: 1
  shine: 11
  wimplin: 1
@@ -1726,14 +1728,13 @@ the: 3148
  woods: 12
  vales: 6
  chide: 1
- elizas: 1
+ elizaï¿½s: 1
  gane: 1
- _j: 7
- h_: 4
- walls: 9
+ j: 10
+ walls: 8
  remains: 3
  feathers: 2
- crown_: 1
+ crown: 16
  dies: 7
  dying: 8
  proves: 2
@@ -1742,9 +1743,7 @@ the: 3148
  quick: 4
  motion: 3
  reflection: 2
- _suckling_: 1
- _modest: 2
- worth_: 1
+ suckling: 1
  theme: 3
  admiration: 3
  visitors: 1
@@ -1769,7 +1768,7 @@ the: 3148
  changed: 8
  diana: 1
  apollo: 5
- womans: 5
+ womanï¿½s: 5
  lifts: 2
  apart: 4
  sequestered: 2
@@ -1786,26 +1785,28 @@ the: 3148
  flown: 4
  bless: 4
  virtuous: 6
- _paulding_: 1
+ mind: 45
+ paulding: 1
  pansies: 3
  lilies: 5
  kingcups: 1
  daisies: 9
  praises: 2
- theres: 16
+ thereï¿½s: 15
  sets: 2
  primroses: 1
- violets: 6
- tis: 33
+ violets: 5
+ ï¿½tis: 32
  celandine: 1
  travel: 1
  finding: 3
  down: 40
+ heavens: 1
  mighty: 17
  rout: 2
  great: 38
  trow: 2
- flowerill: 1
+ flower!--iï¿½ll: 1
  stir: 1
  astronomer: 1
  withal: 1
@@ -1828,7 +1829,7 @@ the: 3148
  prodigal: 1
  telling: 1
  warmth: 5
- _wordsworth_: 9
+ wordsworth: 9
  regarded: 5
  occurs: 1
  sonnets: 1
@@ -1839,7 +1840,7 @@ the: 3148
  slide: 2
  greenwood: 2
  birchen: 1
- boughs: 4
+ boughs: 3
  hazles: 1
  mingle: 4
  boast: 3
@@ -1847,7 +1848,7 @@ the: 3148
  copse: 1
  forest: 18
  dingle: 1
- _scott_: 1
+ scott: 1
  hedge: 4
  safe: 4
  sheltered: 4
@@ -1858,9 +1859,10 @@ the: 3148
  goes: 2
  bank: 8
  biting: 1
- say: 12
+ say: 11
+ weï¿½re: 3
  lost: 12
- stay: 3
+ stay: 2
  sunny: 6
  alive: 1
  mossy: 4
@@ -1868,7 +1870,7 @@ the: 3148
  maids: 1
  matrons: 2
  rich: 14
- poor: 23
+ poor: 24
  sung: 1
  blind: 7
  sighs: 10
@@ -1886,28 +1888,30 @@ the: 3148
  stiff: 3
  trimmed: 1
  beds: 3
+ ill: 9
  heads: 6
- wed: 2
+ weï¿½d: 1
  rather: 4
  lives: 5
  begun: 2
  birken: 1
+ boughï¿½s: 1
  silvery: 3
  gleams: 4
  frail: 3
  between: 11
  plots: 1
- violetflowers: 1
- celandines: 1
+ violet-flowers: 1
+ celandineï¿½s: 1
  sparkling: 5
- purples: 1
+ purpleï¿½s: 1
  fold: 4
  regal: 2
  rare: 7
  crowds: 1
  unless: 3
  curious: 4
- hidingplace: 1
+ hiding-place: 1
  chance: 1
  led: 8
  pass: 6
@@ -1922,7 +1926,7 @@ the: 3148
  tearful: 2
  infancy: 1
  oppressed: 2
- downtrodden: 1
+ down-trodden: 1
  foot: 16
  spite: 3
  awaken: 4
@@ -1930,8 +1934,7 @@ the: 3148
  arm: 4
  vindicate: 1
  right: 8
- _mackellar_: 34
- _distrust_: 1
+ mackellar: 34
  believed: 3
  asp: 1
  species: 13
@@ -1953,8 +1956,8 @@ the: 3148
  fearing: 1
  attempt: 2
  doubted: 1
- istis: 1
- _bailey_: 5
+ is--ï¿½tis: 1
+ bailey: 5
  wooed: 2
  couldst: 3
  estranged: 4
@@ -1962,28 +1965,29 @@ the: 3148
  fear: 13
  bee: 9
  sting: 2
- _think: 1
- me_: 2
- heartsease: 3
+ heartï¿½s-ease: 3
  differing: 1
  diversity: 2
  colours: 7
  inferior: 2
  english: 13
  corruption: 2
- pensée: 1
+ pensï¿½e: 1
+ thoughts.ï¿½: 1
  arise: 2
  humming: 2
  air: 20
  singing: 6
- maybuds: 2
+ may-buds: 2
  rain: 11
  get: 8
  gathered: 6
  any: 22
  accent: 1
- tonight: 3
- gardengate: 1
+ ï¿½he: 4
+ thought.ï¿½: 4
+ to-night: 3
+ garden-gate: 1
  heard: 10
  ago: 4
  closed: 3
@@ -2002,7 +2006,8 @@ the: 3148
  happiness: 9
  troubles: 1
  fast: 8
- hims: 1
+ ï¿½no: 1
+ himï¿½s: 1
  age: 8
  somehow: 1
  different: 7
@@ -2014,26 +2019,25 @@ the: 3148
  wore: 2
  another: 19
  dye: 4
- youngwhen: 1
+ young--when: 1
  hung: 8
- ought: 1
+ ï¿½ought.ï¿½: 1
+ ï¿½the: 9
  glisten: 1
- dewdrops: 2
+ dew-drops: 2
  eve: 9
  whispering: 2
  breezes: 4
- _e: 1
- r: 2
+ e: 5
  names: 4
  appealing: 1
  lot: 13
  styled: 1
  sportive: 1
- fancys: 4
+ fancyï¿½s: 4
  better: 14
  feeling: 11
- _barton_: 3
- _innocence_: 1
+ barton: 4
  speaks: 8
  investments: 1
  figure: 3
@@ -2061,10 +2065,10 @@ the: 3148
  escape: 1
  transformed: 3
  latin: 2
- bellis: 1
- ossians: 1
- poems: 1
- newbornmost: 1
+ bellis: 3
+ dayï¿½s: 4
+ ossianï¿½s: 1
+ new-born--most: 1
  expressive: 2
  smitten: 2
  morning: 29
@@ -2072,26 +2076,28 @@ the: 3148
  cheerful: 5
  dews: 6
  opprest: 2
- sinkst: 1
+ sinkï¿½st: 1
  eased: 1
  careful: 2
  dwells: 7
  ways: 4
- e: 4
- hewitt_: 1
+ hewitt: 1
  prime: 6
  woodlands: 3
  strewn: 1
- springtime: 2
+ spring-time: 2
  everywhere: 6
  smiled: 4
  undisturbed: 1
- ringdoves: 1
+ ring-doves: 1
  cooed: 1
+ lovers: 3
  sang: 5
+ otherï¿½s: 4
  embowered: 3
  lanes: 3
  muffled: 1
+ sweet.ï¿½: 3
  unfettered: 1
  roamed: 1
  abroad: 4
@@ -2115,8 +2121,8 @@ the: 3148
  adorning: 3
  silver: 10
  chime: 2
- starclad: 1
- daisys: 1
+ star-clad: 1
+ daisyï¿½s: 1
  haunted: 2
  fairy: 10
  forms: 8
@@ -2129,7 +2135,7 @@ the: 3148
  danced: 3
  mazes: 2
  strewed: 2
- wells: 1
+ wells: 3
  trampled: 2
  spared: 2
  lit: 2
@@ -2154,14 +2160,14 @@ the: 3148
  shoals: 1
  bands: 2
  morrice: 1
- greetst: 1
+ greetï¿½st: 1
  traveller: 2
  lane: 1
  welcomed: 1
- countst: 1
+ countï¿½st: 1
  gain: 4
  daunted: 1
- carst: 1
+ carï¿½st: 1
  set: 18
  nooks: 1
  remote: 2
@@ -2172,47 +2178,44 @@ the: 3148
  paradise: 4
  cloud: 16
  seems: 13
- seraphs: 1
+ seraphï¿½s: 1
  car: 2
  unmingled: 2
- _p: 2
- benjamin_: 3
+ p: 3
+ benjamin: 5
  meade: 1
  downe: 1
- crown: 13
  faire: 2
  shepherd: 2
  graced: 1
  honour: 10
- _browne_: 1
+ browne: 1
  crest: 3
  welcomes: 1
  changing: 3
  weathers: 1
- _montgomery_: 5
+ montgomery: 5
  heaven: 33
  correct: 1
  wipe: 2
  whiter: 1
  concealed: 2
  stolen: 1
- gods: 12
+ gods: 11
  ends: 5
  shame: 6
  breaks: 1
  gratified: 2
  unexpecting: 1
  obscurity: 1
- fountain_: 2
- _tender: 1
- recollections_: 1
+ fountain: 5
  france: 11
  adopted: 2
- pleasures: 11
+ pleasures: 10
  sincere: 1
  probably: 2
  allusion: 3
- rousseaus: 1
+ rousseauï¿½s: 1
  recollection: 1
  madame: 4
  de: 9
@@ -2234,40 +2237,39 @@ the: 3148
  shivered: 1
  fragments: 1
  delivered: 1
- painit: 1
+ pain,--it: 1
  slave: 5
  pang: 2
  crush: 6
  contemn: 1
  torture: 2
  subdue: 1
- _byron_: 25
+ byron: 25
  lap: 2
- springtide: 1
+ spring-tide: 1
  flew: 1
  sprang: 5
- wells_: 2
  lesser: 7
- periwinkles: 1
+ periwinkleï¿½s: 1
  carpet: 3
- damascus: 2
+ damascusï¿½: 1
  loom: 2
  pranks: 2
  tissue: 2
  wove: 1
- milkwhite: 2
+ milk-white: 2
  swell: 3
  fruitage: 1
  weaves: 3
  coronets: 1
- threefold: 1
+ three-fold: 1
  sloping: 1
- _mant_: 3
+ mant: 5
  captivates: 1
- skyblue: 1
+ sky-blue: 1
  eaves: 2
- _hurdis_: 1
- remember: 9
+ hurdis: 1
+ remember: 8
  yea: 2
  table: 3
  trivial: 1
@@ -2290,8 +2292,8 @@ the: 3148
  kept: 5
  remembrancer: 2
  treasure: 7
- landon_: 7
- _poetry_: 1
+ landon: 7
+ poetï¿½s: 5
  games: 2
  prize: 8
  composition: 2
@@ -2305,25 +2307,26 @@ the: 3148
  bend: 5
  worship: 5
  woos: 1
+ divine: 6
  inspiration: 2
  line: 5
  muse: 3
  echo: 3
  rings: 3
- fametis: 1
+ fame--ï¿½tis: 1
  hears: 2
- lyres: 1
+ lyreï¿½s: 1
  sounds: 4
  rush: 5
  listens: 2
  sings: 4
  blended: 1
  smiles: 12
- _halleck_: 3
+ halleck: 3
  lyre: 4
  seraph: 1
  orbit: 1
- heavenattuned: 1
+ heaven-attuned: 1
  seraphic: 1
  fire: 14
  music: 12
@@ -2343,16 +2346,15 @@ the: 3148
  overrate: 1
  talents: 1
  state: 6
- idleall: 1
+ idle--all: 1
  neglect: 2
  stings: 2
  scorn: 8
- _first: 1
  freshness: 8
  verdure: 4
  flexibility: 1
  transitory: 2
- huesall: 1
+ hues,--all: 1
  remind: 2
  embellish: 1
  throw: 3
@@ -2376,22 +2378,21 @@ the: 3148
  opening: 8
  sweetest: 10
  dawn: 2
- _percival_: 12
+ percival: 12
  earnest: 3
  shy: 1
  purest: 5
  dearest: 2
  strong: 15
- norton_: 2
- theeand: 1
+ norton: 2
+ thee,--and: 1
  moon: 5
  calm: 14
  tune: 3
- _thou_: 3
- deemst: 2
- readst: 1
+ deemï¿½st: 2
+ readï¿½st: 1
  aright: 1
- lovesbut: 1
+ loves--but: 1
  knows: 1
  race: 11
  meets: 3
@@ -2401,12 +2402,11 @@ the: 3148
  breeze: 7
  isles: 2
  undiscovered: 1
- seas: 6
+ seas: 5
  plumage: 1
  wondering: 3
- wing: 6
- _moore_: 11
- _declaration: 1
+ wing: 5
+ moore: 12
  extraordinary: 1
  asia: 1
  holland: 1
@@ -2416,7 +2416,7 @@ the: 3148
  paid: 3
  specimens: 1
  want: 5
- useful: 5
+ useful: 4
  symbol: 6
  possesses: 2
  recommendation: 1
@@ -2425,40 +2425,36 @@ the: 3148
  expresses: 5
  idea: 5
  coal: 1
- floras: 4
+ floraï¿½s: 4
  brilliant: 5
  display: 6
  feign: 1
- simple: 12
+ simple: 11
  flushing: 1
  darkness: 7
- tulips: 3
+ tulipï¿½s: 2
  petals: 2
  weariness: 1
  wert: 6
  wholly: 2
- _h: 2
- j: 3
  wall: 4
  misfortune: 3
  caused: 1
  declare: 2
- you_: 1
  kneel: 3
  throne: 3
- beautys: 5
+ beautyï¿½s: 5
  enraptured: 1
- glorys: 2
- itselfay: 1
- heavenfor: 1
- _memorial_: 1
+ gloryï¿½s: 2
+ itself--ay: 1
+ heaven--for: 1
+ memorial: 1
  fain: 4
  choke: 1
  flutter: 1
  throat: 3
- _joanna: 3
- baillie_: 3
- _mourning_: 1
+ joanna: 3
+ baillie: 3
  ancients: 10
  consecrated: 5
  fates: 2
@@ -2470,18 +2466,18 @@ the: 3148
  custom: 3
  decoration: 1
  cemeteries: 2
- turks: 3
+ turks: 2
  ovid: 2
  cyparissos: 1
  especial: 1
- apollos: 2
+ apolloï¿½s: 2
  having: 5
  inadvertently: 1
  killed: 1
  stag: 1
  prayed: 3
  perpetual: 1
- thenceforward: 2
+ thenceforward: 1
  funerals: 3
  history: 6
  fated: 1
@@ -2491,56 +2487,55 @@ the: 3148
  seekest: 1
  weary: 9
  seeking: 1
- everi: 1
+ ever,--i: 1
  isadore: 2
  loyal: 1
  lovingly: 1
  trustingly: 1
  entwine: 1
- wifethy: 1
+ wife,--thy: 1
  stride: 1
  comfortless: 1
  wast: 2
  setting: 1
- _albert: 1
- pike_: 1
+ albert: 1
+ pike: 1
  stricken: 1
  holiest: 1
- heartwringing: 1
+ heart-wringing: 1
  anguish: 2
  prove: 3
  blasted: 3
  wo: 10
  trust: 5
- _fidelity: 1
- adversity_: 2
  derives: 2
  circumstance: 5
  growing: 4
  casements: 1
  battlements: 2
- castles: 2
- ruins: 6
+ castles: 1
+ ruins: 5
  abbeys: 1
  troubadors: 1
  accustomed: 1
  wearing: 1
  bouquet: 1
- wallflowers: 1
+ wall-flowers: 1
  proof: 3
  frowns: 2
- _adah_alas: 1
+ adah._--alas: 1
  sinnest: 1
  cain: 1
  impious: 1
- _cain_then: 1
+ cain._--then: 1
  leave: 16
- _adah_never: 1
+ adah._--never: 1
  god: 23
  enduring: 1
  lustre: 6
  given: 16
  solitary: 5
+ ruinï¿½s: 1
  lendest: 1
  haunts: 1
  mantlest: 1
@@ -2549,8 +2544,9 @@ the: 3148
  fillest: 1
  envious: 3
  rent: 2
- cankertooth: 1
- _moir_: 1
+ timeï¿½s: 2
+ canker-tooth: 1
+ moir: 1
  didst: 5
  deceive: 1
  woman: 9
@@ -2567,7 +2563,7 @@ the: 3148
  mute: 4
  belie: 1
  tremble: 3
- teardrops: 1
+ tear-drops: 1
  aerial: 2
  bow: 5
  blend: 3
@@ -2586,43 +2582,47 @@ the: 3148
  carried: 5
  wedding: 1
  festivities: 2
- newlymarried: 1
+ newly-married: 1
  couple: 3
  lighted: 1
  bridal: 3
  torches: 1
  sports: 5
- maydays: 1
+ may-days: 1
  frequently: 2
  proverb: 2
  inhabitants: 1
+ ï¿½store: 1
  haws: 1
  portend: 1
+ winters.ï¿½: 1
  quoted: 1
  particularly: 4
  fro: 6
- hawthorns: 2
+ hawthorns: 1
  walled: 1
- create: 1
- flowerspirit: 1
+ ï¿½new: 1
+ create.ï¿½: 1
+ flower-spirit: 1
  fetch: 1
- hawthornspray: 1
- hawthornhedges: 1
+ hawthorn-spray: 1
+ hawthorn-hedges: 1
  sprinkle: 1
- englands: 2
+ englandï¿½s: 2
  girded: 1
  steep: 1
- hillsides: 1
+ hill-sides: 1
  dip: 1
  dales: 1
- thickleaved: 2
+ thick-leaved: 2
  nook: 3
  pearly: 3
- shutup: 1
+ shut-up: 1
  eden: 1
- angels: 10
+ angels: 9
  hovered: 1
- longhaired: 1
+ bowers: 5
+ long-haired: 1
  knelt: 1
  filled: 1
  groups: 3
@@ -2633,15 +2633,18 @@ the: 3148
  starting: 2
  homeward: 3
  bringing: 4
+ ï¿½thereï¿½s: 1
+ may.ï¿½: 1
  unborn: 2
  link: 2
  rounded: 5
- sleep: 18
+ sleep: 17
  diffuse: 1
  watch: 10
  open: 15
  array: 5
  ranged: 2
+ may.ï¿½: 1
  shook: 6
  silvered: 2
  spray: 1
@@ -2649,45 +2652,46 @@ the: 3148
  pleases: 2
  comes: 12
  amiss: 1
- _rogers_: 1
- _drayton_: 1
+ rogers: 1
+ hawthornï¿½s: 1
+ drayton: 1
  pictured: 8
  dwell: 9
  tint: 4
  athwart: 1
- itwho: 1
+ it--who: 1
  yearnings: 1
  charm: 11
  bound: 2
  vision: 2
- _deserted: 1
  wounded: 5
  bereaved: 1
- amaranthus: 2
- reddishpurple: 1
+ amaranthus: 4
+ reddish-purple: 1
  suggests: 1
  shedding: 2
  planted: 5
- faintthe: 2
+ faint--the: 2
  whirl: 3
  pain: 13
  plod: 1
  depart: 4
  close: 13
+ beingï¿½s: 1
  troubled: 4
  buried: 5
  living: 11
- nofor: 1
- heros: 2
- hunt: 1
+ no--for: 1
+ heroï¿½s: 2
+ hunt: 2
  quarry: 1
  mansion: 1
  unheeded: 1
  unheeding: 1
  cherish: 4
- warriors: 4
+ warriorï¿½s: 4
  sake: 1
- _campbell_: 3
+ campbell: 3
  settled: 4
  inward: 3
  unquiet: 1
@@ -2695,7 +2699,6 @@ the: 3148
  lid: 2
  charged: 1
  unshed: 1
- _love_: 1
  venus: 5
  rome: 9
  temple: 5
@@ -2712,15 +2715,17 @@ the: 3148
  excluded: 1
  permitted: 1
  excludes: 1
+ ladies: 4
  modern: 3
  preferring: 3
  odour: 3
  fragrant: 8
  essences: 1
- nichols_: 1
+ nichols: 1
  harmony: 5
  likely: 1
  composed: 1
+ starsï¿½: 1
  consent: 1
  join: 1
  sympathy: 3
@@ -2737,10 +2742,10 @@ the: 3148
  groans: 1
  nightly: 1
  daily: 5
- heartsore: 1
+ heart-sore: 1
  brow: 16
  avow: 1
- wiffen_: 1
+ wiffen: 1
  soothe: 3
  centred: 1
  consuming: 4
@@ -2749,7 +2754,6 @@ the: 3148
  inhabits: 1
  finest: 1
  wits: 1
- _modesty_: 1
  simplicity: 4
  retirement: 1
  adds: 1
@@ -2763,53 +2767,53 @@ the: 3148
  guile: 1
  unpretending: 1
  daffodillies: 1
- niceleaved: 1
+ nice-leaved: 1
  shading: 2
  detected: 1
- greentipt: 1
- _hunt_: 1
+ green-tipt: 1
  din: 2
  city: 3
  disturbed: 1
  spirit: 22
  cot: 6
- lilys: 2
+ lilyï¿½s: 2
  misty: 2
  sent: 8
  floating: 7
- snowwhite: 2
- _constancy_: 2
+ snow-white: 2
  mentioned: 2
  several: 3
  varieties: 3
  america: 10
  scotland: 2
+ ï¿½blue: 1
+ bellï¿½: 1
  celebrated: 5
  blush: 5
- windflowers: 1
+ wind-flowers: 1
  wet: 5
- hyacinths: 2
+ hyacinthï¿½s: 2
  elm: 1
  brooding: 1
- plovers: 1
+ ploverï¿½s: 1
  melts: 3
  mist: 2
- mountains: 12
+ mountains: 10
  kindled: 1
  brightest: 7
- _elliott_: 1
+ elliott: 1
  weather: 6
  oppression: 1
  sickness: 2
  links: 1
  chain: 9
- shell: 4
- neer: 15
- howeer: 1
+ sheï¿½ll: 1
+ neï¿½er: 15
+ howeï¿½er: 1
  waver: 1
  believe: 4
- itshe: 1
- osgood_: 6
+ it,--she: 1
+ osgood: 6
  moorland: 2
  lea: 4
  airily: 1
@@ -2831,9 +2835,10 @@ the: 3148
  storehouse: 1
  gathers: 1
  nod: 1
- highno: 1
+ high--no: 1
  vale: 5
  tremulous: 2
+ castleï¿½s: 1
  dizziest: 1
  tower: 3
  laughingly: 1
@@ -2843,10 +2848,11 @@ the: 3148
  cragged: 1
  mountain: 15
  ruddy: 3
+ seaï¿½s: 1
  climbing: 3
  couch: 5
  lights: 4
- bluebells: 1
+ bluebellï¿½s: 1
  crowning: 1
  azure: 2
  decking: 1
@@ -2858,24 +2864,21 @@ the: 3148
  laughing: 6
  livelong: 2
  chiming: 1
- lullaby: 5
+ lullaby: 4
  darlings: 1
  plunge: 1
- forestare: 1
- highroadwell: 1
+ forest--are: 1
+ high-road--weï¿½ll: 1
  bluebell: 2
- wi: 8
+ wiï¿½: 8
  unchanging: 1
- _burns_: 9
- _a: 2
- belle_: 1
  except: 5
  chalky: 3
  spider: 2
  gained: 1
  resemblance: 3
  large: 15
- fatbodied: 1
+ fat-bodied: 1
  spiders: 1
  singular: 3
  markings: 1
@@ -2893,29 +2896,28 @@ the: 3148
  gayly: 2
  spotted: 2
  ornamented: 1
- helmetlike: 1
+ helmet-like: 1
  appendage: 1
  military: 1
  bishop: 48
- mant: 2
  alludes: 1
  boots: 1
- thickmantled: 1
+ thick-mantled: 1
  leas: 1
  traverse: 1
  boon: 1
  grant: 1
  crop: 1
- insectseeming: 1
+ insect-seeming: 1
  vegetable: 1
- nigh: 5
+ nigh: 4
  kin: 2
- longhorned: 1
- brother: 4
+ long-horned: 1
+ brother: 3
  scenting: 1
  satyr: 1
- kent: 4
- goatlike: 1
+ kent: 5
+ goat-like: 1
  scent: 8
  wonder: 6
  cheek: 14
@@ -2926,14 +2928,14 @@ the: 3148
  madam: 2
  gazing: 2
  shining: 4
- mirror: 4
+ mirror: 5
  getting: 1
  adore: 1
  draw: 4
  ringlets: 2
- godand: 1
- barrett_: 2
- _stoicism_: 1
+ wed: 1
+ god,--and: 1
+ barrett: 2
  formed: 5
  indigenous: 3
  hills: 5
@@ -2960,10 +2962,10 @@ the: 3148
  disappeared: 1
  spread: 13
  agriculture: 1
- boxhill: 1
+ box-hill: 1
  conical: 1
  elevation: 2
- boxtrees: 2
+ box-trees: 2
  boxley: 1
  boxwell: 1
  gloucestershire: 1
@@ -2976,7 +2978,7 @@ the: 3148
  timber: 2
  sold: 2
  weight: 6
- smooth: 11
+ smooth: 10
  apt: 2
  warp: 1
  adapted: 1
@@ -2991,49 +2993,51 @@ the: 3148
  maker: 1
  comb: 1
  pipe: 1
- flutemaker: 1
+ flute-maker: 1
  inlayer: 1
- cabinetmaker: 1
+ cabinet-maker: 1
  wheels: 3
  sheaves: 1
  pins: 2
  pegs: 1
- musical: 2
+ musical: 1
  instruments: 2
- nutcrackers: 1
- buttonmoulds: 1
- weavers: 1
+ nut-crackers: 1
+ button-moulds: 1
+ weaversï¿½: 1
  shuttles: 1
- hollarsticks: 1
- bumpsticks: 1
+ hollar-sticks: 1
+ bump-sticks: 1
  dressers: 1
  shoemaker: 1
  rulers: 1
- rollingpins: 1
+ rolling-pins: 1
  pestles: 1
- mallballs: 1
+ mall-balls: 1
  beetles: 2
  tops: 2
  chessmen: 1
  tables: 2
  screws: 1
  bobbins: 1
- bonelace: 1
+ bone-lace: 1
  spoons: 1
- knifehandles: 1
- combs: 2
+ knife-handles: 1
+ combs.ï¿½: 1
  engravings: 1
- woodcuts: 1
+ wood-cuts: 1
  purpose: 3
  portion: 2
  levant: 1
- boxwood: 1
+ combs: 1
+ box-wood: 1
  mouth: 3
+ gardens: 6
  clipped: 2
  mention: 1
  cut: 6
  ranked: 1
- next: 7
+ next: 6
  capabilities: 1
  artificial: 1
  grotesque: 1
@@ -3043,7 +3047,7 @@ the: 3148
  preserved: 2
  vestiges: 1
  former: 9
- gardenglory: 1
+ garden-glory: 1
  remaining: 1
  dwarf: 4
  kind: 14
@@ -3062,7 +3066,6 @@ the: 3148
  flowerless: 1
  brighter: 5
  contrast: 3
- _selflove_: 1
  poetic: 3
  largest: 1
  distinguished: 5
@@ -3080,19 +3083,18 @@ the: 3148
  nymph: 4
  enamoured: 3
  beheld: 5
- fountain: 3
  pined: 4
  consequence: 2
  wandered: 2
  floats: 1
  host: 4
- lake: 7
+ lake: 6
  fluttering: 2
  continuous: 1
  twinkle: 2
  milky: 2
  stretched: 3
- neverending: 1
+ never-ending: 1
  margin: 3
  bay: 3
  ten: 6
@@ -3104,8 +3106,8 @@ the: 3148
  outdid: 1
  glee: 4
  joyful: 1
- gazedand: 1
- gazedbut: 1
+ gazed--and: 1
+ gazed--but: 1
  mood: 4
  flash: 2
  dances: 1
@@ -3113,7 +3115,7 @@ the: 3148
  obeyed: 1
  strictly: 1
  mother: 15
- _self_: 1
+ self: 4
  reproach: 1
  darling: 1
  spare: 4
@@ -3123,10 +3125,11 @@ the: 3148
  blown: 3
  nymphs: 1
  pluck: 2
+ ï¿½go: 1
  fool: 5
- _lord: 1
- thurlow_: 1
- _majesty_: 1
+ talk.ï¿½: 1
+ lord: 10
+ thurlow: 1
  height: 10
  command: 3
  jews: 1
@@ -3140,9 +3143,9 @@ the: 3148
  apparel: 1
  mythology: 2
  originally: 1
- orangecoloured: 1
+ orange-coloured: 1
  produced: 2
- circumstancejupiter: 1
+ circumstance:--jupiter: 1
  wishing: 1
  render: 3
  hercules: 3
@@ -3164,91 +3167,87 @@ the: 3148
  jewel: 2
  pearl: 3
  flows: 5
- rockplanted: 1
+ rock-planted: 1
  hither: 2
- miss: 1
  seek: 13
- _m: 5
- jewsbury_: 1
+ jewsbury: 1
  arrayed: 4
- liliesand: 1
+ lilies--and: 1
  painted: 2
  populace: 1
- _young_: 8
- wandlike: 1
+ wand-like: 1
  lifted: 2
- mœnad: 1
- radiantcoloured: 1
+ mï¿½nad: 1
+ radiant-coloured: 1
  fiery: 3
- _shelley_: 4
- hair: 13
+ shelley: 4
+ hair: 12
  clustered: 3
  intelligence: 3
- eyebrows: 2
+ eyebrowï¿½s: 2
  shape: 6
  mounting: 3
  transparent: 3
  veins: 3
  sooth: 5
  stature: 2
- talli: 1
+ tall,--i: 1
  dumpy: 1
  whatever: 4
  admire: 4
  secret: 6
  talks: 2
  proudest: 1
- _addison_: 2
- _confession: 1
+ addison: 2
  exquisitely: 1
  fancifully: 1
  accounted: 2
- rosetree: 1
+ rose-tree: 1
  charge: 3
  bathe: 1
  awaking: 2
  repose: 9
  whispered: 2
- o: 22
+ ï¿½o: 1
  granted: 1
  deepening: 3
- bestow: 2
+ ï¿½on: 1
+ bestow.ï¿½: 1
  paused: 1
- momentoer: 1
+ moment--oï¿½er: 1
  veil: 4
  robed: 1
  simplest: 1
  exceed: 1
  rob: 2
- auroras: 1
+ auroraï¿½s: 1
  locks: 2
  speaking: 1
  becomes: 4
- _token_: 1
  disclose: 3
  reveal: 1
  confiding: 4
  receives: 2
- _token: 2
- 1830_: 1
- _purity_: 1
+ 1830: 1
  reigns: 1
  sole: 3
  sovereign: 2
  egyptians: 1
  indians: 2
- worshippedthe: 1
+ worshipped--the: 1
  sacred: 10
  superstitious: 1
  creed: 1
  mingled: 2
+ ï¿½lady: 2
+ lake,ï¿½: 1
  resting: 2
  velvet: 3
  depths: 3
- skyreflecting: 1
+ sky-reflecting: 1
  realms: 3
  attendant: 1
- waternymphs: 1
+ water-nymphs: 1
  rocking: 1
  ripples: 1
  dreamy: 1
@@ -3265,54 +3264,53 @@ the: 3148
  endymion: 1
  gentleness: 2
  shouldst: 1
- nights: 7
+ nightï¿½s: 3
  quietness: 1
- _willis_: 11
- rivers: 7
+ willis: 11
+ riverï¿½s: 2
  rim: 2
  wondrous: 5
  broad: 11
  afloat: 2
  capacious: 1
- fairyboat: 1
+ fairy-boat: 1
  swan: 1
  ride: 3
  glittering: 7
  tide: 7
- dragonfly: 1
+ dragon-fly: 1
  gallantly: 1
  stays: 2
  sip: 3
- goblets: 1
+ gobletï¿½s: 1
  lip: 5
  enwreathed: 2
  bossed: 1
- sisterbuds: 1
+ sister-buds: 1
  unfold: 7
  shouldered: 1
  flowery: 5
  amazement: 1
- vineclad: 1
+ vine-clad: 1
  casement: 2
  typha: 1
  bur: 1
  willow: 2
  herb: 8
- cotton: 2
+ cotton: 3
  seed: 3
  arrow: 1
  jet: 1
- waterviolet: 1
+ water-violet: 1
  plumy: 1
  stilly: 3
- marblelike: 1
- howitt_: 2
+ marble-like: 1
  conventional: 1
  distress: 1
  properties: 3
  termed: 2
  calends: 1
- months: 3
+ months: 2
  three: 4
  afternoon: 2
  follow: 5
@@ -3330,16 +3328,16 @@ the: 3148
  events: 1
  flaunting: 1
  marshy: 1
- minor: 1
+ minor: 4
  disks: 1
- suns: 5
+ suns: 4
  brightness: 4
  afresh: 1
  starry: 6
  marigolds: 2
  moisture: 2
  lids: 2
- _keats_: 2
+ keats: 2
  serious: 2
  musing: 3
  behold: 7
@@ -3347,16 +3345,16 @@ the: 3148
  obsequious: 1
  duly: 1
  displays: 4
- phœbus: 3
+ phï¿½bus: 2
  observes: 2
  walk: 3
  towards: 3
  declines: 1
  droops: 1
  mourns: 2
- twere: 5
+ ï¿½twere: 5
  returns: 1
- _withers_: 1
+ withers: 2
  need: 6
  dropped: 1
  enough: 8
@@ -3372,8 +3370,6 @@ the: 3148
  deferred: 1
  loses: 2
  keeps: 4
- _i: 4
- single_: 1
  uneasy: 2
  comely: 1
  foul: 3
@@ -3384,111 +3380,115 @@ the: 3148
  squandering: 1
  staid: 1
  married: 2
- _cotton_: 1
  badge: 1
  york: 3
  war: 8
- newmarried: 2
+ new-married: 2
  procession: 2
  corybantes: 1
  cybele: 1
  protectress: 1
  cities: 1
  pelted: 1
- _jealousy_: 1
  pfeffel: 1
  german: 3
  pleasingly: 1
  envy: 6
- rosebud: 3
+ rose-bud: 2
  reared: 5
  peevishly: 1
  flora: 3
- sisters: 1
+ ï¿½look: 1
+ sisterï¿½s: 1
+ too.ï¿½: 1
+ ï¿½nay: 1
+ child,ï¿½: 1
  reply: 1
+ ï¿½be: 1
  thankful: 2
  gifts: 4
  deemed: 3
  befitting: 1
  dispense: 1
  dower: 1
- persuasions: 1
+ innocence.ï¿½: 1
+ persuasionï¿½s: 1
  sway: 4
  scares: 1
  gentler: 1
  guest: 5
  grumbled: 1
  complained: 1
- mothers: 11
+ motherï¿½s: 11
  bounties: 2
  disdained: 1
+ ï¿½well: 1
+ then,ï¿½: 1
  angered: 1
- floratake: 1
+ flora--ï¿½takeï¿½: 1
  breathed: 4
  spake: 4
- henceforth: 2
+ ï¿½henceforth: 1
  vest: 1
  drest: 2
  suits: 1
- designed: 3
+ designed!ï¿½: 1
  borne: 4
  evidence: 1
- envys: 2
+ envyï¿½s: 2
  leaning: 2
- cheekis: 1
+ cheek?--is: 1
  meeting: 1
  noses: 1
  kissing: 1
  inside: 1
- lipstopping: 1
+ lip?--stopping: 1
  career: 2
- sigha: 1
+ sigh?--(a: 1
  infallible: 1
  breaking: 4
- honestyhorsing: 1
+ honesty:)--horsing: 1
  skulking: 1
- cornerswishing: 1
+ corners?--wishing: 1
  clocks: 1
- swift: 7
- minutesnoon: 1
+ minutes?--noon: 1
  midnight: 3
  pin: 1
  web: 1
- theirstheirs: 1
- wickedis: 1
+ theirs,--theirs: 1
+ wicked?--is: 1
  fiend: 1
  temper: 5
- antidote: 3
+ antidote: 2
  antimony: 1
  infectious: 1
  marriage: 2
  poisons: 1
- _davenport_: 1
+ davenport: 1
  bane: 7
  invader: 1
- bosoms: 4
+ bosoms: 2
  rancour: 1
  poison: 3
  softness: 1
- _rowe_: 1
+ natures: 1
+ rowe: 1
  unconscious: 2
  drearily: 1
  sicken: 1
  fade: 5
- neath: 3
- jealousys: 1
+ ï¿½neath: 3
+ jealousyï¿½s: 1
  upas: 1
- _tupper_: 2
- _beauty: 1
+ tupper: 2
  colour: 9
  hastening: 1
- adonis: 6
+ adonis: 7
  pierced: 2
- thorn: 5
+ thorn: 4
  blood: 10
- _herrick_: 1
- miller: 3
- basketmaker: 2
+ herrick: 1
+ ï¿½basket-makerï¿½: 2
  drawing: 1
  toward: 3
  decline: 3
@@ -3498,8 +3498,8 @@ the: 3148
  summit: 4
  pile: 6
  towered: 1
- godhaunted: 1
- cloudcapt: 1
+ god-haunted: 1
+ cloud-capt: 1
  olympus: 6
  rising: 5
  shoulder: 1
@@ -3529,7 +3529,7 @@ the: 3148
  hands: 5
  sobbing: 1
  body: 3
- halfhidden: 1
+ half-hidden: 1
  bent: 4
  stiffened: 2
  bulk: 1
@@ -3546,10 +3546,10 @@ the: 3148
  sharp: 3
  sunset: 11
  comforter: 1
- farseeing: 1
+ far-seeing: 1
  jove: 2
  listlessly: 1
- nectarcup: 2
+ nectar-cup: 2
  circle: 1
  recounting: 1
  deeds: 10
@@ -3563,7 +3563,7 @@ the: 3148
  hovering: 2
  weeping: 6
  waft: 2
- lightwinged: 1
+ light-winged: 1
  summons: 1
  charioteer: 1
  arrows: 3
@@ -3579,11 +3579,11 @@ the: 3148
  dreaded: 1
  bolts: 1
  thunderer: 2
- earthshaking: 1
+ earth-shaking: 1
  continued: 1
  savage: 2
  notice: 1
- backkneed: 1
+ back-kneed: 1
  satyrs: 1
  peered: 1
  unrobed: 1
@@ -3591,13 +3591,13 @@ the: 3148
  recess: 1
  underwood: 1
  trunks: 2
- stormtortured: 1
+ storm-tortured: 1
  flashed: 2
  molten: 1
  gnarled: 2
  issued: 1
- redhot: 1
- cavernlike: 1
+ red-hot: 1
+ cavern-like: 1
  furnace: 1
  glare: 1
  blackened: 1
@@ -3613,7 +3613,7 @@ the: 3148
  assumed: 1
  heightened: 1
  noise: 2
- deadlytusked: 1
+ deadly-tusked: 1
  snorting: 1
  thundering: 1
  thicket: 1
@@ -3626,7 +3626,7 @@ the: 3148
  mistaking: 1
  blazing: 1
  devouring: 2
- lovershe: 1
+ lover,--she: 1
  chilly: 1
  colder: 2
  pressed: 3
@@ -3636,7 +3636,7 @@ the: 3148
  arose: 2
  subsided: 1
  blinding: 1
- blueveined: 1
+ blue-veined: 1
  overhung: 1
  clouded: 3
  swollen: 1
@@ -3651,17 +3651,19 @@ the: 3148
  clotted: 1
  softened: 1
  yielding: 3
- took: 3
+ ï¿½she: 1
+ took: 2
  heavy: 10
  woful: 1
+ told.ï¿½: 1
  complain: 2
- beforeto: 1
+ before--to: 1
  back: 15
  indignantly: 1
  advances: 1
  manliness: 2
  abashed: 2
- boarspear: 1
+ boar-spear: 1
  studded: 1
  bridle: 1
  courser: 1
@@ -3683,11 +3685,13 @@ the: 3148
  whenever: 2
  attempted: 3
  press: 5
+ ï¿½while: 1
  appeared: 1
  pretty: 3
  dimple: 1
  hollows: 1
  slain: 1
+ simple.ï¿½: 1
  attitude: 1
  untwined: 1
  embrace: 2
@@ -3704,6 +3708,7 @@ the: 3148
  panting: 1
  fruitless: 1
  kneeling: 1
+ ï¿½took: 1
  gently: 2
  prisoned: 1
  jail: 1
@@ -3715,15 +3720,17 @@ the: 3148
  wilful: 2
  unwilling: 1
  showed: 2
- abilling: 1
+ a-billing.ï¿½: 1
  imagined: 1
  moved: 4
+ ï¿½give: 1
  dost: 8
- cheekhis: 1
+ it?ï¿½: 1
+ cheek--his: 1
  feigned: 1
  pulse: 1
  endeavoured: 1
- hundred: 2
+ hundred: 1
  endearments: 1
  expressions: 1
  restore: 3
@@ -3736,64 +3743,67 @@ the: 3148
  resistance: 2
  broke: 4
  darting: 1
- lawn: 1
+ ï¿½dark: 1
+ lawn,ï¿½: 1
  seated: 2
  picture: 5
  pressure: 1
  inanimate: 1
- dearlyloved: 1
+ dearly-loved: 1
+ ï¿½hopes: 1
  akin: 1
+ loveï¿½: 1
  darkened: 2
  extinguished: 2
  burst: 2
  loud: 4
  wailing: 2
  lamentation: 1
- everopen: 1
+ ever-open: 1
  moment: 7
  dashed: 1
  uplifting: 1
  hurrying: 3
- mountainsummits: 1
+ mountain-summits: 1
  sloped: 1
- forestof: 1
+ forest--of: 1
  goddesses: 1
  passing: 6
- airof: 1
+ air--of: 1
  chariots: 1
  whistling: 1
  cleft: 1
  rapid: 3
- wayand: 1
+ way--and: 1
  flapping: 1
  divinity: 3
  ominously: 1
- bloodred: 1
+ blood-red: 1
  glared: 2
  approaching: 2
- twilightfor: 1
+ twilight,--for: 1
  stamped: 2
  jarred: 1
  base: 11
  moments: 3
- desolatewhere: 1
+ desolate,--where: 1
  level: 2
  lines: 2
  assembled: 1
  hover: 1
  bleeding: 1
- headwan: 1
- speechlesswas: 1
+ head,--wan: 1
+ speechless,--was: 1
  wafted: 1
- silentwinged: 1
- mornings: 2
+ silent-winged: 1
+ morningï¿½s: 1
  glades: 2
  fallen: 7
  sprung: 2
  drop: 5
- deathwound: 2
+ death-wound: 2
  beareth: 1
- appleblossoms: 1
+ apple-blossoms: 1
  clutched: 1
  agony: 2
  stain: 6
@@ -3804,14 +3814,14 @@ the: 3148
  dedicated: 2
  source: 4
  erst: 1
- edens: 1
+ edenï¿½s: 1
  blissful: 1
  surveyed: 3
  beamed: 1
  vermeil: 1
- _carey_: 1
+ carey: 1
  exaggerated: 1
- redhued: 1
+ red-hued: 1
  unpoetical: 1
  interpreter: 1
  mingles: 2
@@ -3843,8 +3853,7 @@ the: 3148
  add: 4
  richness: 1
  habit: 2
- _massinger_: 5
- _anger_: 1
+ massinger: 5
  double: 5
  presents: 4
  superb: 2
@@ -3858,16 +3867,16 @@ the: 3148
  wildest: 1
  darken: 1
  rapture: 1
+ bosomï¿½s: 2
  blackest: 1
  lashed: 2
  fury: 2
  mingling: 1
  serenity: 1
- angers: 1
+ angerï¿½s: 1
  stormy: 5
- eastburne_: 1
- thunders: 1
- _cruelty_: 1
+ eastburne: 1
+ thunderï¿½s: 1
  search: 4
  unrelenting: 1
  punishment: 1
@@ -3895,27 +3904,29 @@ the: 3148
  misery: 2
  already: 1
  weighs: 1
- mens: 2
- fortunes: 4
- _daniel_: 3
- hes: 1
+ menï¿½s: 2
+ fortunes: 2
+ daniel: 3
+ heï¿½s: 1
  accurst: 1
  healing: 4
  sinner: 4
  sins: 1
  brood: 1
- stranger: 3
- earths: 4
- beautyhuman: 1
- _dana_: 2
- _desertion_: 1
- maidens: 4
+ stranger: 2
+ earthï¿½s: 4
+ beauty--human: 1
+ dana: 2
+ maidenï¿½s: 1
+ tulips: 1
  cull: 1
+ columbine?ï¿½: 1
  examine: 1
+ floweretï¿½s: 2
  read: 16
  something: 3
  curl: 2
- petaldepth: 1
+ petal--depth: 1
  claims: 2
  semblance: 1
  modelled: 1
@@ -3925,14 +3936,14 @@ the: 3148
  recall: 3
  olden: 1
  reigning: 1
- wisdomwritten: 1
- follys: 3
+ wisdom-written: 1
+ follyï¿½s: 3
  universal: 2
  type: 1
  tend: 1
  both: 15
  twine: 4
- doneoh: 1
+ done--oh: 1
  sure: 8
  follies: 2
  loveth: 1
@@ -3940,20 +3951,19 @@ the: 3148
  philosophy: 2
  belong: 2
  intertwine: 1
- notfor: 1
+ not;--for: 1
  oracles: 1
  scarce: 7
  weave: 1
  armful: 1
  choosing: 1
- blooddipped: 1
+ blood-dipped: 1
  devastating: 1
  powers: 4
  warrior: 2
  conqueror: 2
  chief: 3
  dwelleth: 3
- _faith_: 1
  representation: 1
  thorns: 3
  scourge: 1
@@ -3965,19 +3975,19 @@ the: 3148
  hence: 5
  signification: 3
  consecrate: 1
- salems: 1
+ salemï¿½s: 1
  gracing: 1
  linked: 1
  takes: 5
- sufferings: 1
+ sufferingï¿½s: 1
  fiercest: 1
  noblest: 2
- themeimperial: 1
+ theme--imperial: 1
  impulse: 1
  conferred: 1
- superstitions: 1
+ superstitionï¿½s: 1
  freely: 3
- spirittouching: 1
+ spirit-touching: 1
  claim: 1
  builds: 2
  bridge: 1
@@ -3996,7 +4006,7 @@ the: 3148
  infinite: 1
  thence: 4
  oakes: 1
- smith_: 1
+ smith: 1
  prevail: 2
  disturb: 3
  unaltered: 1
@@ -4006,8 +4016,7 @@ the: 3148
  blessing: 1
  address: 1
  due: 2
- _lovibond_: 1
- _pure: 1
+ lovibond: 1
  primitive: 1
  scented: 4
  cultivation: 3
@@ -4022,10 +4031,11 @@ the: 3148
  resembling: 2
  growth: 4
  larger: 2
- clovegilly: 1
+ clove-gilly: 1
  cloves: 1
  concealment: 1
  worm: 2
+ iï¿½: 3
  feed: 3
  damask: 1
  patience: 4
@@ -4036,11 +4046,8 @@ the: 3148
  seeming: 4
  shared: 1
  dread: 1
- _l: 1
- l_: 1
- die: 20
+ die: 19
  mockeries: 1
- _chastity_: 1
  motions: 3
  imitating: 1
  sensibility: 1
@@ -4059,9 +4066,10 @@ the: 3148
  lackey: 1
  sin: 2
  guilt: 1
- _milton_: 7
+ milton: 8
+ mountainï¿½s: 2
  subtile: 2
- shes: 5
+ sheï¿½s: 5
  wrought: 5
  fasted: 1
  walking: 2
@@ -4073,7 +4081,6 @@ the: 3148
  touch: 6
  dare: 7
  vanishes: 1
- _crown_: 2
  legend: 1
  writ: 3
  blinds: 1
@@ -4084,15 +4091,15 @@ the: 3148
  chaste: 2
  victorious: 1
  conquers: 1
- mans: 11
- tyrantpassion: 1
- _dryden_: 4
- mimosa: 1
+ manï¿½s: 10
+ tyrant-passion: 1
+ dryden: 4
+ mimosa: 2
  blight: 2
  finger: 2
  aye: 3
  hot: 3
- noonray: 1
+ noon-ray: 1
  loneliness: 2
  nourished: 1
  shrink: 1
@@ -4101,9 +4108,7 @@ the: 3148
  whereon: 4
  flourished: 2
  perished: 2
- g: 1
- whittier_: 1
- _activity_: 1
+ whittier: 2
  denoted: 2
  graceful: 6
  attic: 2
@@ -4113,6 +4118,8 @@ the: 3148
  flavour: 1
  honey: 2
  mastered: 1
+ ï¿½to: 2
+ thyme.ï¿½: 1
  shapes: 3
  butterflies: 1
  vigilant: 1
@@ -4128,13 +4135,13 @@ the: 3148
  embroidered: 2
  scarfs: 1
  presented: 3
- knights: 4
+ knights: 2
  sprig: 4
- oldthough: 2
+ old,--though: 2
  cast: 7
  sympathies: 1
- evenings: 2
- _park: 2
+ eveningï¿½s: 2
+ park: 2
  thrifty: 2
  instant: 3
  travels: 2
@@ -4150,25 +4157,24 @@ the: 3148
  keen: 4
  seizes: 1
  prompt: 2
- occasionmakes: 1
+ occasion,--makes: 1
  start: 2
  action: 1
  plans: 2
  performs: 1
  resolves: 1
  executes: 1
- _hannah: 1
- more_: 1
+ hannah: 1
  learned: 5
  commenting: 1
  laden: 1
  servitor: 1
  delay: 3
  impotent: 1
- snailpaced: 1
+ snail-paced: 1
  beggary: 1
  expedition: 1
- joves: 1
+ joveï¿½s: 1
  mercury: 4
  muster: 1
  counsel: 2
@@ -4178,12 +4184,11 @@ the: 3148
  wake: 6
  fail: 4
  eager: 5
- _peerbold_: 7
- _ambition_: 1
+ peerbold: 7
  contribute: 1
  ornamenting: 1
  towering: 2
- blackishpurple: 1
+ blackish-purple: 1
  gayety: 1
  shrubbery: 1
  throwing: 3
@@ -4191,7 +4196,7 @@ the: 3148
  arrival: 1
  eyrie: 1
  eagle: 1
- monarchs: 2
+ monarchs: 1
  purer: 1
  talisman: 2
  godlike: 1
@@ -4201,43 +4206,41 @@ the: 3148
  enthroned: 1
  cope: 1
  imperial: 6
- ayfatheri: 1
+ ay,--father!--i: 1
  visions: 3
  aspirations: 1
  enlightener: 1
- nations: 7
- whitherit: 1
+ nations: 6
+ whither--it: 1
  cataract: 1
  leapt: 1
  dazzling: 4
  foaming: 1
  abyss: 1
- stillbut: 1
+ still.--but: 1
  mistook: 1
- warhorn: 1
+ war-horn: 1
  cry: 4
  panted: 1
- drums: 1
+ drumï¿½s: 1
  roll: 3
- whenflaming: 1
+ when--flaming: 1
  banners: 1
  challenging: 1
  battle: 2
  ambitious: 1
- slaveof: 1
- neal_: 1
+ slave--of: 1
+ neal: 1
  restless: 2
  strives: 1
  reach: 4
- highplaced: 1
+ high-placed: 1
  toys: 2
  camp: 1
  school: 2
  buzz: 1
  trade: 1
- _c: 6
- watson_: 5
- _glory_: 1
+ watson: 5
  abundantly: 3
  delphi: 1
  river: 7
@@ -4246,7 +4249,7 @@ the: 3148
  loftiest: 4
  alleged: 1
  avert: 2
- daphne: 1
+ daphne: 2
  eloquent: 1
  avoid: 1
  seducing: 1
@@ -4258,29 +4261,36 @@ the: 3148
  father: 3
  clasped: 1
  insensible: 1
- spouse: 2
+ ï¿½since: 1
+ spouse,ï¿½: 1
+ ï¿½thou: 1
  least: 6
- ive: 10
+ tree.ï¿½: 1
+ thence-forward: 1
+ iï¿½ve: 10
  laughed: 3
+ gleaming: 1
  sword: 1
  sooner: 3
  word: 10
- scholars: 1
+ scholarï¿½s: 1
  forgetfulness: 4
  altar: 5
  trumpet: 2
- victors: 1
+ victorï¿½s: 1
  bites: 1
  clanks: 1
+ nationï¿½s: 1
  pet: 1
  idol: 1
  slaves: 3
  crouch: 1
- longlost: 1
+ long-lost: 1
  idle: 1
+ hourï¿½s: 1
  arrant: 1
  hurries: 1
- _motherwell_: 1
+ motherwell: 1
  lore: 1
  sentimental: 2
  supremest: 1
@@ -4293,24 +4303,25 @@ the: 3148
  worthy: 6
  transition: 1
  reft: 1
- groundborn: 1
+ ground-born: 1
  tenement: 1
- _immortality_: 1
  unfading: 1
- homers: 2
+ homerï¿½s: 2
  customary: 2
  crowns: 1
  personages: 1
- milton: 1
  lycidas: 1
  classes: 2
+ ï¿½sad: 1
  embroidery: 1
+ wear.ï¿½: 1
  toulouse: 1
  lyric: 1
- hypochondriacus: 1
- princes: 1
+ hypochondriacus: 2
+ princeï¿½s: 1
  feather: 1
  yearning: 3
+ heartï¿½s: 4
  deepest: 2
  cell: 5
  silently: 2
@@ -4319,8 +4330,10 @@ the: 3148
  unquenched: 1
  refreshed: 1
  eternity: 1
- larcom_: 1
+ larcom: 1
  startling: 1
+ ï¿½man: 1
+ die!ï¿½: 1
  hymn: 2
  harps: 1
  offence: 1
@@ -4336,25 +4349,23 @@ the: 3148
  ken: 3
  gifted: 1
  glorify: 1
- annihilationwere: 1
+ annihilation--were: 1
  lamp: 3
  relit: 1
  despondency: 1
  perchance: 5
  lift: 3
- lord: 9
  dependent: 1
  vastness: 1
  heap: 3
  schemers: 1
- mong: 2
+ ï¿½mong: 2
  mankind: 3
- gatherthen: 1
+ gather--then: 1
  infinity: 1
  eternal: 6
  ineffably: 1
  sublime: 2
- _perfection_: 1
  eminent: 1
  conceived: 1
  plan: 1
@@ -4375,7 +4386,8 @@ the: 3148
  meditated: 1
  contented: 1
  calling: 1
- studies: 1
+ ï¿½studies: 1
+ nature.ï¿½: 1
  bouquets: 1
  preferred: 1
  seldom: 4
@@ -4392,13 +4404,13 @@ the: 3148
  vie: 1
  delighting: 1
  rejoice: 6
- noblenoble: 1
+ noble--noble: 1
  embalmed: 1
  fevered: 2
- naturetaste: 1
+ nature--taste: 1
  refined: 3
  perception: 1
- swiftand: 1
+ swift--and: 1
  balanced: 1
  gift: 5
  fineness: 1
@@ -4406,19 +4418,18 @@ the: 3148
  women: 4
  celebrate: 1
  vapours: 2
- _donne_: 1
+ donne: 1
  frolic: 3
- id: 7
+ iï¿½d: 7
  angelic: 1
  sprite: 1
  fatigued: 1
  asleep: 5
  lest: 1
+ sheï¿½d: 1
  plume: 2
  soar: 4
  sublunar: 1
- _false: 1
- riches_: 1
  disk: 1
  spaniards: 1
  amazed: 2
@@ -4429,38 +4440,37 @@ the: 3148
  abundant: 2
  person: 4
  truly: 4
- thomson: 1
- moore: 1
- darwin: 1
- barton: 1
+ thomson: 4
  use: 7
  fact: 1
  searcher: 1
+ nights: 3
  waste: 7
  unlearned: 1
  sailest: 1
  delvest: 1
  strugglest: 1
  land: 17
- deaths: 3
+ deathï¿½s: 3
  northern: 6
- rockwell_: 1
- thinkst: 1
+ rockwell: 1
+ thinkï¿½st: 1
  mansions: 2
- worldlings: 2
- misers: 1
+ worldlingï¿½s: 1
+ miserï¿½s: 1
  obtains: 1
  willing: 1
- sigourney_: 2
+ sigourney: 2
  requires: 1
  accomplished: 1
  thirsts: 2
  keenest: 1
  dig: 2
  prefer: 1
+ itï¿½s: 5
  titles: 1
  rank: 1
- lonon: 1
+ lonï¿½on: 1
  purchase: 1
  muckle: 1
  mair: 2
@@ -4469,11 +4479,9 @@ the: 3148
  hae: 2
  seat: 2
  wise: 9
- _devoted: 1
- affection_: 1
  confounded: 1
  genus: 1
- bluishwhite: 1
+ bluish-white: 1
  sex: 2
  introduced: 6
  1740: 1
@@ -4495,14 +4503,12 @@ the: 3148
  gaine: 1
  frowning: 1
  blast: 3
- _old: 1
- 1555_: 1
+ 1555: 2
  contains: 1
  guides: 1
  betides: 1
- p: 1
- morris_: 1
- halfraised: 1
+ morris: 1
+ half-raised: 1
  cordial: 1
  whether: 8
  shot: 1
@@ -4518,23 +4524,21 @@ the: 3148
  pen: 3
  compassion: 3
  languish: 2
- charms_: 2
  egypt: 5
  1750: 1
  beginning: 3
- linnæus: 2
- _reseda: 3
- odorata_: 3
+ linnï¿½us: 2
+ reseda: 6
+ odorata: 3
  compares: 1
  ambrosia: 1
- reseda: 1
  trunk: 4
  yon: 5
  busy: 4
  heed: 2
  beams: 4
- fritillarias: 1
- _evans_: 1
+ fritillariaï¿½s: 1
+ evans: 1
  steps: 3
  liberty: 3
  promises: 2
@@ -4546,13 +4550,12 @@ the: 3148
  continue: 3
  mignionette: 1
  surpassing: 2
- altarstone: 1
+ altar-stone: 1
  votary: 1
  ceased: 3
- twinetypes: 1
+ twine:--types: 1
  mocks: 1
- _george: 1
- hill_: 1
+ george: 3
  wrongest: 1
  deare: 1
  fault: 3
@@ -4561,12 +4564,11 @@ the: 3148
  envied: 1
  lofty: 4
  implied: 1
- thingsdisdain: 1
+ things,--disdain: 1
  dishonour: 2
  threatening: 2
  rash: 1
  ne: 1
- _amiability_: 1
  amiable: 1
  situations: 2
  suffers: 1
@@ -4582,10 +4584,9 @@ the: 3148
  paying: 1
  tribute: 1
  sweetness: 5
- thomas: 5
  stepping: 1
- starwhite: 1
- jasminethat: 1
+ star-white: 1
+ jasmine,--that: 1
  perfumer: 1
  nightingale: 3
  aroma: 1
@@ -4594,35 +4595,35 @@ the: 3148
  forbidden: 1
  lattice: 4
  courtiers: 1
- dames: 4
- elizabeths: 1
- sweetscented: 4
+ dames: 3
+ elizabethï¿½s: 1
+ sweet-scented: 4
  creeper: 1
  haughtier: 1
  cluster: 2
  embower: 1
  thousands: 3
- cottagesa: 1
+ cottages,--a: 1
  degradation: 1
  witnessed: 1
  plait: 1
  starched: 1
  ruffs: 1
  bristle: 1
- quills: 1
+ ï¿½quills: 1
  fretful: 1
- porcupine: 1
- darkgreen: 1
- trelliswork: 1
- doorway: 1
+ porcupine.ï¿½: 1
+ dark-green: 1
+ trellis-work: 1
+ door-way: 1
  curtain: 1
  queenly: 1
- mossrose: 1
+ moss-rose: 1
  creeping: 7
  threads: 1
  fanciful: 1
- greena: 1
- leafclad: 1
+ green,--a: 1
+ leaf-clad: 1
  sighing: 4
  inhaled: 1
  perfumed: 2
@@ -4633,14 +4634,13 @@ the: 3148
  scorching: 1
  odours: 5
  porch: 1
- windowframe: 1
- jasmineflower: 1
+ window-frame: 1
+ jasmine-flower: 1
  crept: 1
  thatched: 1
  roof: 4
  safely: 1
  slept: 4
- _affection_: 1
  gratifies: 1
  confers: 1
  dwellings: 1
@@ -4656,25 +4656,27 @@ the: 3148
  sterner: 1
  prosperity: 3
  compensating: 1
- nevercloying: 1
- _cowper_: 6
+ never-cloying: 1
+ cowper: 6
  weaving: 1
  streaked: 1
- minethats: 1
+ mine--thatï¿½s: 1
  trumpets: 1
  thirsting: 1
- darkenwhen: 1
+ darken;--when: 1
  softer: 2
  manlier: 1
  fastened: 1
  attraction: 1
  baseness: 1
  entwined: 2
- _pensiveness_: 1
+ ï¿½sweet: 1
  nun: 2
+ fields,ï¿½: 1
  immortalized: 1
- shakspeares: 1
+ ï¿½shakspeareï¿½s: 1
  midsummer: 2
+ dream.ï¿½: 1
  maine: 2
  missouri: 1
  gaudy: 3
@@ -4686,9 +4688,9 @@ the: 3148
  sweetly: 2
  mutable: 1
  sober: 3
- _frisbie_: 1
+ frisbie: 1
  points: 3
- _dyer_: 1
+ dyer: 1
  dwellers: 1
  wildwood: 2
  vernal: 1
@@ -4696,7 +4698,7 @@ the: 3148
  gladdening: 1
  farms: 1
  thickets: 1
- birds: 6
+ birds: 5
  unfolding: 1
  crime: 1
  athirst: 1
@@ -4707,7 +4709,7 @@ the: 3148
  polluted: 1
  den: 3
  drinking: 1
- dewlike: 1
+ dew-like: 1
  wine: 1
  midst: 1
  gales: 1
@@ -4724,14 +4726,16 @@ the: 3148
  buy: 2
  equal: 1
  destiny: 2
+ aï¿½: 4
+ anï¿½: 4
  simmer: 1
  warms: 2
  howls: 2
  gusty: 1
  lang: 3
  descend: 4
- twixt: 1
- manan: 1
+ ï¿½twixt: 1
+ man--an: 1
  everlasting: 2
  clearly: 1
  eulogized: 1
@@ -4750,36 +4754,41 @@ the: 3148
  effort: 2
  disappearing: 1
  exclaimed: 1
- _vergiss: 1
+ ï¿½_vergiss: 1
  mein: 1
- nicht_: 1
+ nicht!_ï¿½: 1
  event: 1
  emblematical: 1
  sentiment: 1
  corollas: 1
- ceruleanblue: 1
+ cerulean-blue: 1
  interesting: 1
+ rivers: 5
  luxembourg: 1
- fairies: 2
+ fairiesï¿½: 1
  bath: 1
  resort: 3
  festive: 1
  parties: 1
- brighteyed: 1
+ bright-eyed: 1
  floweret: 1
- gemthe: 1
+ hopeï¿½s: 2
+ gem--the: 1
  shelving: 1
  cultivated: 5
  swept: 3
  record: 2
  loveliest: 3
- _göthe_: 1
+ gï¿½the: 1
  sate: 2
  knight: 6
  eddying: 3
  islet: 1
+ ï¿½oh: 2
+ hue,ï¿½: 1
  braid: 2
- nutbrown: 2
+ nut-brown: 2
+ hair!ï¿½: 1
  whirling: 2
  swims: 1
  gains: 1
@@ -4788,21 +4797,23 @@ the: 3148
  gallant: 2
  stout: 2
  sank: 1
+ not,ï¿½: 1
  cried: 4
  farewell: 6
  legends: 1
  remembered: 2
  hapless: 2
+ ï¿½forget-me-not!ï¿½: 1
  flourish: 1
  cultivate: 1
  cerulean: 1
- ellens: 2
- oceans: 6
+ ellenï¿½s: 2
+ oceans: 3
  betwixt: 1
  roar: 2
  distant: 4
  ellen: 1
- loveno: 1
+ love?--no: 1
  spans: 1
  starred: 2
  vault: 1
@@ -4819,7 +4830,7 @@ the: 3148
  hangs: 2
  prays: 1
  droop: 4
- turtledove: 1
+ turtle-dove: 1
  hides: 1
  plumes: 2
  disarrayed: 1
@@ -4828,49 +4839,49 @@ the: 3148
  plaintive: 1
  beak: 1
  mourn: 5
- _remembrance_: 1
  prose: 1
  oldest: 1
  dramas: 1
  article: 1
  possessing: 1
  interest: 1
- oldfashioned: 2
+ old-fashioned: 2
  written: 3
  feasts: 1
- funeralsthe: 1
- christeningcup: 1
+ funerals,--the: 1
+ christening-cup: 1
  worn: 3
  ceremonies: 2
  hallowed: 1
- superstitionin: 1
+ ï¿½superstition?ï¿½--in: 1
  latter: 2
  slips: 2
  practice: 1
  altogether: 1
- disuserural: 1
+ disuse--rural: 1
  revive: 2
  customs: 1
  chose: 1
  affectionate: 2
- wintera: 1
+ winter,--a: 1
  touching: 2
  maniac: 1
- boyhoods: 1
+ ï¿½that: 1
+ remember.ï¿½: 1
+ boyhoodï¿½s: 1
  urn: 4
  peri: 1
- _new: 1
- mirror_: 1
  brake: 1
  sere: 2
- withers: 1
- weepsremember: 1
- _edward: 1
+ weeps,--remember: 1
+ edward: 2
  danger: 2
- betokening: 1
+ ï¿½betokening: 1
+ stormï¿½: 1
  brand: 2
  falls: 6
- precursor: 1
+ ï¿½precursor: 1
+ stranger.ï¿½: 1
  thoughtful: 2
  runs: 2
  track: 3
@@ -4881,16 +4892,17 @@ the: 3148
  usual: 1
  social: 1
  chat: 2
+ ï¿½youï¿½ll: 1
  chimney: 1
+ son!ï¿½: 1
  lumps: 1
  flue: 1
  snap: 2
  crackle: 1
  soared: 1
- outthat: 1
- coldand: 1
+ out--that: 1
+ cold--and: 1
  mostly: 1
- _forsaken_: 1
  jealous: 3
  banished: 1
  abandoned: 2
@@ -4903,17 +4915,19 @@ the: 3148
  shakes: 3
  opens: 2
  causes: 1
- _brevis: 1
+ brevis: 1
  est: 1
- usus_her: 1
+ usus_--ï¿½her: 1
  reign: 2
- shortis: 1
+ shortï¿½--is: 1
  touchingly: 1
  whichever: 1
  greets: 2
+ ï¿½a: 1
+ thought;ï¿½: 1
  tangling: 2
  brambles: 1
- passthere: 1
+ pass,--there: 1
  favourites: 1
  uncultivated: 1
  offspring: 1
@@ -4921,13 +4935,12 @@ the: 3148
  overhead: 1
  shelter: 5
  waked: 1
- muchi: 1
+ much!--i: 1
  heal: 3
  upbraid: 1
  offer: 4
  deem: 1
  approve: 1
- _friendship_: 2
  canada: 1
  carolinas: 1
  bows: 2
@@ -4936,28 +4949,27 @@ the: 3148
  robin: 5
  botanist: 3
  handsome: 2
- rosecoloured: 1
- wheneer: 2
+ rose-coloured: 1
+ wheneï¿½er: 2
  stoops: 1
  visit: 1
  amends: 1
- heaventhe: 1
+ heaven--the: 1
  reciprocally: 1
  pillow: 1
  smoothing: 2
- spiritsuch: 2
+ spirit,--such: 2
  heals: 2
  balsam: 4
  swords: 1
- _webster_: 1
+ webster: 1
  shadowed: 1
  gust: 3
- _robert: 1
- sweney_: 1
+ robert: 3
+ sweney: 1
  sudden: 1
  discontent: 2
  flowing: 2
- _maternal: 1
  glads: 1
  overtakes: 1
  rousseau: 1
@@ -4968,7 +4980,7 @@ the: 3148
  nuptials: 1
  mysteries: 2
  urns: 1
- amphoræ: 1
+ amphorï¿½: 1
  enclose: 2
  posterity: 1
  asserted: 1
@@ -4981,6 +4993,7 @@ the: 3148
  abodes: 1
  defy: 1
  longest: 2
+ winters: 1
  numerous: 2
  herds: 2
  reindeer: 7
@@ -5001,6 +5014,8 @@ the: 3148
  deathless: 1
  docile: 1
  fantastic: 1
+ ï¿½hundred: 1
+ nights,ï¿½: 1
  arabian: 1
  genii: 1
  sprites: 1
@@ -5012,22 +5027,22 @@ the: 3148
  crusoe: 1
  forsook: 2
  voyages: 1
- fairytales: 1
- storybooksof: 1
- theethou: 1
- beautifulthou: 1
+ fairy-tales: 1
+ story-books--of: 1
+ thee--thou: 1
+ beautiful--thou: 1
  antique: 2
  beaufet: 1
  shelves: 1
  manifold: 2
  piles: 1
  motley: 1
- æsop: 1
+ ï¿½sop: 1
  fables: 1
- cookerybooks: 1
+ cookery-books: 1
  dates: 1
  peeped: 1
- backand: 1
+ back--and: 1
  groping: 2
  daring: 2
  tugs: 1
@@ -5036,28 +5051,28 @@ the: 3148
  floor: 2
  dragged: 1
  binding: 1
- wornthe: 1
- titlepage: 1
- childs: 2
+ worn--the: 1
+ title-page: 1
+ childï¿½s: 2
  exultant: 1
  shout: 2
  pictures: 1
  beast: 4
  fish: 4
  whale: 1
- honeybee: 4
+ honey-bee: 4
  elephant: 1
  gazelle: 1
  luxuriant: 2
  jungles: 1
- hummingbirds: 1
+ humming-birds: 1
  prairies: 1
  iceberg: 1
  islands: 1
  float: 1
- threemasted: 1
+ three-masted: 1
  ship: 1
- cockleboat: 1
+ cockle-boat: 1
  harmless: 1
  seals: 2
  shaggy: 1
@@ -5068,7 +5083,7 @@ the: 3148
  roam: 3
  riot: 1
  works: 4
- grovelike: 1
+ grove-like: 1
  banyans: 1
  cedars: 1
  palm: 3
@@ -5090,30 +5105,30 @@ the: 3148
  scant: 1
  toil: 5
  repay: 3
- masters: 1
+ masterï¿½s: 1
  sledge: 1
  quaint: 2
  boundless: 2
- awaythrough: 1
+ away!--through: 1
  fen: 3
- awayye: 1
+ away!--ye: 1
  steeds: 2
  lapland: 1
  ay: 2
  antlers: 1
  branched: 2
  pace: 1
- palacestables: 1
+ palace-stables: 1
  saucy: 2
  pampered: 2
  grooms: 1
  stretch: 1
  cracking: 1
- pursestrings: 1
+ purse-strings: 1
  strut: 1
- halfyears: 1
+ half-yearï¿½s: 1
  bills: 1
- oats: 3
+ oats: 2
  beans: 1
  straw: 7
  hay: 1
@@ -5135,16 +5150,16 @@ the: 3148
  mantling: 1
  alpine: 4
  hoar: 1
- graniterock: 1
+ granite-rock: 1
  boggy: 2
  moor: 3
- peatclad: 1
+ peat-clad: 1
  marsh: 3
  sandy: 1
  heath: 12
- hillocks: 1
+ hillockï¿½s: 1
  grassy: 3
- hedgeroad: 1
+ hedge-road: 1
  fence: 2
  plumed: 1
  osier: 1
@@ -5152,16 +5167,16 @@ the: 3148
  streamlet: 1
  pool: 2
  waterfall: 1
- wavewashed: 1
+ wave-washed: 1
  plastered: 1
- barkclad: 1
+ bark-clad: 1
  oozing: 1
  slime: 1
  slides: 1
  trickling: 1
  rifted: 1
  lime: 1
- gravly: 1
+ gravï¿½ly: 1
  pathway: 1
  plashy: 1
  meads: 1
@@ -5172,20 +5187,21 @@ the: 3148
  hid: 2
  filmy: 1
  convex: 2
- threadlike: 1
+ thread-like: 1
  bespread: 1
  brown: 3
+ fairies: 1
  triumph: 2
  elvish: 2
  revelry: 1
- cygnets: 1
+ cygnetï¿½s: 1
  downy: 3
- silkworms: 1
+ silkwormï¿½s: 1
  survey: 2
  unaided: 1
  seeds: 6
  enlivened: 1
- feathermantled: 1
+ feather-mantled: 1
  waving: 3
  enveloping: 1
  chaliced: 1
@@ -5199,14 +5215,12 @@ the: 3148
  delicately: 1
  perfectness: 2
  mimetic: 1
- lovehow: 1
+ love--how: 1
  enkindled: 1
  warmest: 1
  waken: 1
  harp: 2
- eames_: 1
- _the: 3
- oracle_: 1
+ eames: 1
  four: 5
  quarters: 1
  pole: 1
@@ -5221,7 +5235,7 @@ the: 3148
  globes: 1
  separated: 1
  spheres: 1
- aërial: 2
+ aï¿½rial: 2
  travellers: 1
  faithfully: 1
  convey: 2
@@ -5232,38 +5246,44 @@ the: 3148
  doomed: 7
  dreary: 3
  guiding: 2
- schoolboys: 1
+ schoolboyï¿½s: 1
  truant: 1
  puffs: 1
  amain: 1
  conjure: 1
- _howitt_: 1
- weatherglass_: 1
+ ï¿½iï¿½ll: 1
  sweetheart: 1
  bode: 1
+ i.ï¿½: 1
  coral: 1
  warning: 5
+ ï¿½though: 1
  gathering: 2
  frown: 3
  checkered: 1
  tarry: 1
+ nigh.ï¿½: 1
  fling: 1
  toss: 2
- indeed: 4
+ ï¿½say: 1
+ indeed: 3
  mean: 1
  credulous: 1
  warnings: 1
- fairgood: 1
+ fair;--good: 1
+ pimpernel.ï¿½: 1
+ ï¿½stay: 1
  quoth: 2
- flowerin: 1
+ flower?--in: 1
  don: 2
  hat: 1
  tie: 2
  kerchief: 1
  chequered: 1
- thenlet: 1
+ then--let: 1
  consider: 2
  gown: 1
+ well:ï¿½: 1
  saying: 3
  stepped: 1
  wrapped: 1
@@ -5272,22 +5292,26 @@ the: 3148
  snug: 1
  cloak: 1
  tight: 1
- broidered: 1
+ ï¿½broidered: 1
  bravery: 1
  donned: 1
  festival: 3
  hied: 1
+ ï¿½mid: 1
  thunder: 3
  minded: 1
  boding: 1
  pelting: 1
- shower: 2
- dont: 2
+ shower.ï¿½: 1
+ maidens: 3
+ donï¿½t: 2
  doubtful: 4
  advice: 1
- minds: 5
- _consolation_: 1
+ ï¿½made: 1
+ mindsï¿½: 1
  express: 6
+ ï¿½my: 2
+ antidote.ï¿½: 1
  juice: 3
  extracted: 1
  invalid: 1
@@ -5311,9 +5335,9 @@ the: 3148
  proved: 2
  sincerity: 2
  placing: 1
- lefthand: 1
+ left-hand: 1
  petal: 1
- flowerleaf: 1
+ flower-leaf: 1
  struck: 4
  attachment: 3
  faithlessness: 1
@@ -5321,8 +5345,9 @@ the: 3148
  shuts: 3
  wont: 2
  wretched: 2
- poppiestheir: 1
- redcaps: 3
+ poppies.--their: 1
+ ï¿½we: 2
+ red-caps: 3
  merrily: 2
  farmer: 4
  hates: 1
@@ -5332,28 +5357,27 @@ the: 3148
  slavish: 1
  barley: 2
  eat: 1
- heavyhead: 1
+ heavy-head: 1
  neighbour: 2
  gaffer: 1
  wheat: 2
+ ï¿½who: 2
  thrash: 1
- _us_: 2
  grind: 1
  bag: 1
  meaner: 1
  shabbier: 1
  stupidly: 1
- utility: 2
- redcap: 1
- poppyclan: 1
- _you_: 1
- poppyfolk: 1
+ utility!ï¿½: 1
+ red-cap: 1
+ poppy-clan: 1
+ poppy-folk: 1
  flaunted: 1
  nodded: 1
  reeled: 1
  jackets: 1
  shimmer: 1
- bluebottle: 3
+ blue-bottle: 3
  quietly: 3
  vetch: 1
  climbed: 1
@@ -5361,16 +5385,16 @@ the: 3148
  whimsical: 1
  bugloss: 3
  orient: 1
- butterflys: 1
+ butterflyï¿½s: 1
  unoped: 1
  chameleon: 1
  pities: 1
  dress: 1
- corncockle: 1
+ corn-cockle: 1
  arrogance: 2
  bluster: 1
  vanity: 2
- poppytribe: 1
+ poppy-tribe: 1
  reapers: 1
  betimes: 1
  sickles: 1
@@ -5383,48 +5407,59 @@ the: 3148
  cracked: 1
  joke: 1
  chatted: 1
- harvestfolk: 1
+ harvest-folk: 1
  barometers: 1
  crops: 2
  gladdened: 1
  practised: 2
+ ï¿½weï¿½ll: 1
+ to-day,ï¿½: 1
  tied: 1
+ ï¿½next: 1
+ oats.ï¿½: 1
  poppies: 3
  dreamed: 2
+ ï¿½usefulï¿½: 1
  neighbours: 1
  bustled: 1
- cornfields: 1
+ corn-fields: 1
  quite: 6
  commotion: 1
  grain: 1
+ ï¿½how: 1
  rascally: 1
- weeds: 4
- ha: 4
+ weeds: 5
+ again!ï¿½: 1
+ ï¿½ha: 2
+ ha!ï¿½: 1
+ ha: 1
  fuss: 1
- _weeds_: 1
  envying: 1
+ us_!ï¿½: 1
  short: 4
  sturdy: 2
  strokes: 2
  speedily: 1
- harvestfolks: 1
+ harvest-folks: 1
  havoc: 1
  propped: 1
  erect: 2
- shortspeechto: 1
- kinsflowers: 1
+ short-speech--to: 1
+ kins-flowers: 1
  fainting: 1
  dire: 1
  attends: 1
  dressed: 2
  silly: 2
  possessed: 3
+ ï¿½our: 1
  lately: 3
  sneered: 1
  whit: 1
  humbled: 1
+ ï¿½they: 1
  scorned: 1
- neighboursthe: 1
+ neighbours:--the: 1
  goodly: 1
  butt: 1
  merriment: 1
@@ -5438,20 +5473,21 @@ the: 3148
  ripen: 1
  ripened: 2
  needed: 2
+ ï¿½but: 1
  remembering: 1
  meanly: 1
- _usefulness_: 1
+ usefulness: 1
+ best.ï¿½: 1
  drink: 2
  hesitate: 1
  forgive: 1
  unkindness: 1
  taken: 2
- mortals: 3
+ mortalï¿½s: 2
  balm: 4
  deadens: 1
  kill: 2
  fraught: 3
- arts_: 1
  climates: 1
  furniture: 1
  vases: 1
@@ -5482,7 +5518,7 @@ the: 3148
  surprise: 5
  endless: 2
  science: 1
- _pope_: 6
+ pope: 24
  confess: 2
  artist: 1
  contrive: 1
@@ -5501,9 +5537,8 @@ the: 3148
  damp: 1
  oil: 1
  quench: 1
- _lady: 1
- alimony_: 1
- wellfilled: 1
+ alimony: 1
+ well-filled: 1
  library: 1
  profit: 3
  charmingly: 1
@@ -5516,18 +5551,16 @@ the: 3148
  dairy: 1
  kitchen: 1
  parlour: 1
- _james: 2
+ james: 4
  n: 2
- barker_: 1
- starlight: 1
- madi: 1
+ barker: 1
+ star-light: 1
+ mad--i: 1
  heeded: 2
  toiled: 1
  hoped: 1
  surest: 1
- _bulwer_: 1
- _an: 1
- disposition_: 1
+ bulwer: 1
  setewale: 1
  ruined: 2
  buildings: 1
@@ -5551,13 +5584,13 @@ the: 3148
  contempt: 1
  abject: 1
  insolent: 1
- _1629: 1
- herbert_: 1
- sir: 2
- _timidity_: 1
+ 1629: 1
+ herbert: 1
+ sir: 3
  wonderful: 3
+ violetï¿½s: 1
  dejected: 1
- _akenside_: 1
+ akenside: 1
  october: 2
  expand: 1
  thriven: 1
@@ -5568,19 +5601,19 @@ the: 3148
  undeserved: 1
  marks: 2
  needless: 1
- selfimposed: 1
+ self-imposed: 1
  disgrace: 1
- nightwind: 1
+ ï¿½call: 1
+ night-wind: 1
+ sunbeamï¿½s: 1
  lark: 2
  couched: 1
+ alone?ï¿½: 1
  emblems: 2
  subdued: 1
  forbidding: 1
  inflames: 1
  downcast: 1
- _thomson_: 3
- _lasting: 1
- beauty_: 2
  splendour: 7
  durable: 1
  rapidly: 1
@@ -5592,7 +5625,7 @@ the: 3148
  stocks: 1
  carmine: 2
  family: 3
- tenweek: 1
+ ten-week: 1
  weeks: 1
  sown: 1
  brompton: 2
@@ -5600,13 +5633,13 @@ the: 3148
  sowing: 2
  neighbourhood: 1
  partial: 1
- mana: 1
+ man!--a: 1
  envelopes: 1
  mantle: 1
  tenderness: 2
  homage: 1
  deny: 2
- _dawes_: 3
+ dawes: 3
  perishing: 1
  faded: 3
  perisheth: 1
@@ -5616,6 +5649,7 @@ the: 3148
  naturally: 2
  peach: 2
  vapour: 1
+ mindï¿½s: 1
  infrequent: 1
  beat: 2
  burden: 1
@@ -5626,11 +5660,10 @@ the: 3148
  threats: 3
  vile: 2
  designing: 1
- _stupidity_: 1
  difference: 2
  disagreeable: 3
  anecdote: 1
- staël: 3
+ staï¿½l: 3
  introduce: 2
  stupid: 1
  ventured: 1
@@ -5639,18 +5672,22 @@ the: 3148
  prepossessing: 1
  exterior: 1
  pleased: 1
- newcomer: 1
+ new-comer: 1
  listened: 2
  suspect: 1
  questions: 1
  help: 3
  answering: 1
  vexed: 1
+ ï¿½indeed: 1
  pot: 1
  desiring: 1
+ more.ï¿½: 1
+ so?ï¿½: 1
  asked: 1
  astonishment: 1
  slightly: 1
+ smell.ï¿½: 1
  room: 2
  leaving: 2
  confusion: 1
@@ -5659,12 +5696,12 @@ the: 3148
  blunderer: 1
  kick: 1
  bite: 1
- muleteers: 1
+ muleteerï¿½s: 1
  enlists: 1
- truths: 2
+ truthï¿½s: 1
  sworn: 1
  obstinate: 1
- selfwill: 1
+ self-will: 1
  confirms: 1
  wanders: 1
  error: 4
@@ -5681,10 +5718,10 @@ the: 3148
  defends: 2
  disputing: 1
  contest: 1
+ oï¿½: 7
  conceited: 1
  hashes: 1
  confuse: 1
- college: 2
  gang: 1
  stirks: 1
  asses: 1
@@ -5692,9 +5729,9 @@ the: 3148
  dint: 1
  gie: 2
  spark: 1
- tho: 2
+ thoï¿½: 2
  drudge: 1
- thro: 2
+ throï¿½: 2
  dub: 1
  mire: 1
  pleugh: 1
@@ -5703,7 +5740,7 @@ the: 3148
  walks: 1
  objects: 3
  wiser: 2
- eyea: 1
+ eye--a: 1
  attentive: 1
  learner: 1
  teacher: 1
@@ -5727,11 +5764,11 @@ the: 3148
  sepulchre: 1
  continues: 1
  endear: 1
- brighteryet: 1
+ brighter?--yet: 1
  steadier: 1
  wavers: 1
  blowing: 1
- meteorthe: 1
+ meteor,--the: 1
  glows: 1
  wilds: 1
  ours: 4
@@ -5740,14 +5777,14 @@ the: 3148
  brink: 2
  minutes: 2
  talkers: 1
- aboutso: 1
+ about--so: 1
  memories: 4
  befell: 1
- whove: 3
+ whoï¿½ve: 3
  breathe: 3
  astray: 1
- goodnight: 2
- _dangerous: 1
+ ï¿½good-night: 1
+ good-night!ï¿½: 1
  indies: 2
  south: 3
  1632: 1
@@ -5766,62 +5803,60 @@ the: 3148
  purifies: 2
  exalts: 1
  debases: 1
- youths: 1
+ youthï¿½s: 1
  unshadowed: 1
  fancies: 1
  wildering: 1
  fitful: 1
  malay: 1
- shepherds: 4
+ sunï¿½s: 1
+ shepherdï¿½s: 1
  fading: 2
  floods: 2
  treasures: 1
  honeyed: 1
  gall: 3
- _sir: 1
  walter: 1
- raleigh_: 1
+ raleigh: 1
  instability: 1
  foster: 1
  pall: 2
  thereon: 2
  foundation: 1
  undermined: 1
- _elegance: 1
- dignity_: 1
  considerable: 3
  carriage: 1
- highborn: 2
+ high-born: 2
  lustrous: 2
  stainless: 1
  thirst: 2
- thinestill: 1
+ thine--still: 1
  holds: 4
- strangerwhen: 1
+ stranger--when: 1
  smileth: 1
  swimming: 2
  tread: 6
  symmetry: 1
  feature: 1
  flute: 1
- _milman_: 1
+ milman: 1
  ran: 1
  compriseth: 1
  riseth: 1
- markher: 1
- foreheads: 1
+ mark,--her: 1
+ foreheadï¿½s: 1
  smoother: 1
  sheds: 3
  triumphs: 1
- elements: 1
- _jonson_: 1
- merit_: 1
+ elementï¿½s: 1
+ jonson: 1
  japan: 1
- huesthe: 1
- prevailingand: 1
+ hues--the: 1
+ prevailing--and: 1
  roscoe: 1
  boasts: 2
  conceals: 1
+ thorn.ï¿½: 1
  retreats: 1
  unremoved: 1
  concord: 1
@@ -5849,7 +5884,7 @@ the: 3148
  characters: 2
  brass: 2
  forted: 1
- gainst: 2
+ ï¿½gainst: 2
  tooth: 1
  razure: 1
  oblivion: 2
@@ -5858,7 +5893,7 @@ the: 3148
  dross: 1
  reflects: 1
  enshrined: 3
- restingplace: 2
+ resting-place: 2
  noted: 1
  whitest: 1
  truthful: 1
@@ -5866,10 +5901,9 @@ the: 3148
  befits: 1
  meekness: 1
  uprightly: 1
- walkingfilling: 1
+ walking--filling: 1
  poured: 1
- _deceitful: 1
- dulllooking: 1
+ dull-looking: 1
  prodigious: 1
  lined: 1
  attracts: 1
@@ -5888,27 +5922,27 @@ the: 3148
  corrupt: 1
  treacherous: 1
  society: 1
- snowfalls: 1
- whitethen: 1
+ snow-falls: 1
+ white--then: 1
  borealis: 1
  flit: 3
- rainbows: 1
+ rainbowï¿½s: 1
  envanishing: 1
  serpent: 1
  cave: 1
  scurvy: 1
  politician: 1
  conditions: 1
- isthey: 1
+ is,--they: 1
  deceit: 3
  spinne: 1
  property: 1
  conceit: 2
  sleight: 1
- beware: 3
- thereforethe: 1
+ beware: 2
+ therefore,--the: 1
  eateth: 1
- _chaucer_: 1
+ chaucer: 1
  visor: 1
  vice: 1
  harbours: 1
@@ -5918,11 +5952,10 @@ the: 3148
  lamb: 1
  gloster: 1
  unsounded: 1
- _capricious: 1
  number: 1
  changeful: 1
  saloon: 1
- fashions: 2
+ fashionï¿½s: 2
  mart: 1
  mammon: 1
  buys: 2
@@ -5935,27 +5968,26 @@ the: 3148
  transport: 1
  starlit: 1
  tinted: 1
- heavenso: 1
+ heaven--so: 1
  wisely: 2
- bountifulbestows: 1
+ bountiful--bestows: 1
  girl: 4
  dazzled: 2
  drunk: 1
  reels: 2
  fulness: 1
  proportions: 1
- bluethe: 1
+ blue--the: 1
  visible: 1
- cestusand: 1
+ cestus--and: 1
  intellect: 1
  outshine: 1
- _consumed: 1
  grecian: 1
  atalanta: 1
  suggested: 1
  seven: 1
  either: 1
- allconsuming: 1
+ all-consuming: 1
  vestal: 1
  worships: 1
  conversing: 1
@@ -5968,7 +6000,7 @@ the: 3148
  striving: 1
  fuel: 1
  spent: 2
- _beaumont_: 1
+ beaumont: 1
  ideas: 1
  wanton: 2
  matin: 1
@@ -5980,49 +6012,49 @@ the: 3148
  pomp: 5
  priests: 1
  tapers: 1
- temples: 3
+ temples: 2
  swim: 2
  plunging: 1
  drowned: 1
  altars: 2
- _flights: 1
- fancy_: 1
- larksclaw: 1
- larkheels: 1
- larkstoe: 1
- spurlike: 1
+ larkï¿½s-claw: 1
+ lark-heels: 1
+ larkï¿½s-toe: 1
+ spur-like: 1
  whimsically: 1
- _delphinium_: 1
+ delphinium: 1
  dolphin: 1
- _dauphinelle_: 1
- _pied: 1
- dalouette_: 1
- _lépéron: 1
- chevalier_: 1
+ dauphinelle: 1
+ pied: 1
+ dï¿½alouette: 1
+ lï¿½ï¿½pï¿½ron: 1
+ chevalier: 1
+ knightï¿½s: 2
  spur: 3
  italian: 2
- _speronella_: 1
- _sperone: 1
+ speronella: 1
+ sperone: 1
  di: 1
- cavaliere_: 1
- _fior: 1
- regio_: 1
- kingflower: 1
+ cavaliere: 1
+ fior: 1
+ regio: 1
+ king-flower: 1
  chivalric: 1
  importance: 1
  furnish: 4
  subject: 2
- skylark: 1
- cherub: 1
+ sky-lark: 1
+ ï¿½musical: 1
+ cherub,ï¿½: 1
  soaring: 1
- mountaintop: 1
- musics: 2
+ mountain-top: 1
+ musicï¿½s: 2
  ascending: 1
  straining: 1
  melting: 2
  concert: 1
- imaginations: 1
- prosperos: 1
+ imaginationï¿½s: 1
+ prosperoï¿½s: 1
  joyousness: 1
  encumbrances: 1
  denizens: 1
@@ -6032,21 +6064,19 @@ the: 3148
  winged: 3
  loose: 1
  spoilt: 1
- _kent_: 1
- _relief_: 1
  upright: 2
  exotic: 1
  nearly: 2
  members: 1
- _reseda_: 2
  1752: 1
- _resedo_: 1
+ resedo: 1
  applications: 1
  bruises: 1
- lutea_: 3
- baserocket: 1
+ lutea: 3
+ base-rocket: 1
  likes: 2
- luteola_: 1
+ luteola: 1
+ dyers: 1
  affords: 2
  woollen: 1
  mohair: 1
@@ -6058,9 +6088,9 @@ the: 3148
  entire: 1
  pulled: 1
  dried: 2
- coltsfoot: 3
+ coltsfoot: 1
  rubbish: 2
- coalpits: 1
+ coal-pits: 1
  spike: 1
  follows: 1
  cloudy: 1
@@ -6075,9 +6105,9 @@ the: 3148
  inconstancy: 2
  gerarde: 1
  evidently: 1
- sunflowers: 2
+ sunflowers: 1
  cardinal: 2
- natureclare: 1
+ nature--clare: 1
  nicely: 1
  playing: 2
  realized: 1
@@ -6091,53 +6121,54 @@ the: 3148
  peas: 1
  perfuming: 2
  luscious: 1
+ sun-flowers: 1
  planting: 2
  scale: 1
- windows: 1
+ windowï¿½s: 1
  habitants: 1
  panes: 1
+ oceanï¿½s: 3
  murmuring: 2
  comforted: 1
  giveth: 1
- _patriotism_: 1
+ sleep.ï¿½: 1
  flashes: 2
  sunrise: 1
  twilight: 2
  recalls: 1
- self: 3
- countrys: 1
+ countryï¿½s: 1
  safety: 4
  mock: 3
- lightnings: 1
+ stormï¿½s: 1
+ lightningï¿½s: 1
  forever: 1
- _whittier_: 1
  sheltering: 1
  unfurls: 1
  tyrants: 2
  warring: 3
  freemen: 1
+ fathers: 2
  t: 1
- fields_: 1
  patriot: 1
- fames: 1
+ fameï¿½s: 1
  repair: 1
  tardy: 1
  slow: 5
  tongueless: 1
- _sprague_: 2
- homefelt: 1
+ sprague: 2
+ home-felt: 1
  prompts: 1
- patriots: 1
+ patriotï¿½s: 1
  lisp: 1
- childrenvain: 1
- columns: 2
+ children--vain: 1
+ columnï¿½s: 1
  invaders: 1
- battles: 1
+ battlesï¿½: 1
+ morrowï¿½s: 1
  prison: 1
  heavenliest: 1
  clearest: 1
  hers: 2
- _truth_: 1
  belief: 1
  bottom: 1
  reproduces: 1
@@ -6145,12 +6176,13 @@ the: 3148
  crushed: 1
  writhes: 1
  worshippers: 1
- _bryant_: 4
+ bryant: 4
  mists: 1
  obscure: 1
  blunt: 1
+ truths: 1
  mischief: 1
- falsehoods: 2
+ falsehoods: 1
  proposed: 1
  breeding: 1
  disapproved: 1
@@ -6159,36 +6191,36 @@ the: 3148
  rises: 1
  solemn: 5
  proofs: 1
- _churchill_: 3
+ churchill: 3
  dilates: 1
  refine: 1
  verily: 1
  sparkle: 1
- trutha: 1
+ truth?--a: 1
  staff: 1
  rejected: 2
+ falsehoodï¿½s: 1
  mask: 1
  indignant: 1
- feelingsmaking: 1
- flagacorus: 1
- _grace_: 1
- gan: 1
+ feelings--making: 1
+ flag--acorus: 1
+ ï¿½gan: 1
  tire: 1
  desk: 1
- wearyhalf: 1
+ weary--half: 1
  sleepy: 1
  portrait: 1
  wend: 1
  flag: 1
- falchionleaves: 1
+ falchion-leaves: 1
  halfway: 1
- coneshaped: 1
- flowerspike: 1
+ cone-shaped: 1
+ flower-spike: 1
  taper: 1
- scalearmour: 1
+ scale-armour: 1
  folk: 1
  mimic: 1
- youd: 2
+ youï¿½d: 2
  mosaic: 1
  neatly: 2
  geometric: 1
@@ -6198,11 +6230,11 @@ the: 3148
  stamens: 1
  spangle: 1
  compact: 1
- flags: 2
- summers: 4
+ flagï¿½s: 1
+ summerï¿½s: 3
  cheering: 1
  acorus: 1
- claremonts: 1
+ claremontï¿½s: 1
  knoweth: 1
  yare: 2
  reedy: 1
@@ -6214,7 +6246,7 @@ the: 3148
  church: 1
  processions: 2
  aisles: 1
- bestrewèd: 1
+ bestrewï¿½d: 1
  thickly: 1
  fumes: 1
  gush: 1
@@ -6222,33 +6254,35 @@ the: 3148
  built: 4
  reeds: 5
  plaited: 1
- basketwork: 1
+ basket-work: 1
  device: 2
- ranunculus: 3
+ ranunculus: 8
  guileless: 1
  decked: 3
  clever: 1
  carpets: 1
- unheardof: 1
+ unheard-of: 1
  druggets: 1
  floors: 1
  mud: 1
  knightly: 1
  strides: 1
+ damesï¿½: 1
  rushes: 2
  halls: 2
  royal: 4
  banquets: 1
  sending: 1
- servingmen: 2
+ serving-men: 2
+ flags: 1
  strew: 3
  lords: 3
  chapel: 1
- freshthrown: 1
+ fresh-thrown: 1
  softly: 2
  untimely: 2
  ancestral: 1
- newfound: 1
+ new-found: 1
  lakeless: 1
  waved: 2
  flitting: 1
@@ -6259,8 +6293,8 @@ the: 3148
  gliding: 2
  dominions: 1
  steering: 1
- wildfowl: 1
- waterrats: 1
+ wild-fowl: 1
+ water-rats: 1
  margent: 1
  lawny: 1
  beech: 3
@@ -6271,32 +6305,33 @@ the: 3148
  certify: 1
  facts: 1
  pleasantest: 1
- broomseeds: 1
+ broom-seeds: 1
  heathy: 1
  ferns: 1
  got: 1
  adrift: 1
- ivyplant: 1
- tinterns: 1
+ ivy-plant: 1
+ tinternï¿½s: 1
  braved: 1
+ wintersï¿½: 1
  scraps: 2
  kenilworth: 1
- clematis: 2
+ clematis: 3
  goodrich: 1
  hartstongue: 1
- raglands: 1
- maidenhair: 1
+ raglandï¿½s: 1
+ maiden-hair: 1
  claremont: 1
  whims: 1
  humoured: 1
  rearing: 1
- _humility_: 1
- bonny: 3
+ ï¿½bonny: 1
+ broom,ï¿½: 1
  breezy: 1
- beehaunted: 1
- silverfooted: 1
+ bee-haunted: 1
+ silver-footed: 1
  homeless: 1
- crystalglobed: 1
+ crystal-globed: 1
  settle: 1
  veined: 1
  eyelids: 3
@@ -6313,17 +6348,18 @@ the: 3148
  enhanced: 1
  unmarked: 1
  unpruned: 1
- cowdenknowes: 1
+ bonny: 2
+ cowden-knowes: 1
  elsewhere: 1
- _scottish: 1
- song_: 1
+ scottish: 1
  filth: 1
  stoop: 3
  forehead: 1
- morningstar: 2
+ morning-star: 2
  laugh: 2
  foreign: 1
  reckon: 1
+ summers: 1
  exalt: 1
  breckan: 1
  burn: 4
@@ -6338,28 +6374,27 @@ the: 3148
  unblest: 1
  loathed: 1
  joyfully: 1
- _superstition_: 1
  defending: 1
  spectres: 1
  evil: 3
  resembles: 1
  fireworks: 1
  handed: 1
- nurses: 1
- openeyed: 1
+ nurseï¿½s: 1
+ open-eyed: 1
  mouthed: 1
  devour: 1
  garrulous: 1
  ignorance: 2
  relates: 1
- _southey_: 2
- fortunetelling: 1
+ southey: 2
+ fortune-telling: 1
  grounds: 2
  tea: 1
  gipsies: 1
  agues: 1
  sell: 3
- henroost: 1
+ hen-roost: 1
  prepared: 2
  catch: 2
  unlock: 1
@@ -6372,7 +6407,7 @@ the: 3148
  deceived: 2
  bathing: 1
  renovated: 1
- gospels: 1
+ gospelï¿½s: 1
  prone: 1
  workings: 1
  omens: 1
@@ -6404,7 +6439,7 @@ the: 3148
  nick: 1
  towzie: 1
  tyke: 1
- screwd: 1
+ screwï¿½d: 1
  pipes: 1
  gart: 1
  skirl: 1
@@ -6412,7 +6447,7 @@ the: 3148
  dirl: 1
  coffins: 1
  presses: 1
- shawd: 1
+ shawï¿½d: 1
  devilish: 1
  cantraip: 1
  slight: 1
@@ -6420,13 +6455,13 @@ the: 3148
  heroic: 1
  able: 1
  haly: 1
- murderers: 1
+ murdererï¿½s: 1
  banes: 1
  gibbet: 1
  airns: 1
  twa: 1
- spanlang: 1
- unchristend: 1
+ span-lang: 1
+ unchristenï¿½d: 1
  bairns: 1
  thief: 1
  cutted: 1
@@ -6436,7 +6471,7 @@ the: 3148
  gape: 1
  tomahawks: 1
  bluid: 1
- redrusted: 1
+ red-rusted: 1
  scimiters: 1
  murder: 1
  crusted: 1
@@ -6448,11 +6483,10 @@ the: 3148
  bereft: 1
  stack: 1
  heft: 1
- awfu: 1
- evn: 2
+ awfuï¿½: 1
+ evï¿½n: 2
  wad: 1
- unlawfu: 1
- _enchantment_: 1
+ unlawfuï¿½: 1
  kinds: 3
  divinations: 1
  ascribed: 2
@@ -6468,6 +6502,7 @@ the: 3148
  religion: 1
  spells: 1
  provinces: 1
+ shepherds: 3
  juices: 1
  certain: 2
  phases: 1
@@ -6486,27 +6521,26 @@ the: 3148
  tenedos: 1
  iliad: 1
  wrote: 1
- _marlowe_: 1
- forests: 6
+ marlowe: 1
+ forests: 3
  doting: 1
- laughtera: 1
+ laughter--a: 1
  thrilling: 1
  wildly: 2
  witchingly: 1
- overblest: 1
+ over-blest: 1
  gushing: 1
  enliven: 1
- bridalday: 1
+ bridal-day: 1
  mysterious: 1
- novembers: 1
+ novemberï¿½s: 1
  severe: 1
- corpselight: 1
+ corpse-light: 1
  wand: 1
  gracious: 1
  ominous: 1
  planets: 1
- 1831_: 1
- _riches_: 1
+ 1831: 1
  harvest: 3
  represented: 2
  commemoration: 1
@@ -6517,13 +6551,16 @@ the: 3148
  infer: 1
  plenty: 2
  arrive: 1
+ weï¿½ll: 3
  build: 1
  hives: 1
  count: 1
  chink: 1
  jingle: 1
- _dr: 1
- franklin_: 1
+ dr: 1
+ franklin: 1
+ mortals: 1
+ worldlings: 1
  babies: 1
  monkeys: 1
  plainly: 1
@@ -6551,8 +6588,6 @@ the: 3148
  brazil: 1
  pactolus: 1
  dumb: 1
- _cure: 1
- heartache_: 1
  moors: 2
  heaths: 2
  grouse: 1
@@ -6566,11 +6601,11 @@ the: 3148
  wold: 2
  oval: 1
  greenhouse: 1
- dwellingplace: 1
+ dwelling-place: 1
  lightsome: 1
  swamps: 1
  marshes: 1
- hillchildren: 1
+ hill-children: 1
  bushes: 1
  pools: 1
  scores: 1
@@ -6582,19 +6617,18 @@ the: 3148
  booted: 1
  sporting: 1
  squires: 1
- _they_: 2
  chase: 3
  hare: 1
  diversion: 1
- peasantchildrens: 1
+ peasant-childrenï¿½s: 1
  clad: 1
  shoes: 1
  legs: 2
  leap: 1
  poverty: 2
- tellethwhat: 1
+ telleth--what: 1
  suiteth: 1
- yeif: 1
+ ye--if: 1
  peasants: 3
  murmurings: 1
  fondness: 1
@@ -6604,19 +6638,20 @@ the: 3148
  bareheaded: 1
  sparsely: 1
  gleesome: 1
+ godï¿½s: 1
  springing: 1
  unkindly: 1
- _are_: 1
- penurys: 2
+ penuryï¿½s: 2
  crags: 2
  moorlands: 1
+ mornings: 1
  baskets: 1
  wicker: 1
  streamlets: 1
  splash: 1
- _and: 1
+ ï¿½_and: 1
  moil: 1
- thence_: 1
+ thence?_ï¿½: 1
  pence: 1
  hundreds: 3
  pennies: 1
@@ -6630,7 +6665,7 @@ the: 3148
  law: 2
  post: 1
  citadel: 1
- poorof: 1
+ poor--of: 1
  generous: 4
  sorrowing: 2
  deed: 2
@@ -6652,26 +6687,27 @@ the: 3148
  accept: 1
  support: 2
  trial: 1
- _shirley_: 2
+ shirley: 2
  rill: 3
  surer: 1
  unchanged: 2
  firmament: 2
  foulest: 1
- _buckingham_: 1
+ buckingham: 1
  rends: 1
- edwins: 1
- _goldsmith_: 5
+ edwinï¿½s: 1
+ goldsmith: 5
  twining: 1
  tendril: 1
+ pleasureï¿½s: 1
  fonder: 1
  lonelier: 1
  warmer: 1
  rear: 1
  cling: 1
+ fortuneï¿½s: 2
  divide: 1
  uncontaminated: 1
- _foresight_: 1
  evergreens: 1
  churches: 2
  ornament: 3
@@ -6682,20 +6718,19 @@ the: 3148
  added: 1
  fermented: 1
  fibres: 1
- birdlime: 1
+ bird-lime: 1
  catching: 1
  houses: 2
  bays: 2
- _poor: 1
- robins: 1
+ robinï¿½s: 1
  almanac: 1
- 1695_: 1
+ 1695: 1
  reader: 1
  contemplates: 1
  perceives: 1
  ordered: 1
  confound: 1
- atheists: 1
+ atheistï¿½s: 1
  sophistries: 1
  circling: 1
  wrinkled: 1
@@ -6707,7 +6742,7 @@ the: 3148
  moralize: 1
  wherewith: 1
  rhyme: 1
- aftertime: 2
+ after-time: 2
  harsh: 2
  austere: 1
  intrude: 1
@@ -6715,43 +6750,40 @@ the: 3148
  harshness: 1
  asperities: 1
  throng: 2
- ont: 1
+ onï¿½t: 1
  journeying: 1
- wisdoms: 1
+ wisdomï¿½s: 1
  boldly: 1
- _my: 1
- past_: 1
- colchicum: 3
- autumnale: 1
+ colchicum: 7
+ autumnale: 3
  begin: 1
  proclaim: 1
  autumnal: 4
  liquor: 1
  medea: 1
  aged: 4
- æson: 1
+ ï¿½son: 1
  spilled: 1
  medicine: 1
  standing: 1
  herbage: 1
  sear: 1
  blanch: 1
- welli: 1
+ well--i: 1
  beard: 4
  pea: 1
- dryst: 1
- mourners: 1
+ dryï¿½st: 1
+ mournerï¿½s: 1
  ascends: 3
  radiant: 2
  hoary: 1
  dusky: 1
- landssome: 1
+ lands--some: 1
  clay: 2
  psalm: 1
  waning: 1
- _variety_: 1
- afterthought: 2
- dinsarville: 1
+ afterthought: 1
+ dï¿½insarville: 1
  jesuit: 1
  missionary: 2
  1730: 1
@@ -6762,20 +6794,19 @@ the: 3148
  chiding: 1
  foolish: 2
  mirrored: 1
- evervarying: 1
+ ever-varying: 1
  cresty: 1
  scowling: 1
  tempests: 2
  string: 1
- soulflower: 1
- deepthe: 1
+ soul-flower: 1
+ deep--the: 1
  likenesses: 1
  sameness: 2
- varietys: 1
+ varietyï¿½s: 1
  revolving: 1
  pursues: 1
  expiring: 1
- _gay_: 1
  wherefore: 1
  unwithdrawing: 1
  covering: 1
@@ -6783,19 +6814,17 @@ the: 3148
  thronging: 1
  spawn: 1
  innumerable: 1
- _welcome_: 1
- lateblooming: 1
+ late-blooming: 1
  exclusively: 1
  cape: 4
  attractive: 1
  balmy: 1
  freedom: 2
- strangers: 2
+ strangerï¿½s: 1
  reserve: 2
  suspicion: 2
  cares: 2
- wornout: 1
- _protection_: 1
+ worn-out: 1
  smoke: 1
  preference: 3
  infernal: 1
@@ -6808,17 +6837,20 @@ the: 3148
  afford: 1
  animals: 1
  hunters: 1
- woodpigeons: 1
+ wood-pigeons: 1
  breed: 2
  plunder: 1
  forbear: 1
+ true,ï¿½: 1
  averred: 1
- _shenstone_: 1
- _peacereconciliation_: 1
+ young;ï¿½: 1
+ shenstone: 1
+ peace--reconciliation: 1
  restrained: 1
  revenge: 1
  descended: 1
  maia: 1
+ shell: 3
  tortoise: 1
  constructed: 1
  exchange: 1
@@ -6832,20 +6864,19 @@ the: 3148
  unclothed: 1
  prepares: 1
  coppice: 1
- firstfruits: 1
+ first-fruits: 1
  depend: 1
  russet: 1
  fenced: 1
  scaly: 1
  pendent: 1
- anthers: 1
+ antherï¿½s: 1
  resume: 1
- _wm: 1
- leggett_: 1
+ wm: 1
+ leggett: 1
  chasing: 1
  fadeless: 1
- sceptrewith: 1
- _nobility_: 1
+ sceptre!--with: 1
  fairly: 2
  skeleton: 1
  angular: 1
@@ -6859,10 +6890,10 @@ the: 3148
  hereditary: 1
  honours: 2
  possessions: 1
- anothers: 3
+ anotherï¿½s: 3
  sanction: 1
  assumption: 2
- whoeer: 1
+ whoeï¿½er: 1
  valour: 1
  risen: 1
  acorn: 2
@@ -6873,34 +6904,37 @@ the: 3148
  feasted: 1
  hoofs: 1
  trod: 2
- acornperchance: 1
+ acorn--perchance: 1
  sod: 1
- wentthe: 2
+ went.--the: 2
  flexile: 1
  greenery: 1
  passeth: 1
- onthe: 1
+ on.--the: 1
  leafier: 1
  official: 1
- doomèd: 1
+ doomï¿½d: 1
  glanced: 1
- twould: 2
+ ï¿½twould: 2
+ forestï¿½s: 3
  rang: 1
  deathful: 1
- woodmans: 1
- axeand: 1
+ woodmanï¿½s: 1
+ axe;--and: 1
  crashing: 1
  craftsmen: 1
  loads: 1
  squalls: 1
- merchantships: 1
- menofwar: 1
+ merchant-ships: 1
+ men-of-war: 1
+ ï¿½old: 1
  wooden: 2
- banquethall: 1
+ walls.ï¿½: 1
+ banquet-hall: 1
  quaintly: 1
  carved: 1
- dolcis: 1
- raphaels: 1
+ dolciï¿½s: 1
+ raphaelï¿½s: 1
  toilet: 1
  frame: 2
  groaned: 1
@@ -6911,7 +6945,7 @@ the: 3148
  broader: 1
  dappled: 2
  canopy: 1
- fullgrown: 1
+ full-grown: 1
  reckless: 1
  forester: 1
  hawk: 1
@@ -6919,6 +6953,7 @@ the: 3148
  chased: 2
  domains: 1
  wellnigh: 1
+ bygone: 1
  hawking: 1
  trains: 1
  squire: 1
@@ -6948,26 +6983,25 @@ the: 3148
  wicked: 1
  ebbed: 1
  suddenly: 1
- illgot: 1
+ ill-got: 1
  hoards: 1
- estatethe: 1
+ estate--the: 1
  untold: 1
  boy: 5
- wellknown: 1
+ well-known: 1
  restored: 1
  garments: 1
- miser: 1
+ miser: 2
  untrimmed: 1
  pruned: 1
  stored: 1
  chiefly: 1
  bore: 4
  spoke: 3
- _last_: 1
  grandsons: 1
  reverenced: 1
- itthe: 1
- spotthough: 1
+ it--the: 1
+ spot--though: 1
  altered: 2
  stillness: 2
  resound: 2
@@ -6980,7 +7014,7 @@ the: 3148
  cleared: 1
  noisy: 1
  coaches: 1
- rioteven: 1
+ riot,--even: 1
  ancestry: 1
  ignorant: 1
  cowardly: 1
@@ -6990,12 +7024,13 @@ the: 3148
  fiat: 1
  endow: 1
  pension: 1
- gainednot: 1
+ bestow: 1
+ gained--not: 1
  deserved: 1
  endure: 3
  burdens: 1
  pillars: 1
- foundationstone: 1
+ foundation-stone: 1
  nobleness: 1
  distinct: 1
  lean: 1
@@ -7007,7 +7042,7 @@ the: 3148
  sustain: 1
  whereof: 1
  weaker: 1
- _sorrow_: 1
+ minds: 3
  sort: 1
  aversion: 1
  seized: 1
@@ -7018,9 +7053,9 @@ the: 3148
  exhausts: 1
  supports: 1
  destroys: 1
- buryinggrounds: 1
+ burying-grounds: 1
  introduction: 1
- firearms: 1
+ fire-arms: 1
  impressed: 1
  aspect: 3
  invented: 1
@@ -7028,29 +7063,29 @@ the: 3148
  propagate: 1
  prest: 1
  lying: 3
- ellenthere: 1
+ ellen;--there: 1
  suffering: 1
  saint: 8
  complaint: 1
  departed: 2
- brokenhearted: 1
+ broken-hearted: 1
  sweeping: 1
  chords: 2
  dimmed: 1
  throbs: 1
+ passionï¿½s: 1
  fierce: 2
  toll: 1
  knell: 1
  fleshy: 1
  aims: 1
  shaken: 1
- wayworn: 1
+ way-worn: 1
  gear: 1
  demand: 1
- neardrawn: 1
+ near-drawn: 1
  upclose: 1
  refresh: 1
- _death_: 1
  refreshing: 2
  withered: 3
  ourselves: 1
@@ -7069,12 +7104,13 @@ the: 3148
  neere: 1
  vaults: 1
  caves: 1
- churchyards: 1
- charnellhouses: 1
+ church-yards: 1
+ charnell-houses: 1
  loath: 1
- mongst: 1
- thoult: 2
- _habington_: 2
+ designed: 2
+ ï¿½mongst: 1
+ thouï¿½lt: 2
+ habington: 2
  withdraw: 1
  moving: 1
  impulsive: 1
@@ -7082,17 +7118,17 @@ the: 3148
  crack: 1
  spit: 1
  suck: 1
- _carew_: 1
- blossomdst: 1
+ blossomï¿½dst: 1
  languishing: 1
  decays: 1
- meridians: 1
+ phï¿½busï¿½: 1
+ meridianï¿½s: 1
  choked: 1
- phœbe: 1
+ phï¿½be: 1
  faints: 1
  gowns: 1
  deplore: 1
- _drummond_: 1
+ drummond: 1
  denied: 4
  selves: 1
  insatiate: 1
@@ -7114,12 +7150,10 @@ the: 3148
  pitying: 2
  guiltless: 2
  transgression: 1
- hymnwe: 1
+ hymn--we: 1
  strengthening: 1
  anointed: 1
- george: 2
- yond: 1
- greatness_: 1
+ ï¿½yond: 1
  tallest: 1
  nourishes: 1
  weakness: 2
@@ -7127,7 +7161,7 @@ the: 3148
  equally: 2
  formidable: 1
  lowliness: 1
- ambitions: 1
+ ambitionï¿½s: 1
  ladder: 2
  whereto: 1
  climber: 1
@@ -7135,7 +7169,7 @@ the: 3148
  attains: 1
  upmost: 1
  ascend: 1
- mountaintops: 1
+ mountain-tops: 1
  peaks: 1
  wrapt: 1
  surpasses: 1
@@ -7146,8 +7180,8 @@ the: 3148
  summits: 1
  amaze: 1
  glitter: 1
- climbshe: 1
- pantshe: 1
+ climbs,--he: 1
+ pants,--he: 1
  grasps: 1
  demagogue: 1
  dexterous: 1
@@ -7163,12 +7197,11 @@ the: 3148
  scorns: 1
  lays: 3
  supercilious: 1
- _grandeur_: 1
  seal: 1
  unquestioned: 1
  allure: 1
- beautyoh: 1
- changedand: 1
+ beauty--oh: 1
+ changed!--and: 1
  peak: 2
  rattling: 1
  leaps: 2
@@ -7176,30 +7209,31 @@ the: 3148
  shroud: 1
  joyous: 1
  aloud: 1
- nightmost: 1
+ night:--most: 1
  slumber: 3
  sharer: 1
  phosphoric: 1
  big: 1
- blackand: 1
- earthquakes: 1
- domethe: 1
- dianas: 1
- christs: 2
- martyrs: 3
- ephesians: 1
+ black,--and: 1
+ earthquakeï¿½s: 1
+ dome--the: 1
+ dianaï¿½s: 1
+ christï¿½s: 2
+ martyrï¿½s: 1
+ ephesianï¿½s: 1
  miracle: 1
- hyæna: 1
+ columns: 1
+ hyï¿½na: 1
  jackal: 1
- sophias: 1
+ sophiaï¿½s: 1
  roofs: 1
  mass: 1
  sanctuary: 1
  usurping: 1
  moslem: 1
  standest: 1
- alonewith: 1
- zions: 1
+ alone--with: 1
+ zionï¿½s: 1
  desolation: 2
  structures: 1
  piled: 2
@@ -7214,41 +7248,41 @@ the: 3148
  defined: 1
  holies: 1
  peremptory: 1
- eaglesighted: 1
+ eagle-sighted: 1
  blinded: 1
  alchymist: 1
  meagre: 3
  cloddy: 1
  sublimest: 1
  rekindle: 1
- _energy: 1
  italy: 1
  wronged: 1
  rents: 1
  garment: 1
- ruinthy: 1
+ ruin:--thy: 1
  impregnate: 1
  gilds: 1
  revivifying: 1
- onyour: 1
- lifedrop: 1
+ on--your: 1
+ life-drop: 1
  drain: 2
  endures: 1
  grasp: 1
  yours: 1
- oni: 1
+ on--i: 1
  undaunted: 1
  wiles: 1
  draws: 1
  censure: 1
  using: 1
  faults: 1
- th: 2
+ thï¿½: 2
  oppressive: 1
  lament: 1
- manin: 1
+ man--in: 1
  battling: 1
  flying: 2
+ monarchsï¿½: 1
  necks: 1
  footstool: 1
  meanest: 1
@@ -7267,46 +7301,52 @@ the: 3148
  enemy: 1
  hatred: 1
  sedate: 1
- allenduring: 1
+ all-enduring: 1
  spoiled: 1
  unbowed: 1
- _estrangement_: 1
  expels: 1
  nail: 1
  newer: 1
- knowst: 2
+ knowï¿½st: 2
  trifles: 1
+ monthï¿½s: 1
  rolls: 3
  ebb: 1
  confide: 1
+ tis: 1
  otherwise: 1
  decreed: 1
  submit: 1
  adown: 1
  voyage: 1
- nightbirds: 1
- sweetsmiling: 1
+ night-birds: 1
+ sweet-smiling: 1
  parting: 1
- wordfarewell: 1
+ word--farewell: 1
  cords: 1
  sever: 1
- hanson_: 1
+ hanson: 1
  theresa: 3
  darkening: 2
  prospects: 1
  saddening: 1
- _you: 1
- snare_: 1
  secretly: 1
- pirates: 1
+ pirateï¿½s: 1
  sterns: 1
  fight: 2
  mistake: 1
- poisonfangs: 1
+ poison-fangs: 1
  concealing: 1
  stung: 1
  festering: 1
+ ï¿½beware: 1
+ smooth,ï¿½: 1
  smoothest: 1
+ water.ï¿½: 1
+ ï¿½his: 1
+ angelï¿½s: 1
+ heart,ï¿½: 1
+ brother.ï¿½: 1
  guileful: 1
  bitterly: 1
  cunning: 1
@@ -7315,7 +7355,7 @@ the: 3148
  disobedience: 1
  benefactor: 1
  traitor: 1
- theebut: 1
+ thee--but: 1
  heedless: 2
  meant: 1
  destroy: 1
@@ -7323,14 +7363,12 @@ the: 3148
  foes: 1
  beguile: 2
  boldest: 1
- heavenby: 1
+ heaven--by: 1
  emulate: 1
  descendants: 1
  hereafter: 1
- withintrust: 1
- counselbut: 1
- _single: 1
- blessedness_: 1
+ within--trust: 1
+ counsel--but: 1
  earlier: 1
  distilled: 1
  withering: 1
@@ -7341,12 +7379,11 @@ the: 3148
  lent: 2
  drifting: 1
  faithless: 1
- holmes_: 1
- dewnursed: 1
+ holmes: 1
+ dew-nursed: 1
  wither: 3
  sunbeam: 2
  unguarded: 1
- _strength_: 1
  indued: 1
  boys: 1
  maintains: 1
@@ -7374,7 +7411,7 @@ the: 3148
  signal: 1
  expectation: 1
  gapes: 1
- circles: 1
+ circleï¿½s: 1
  bounds: 1
  lashing: 1
  brute: 1
@@ -7384,6 +7421,7 @@ the: 3148
  blindly: 1
  front: 1
  attack: 1
+ eyeï¿½s: 1
  lusty: 1
  decrepitude: 1
  fortitude: 1
@@ -7395,21 +7433,20 @@ the: 3148
  malice: 1
  pierce: 1
  weilds: 1
- _singularity_: 1
  reflected: 1
  plate: 1
  procure: 1
  parian: 1
  brocade: 1
  tyrian: 1
- birthday: 1
- nobles: 1
+ birth-day: 1
+ noblesï¿½: 1
  livery: 1
  uncommon: 1
  risers: 1
  cock: 1
  summon: 1
- decembers: 1
+ decemberï¿½s: 1
  agreeable: 3
  liquid: 1
  apace: 1
@@ -7421,12 +7458,11 @@ the: 3148
  assert: 1
  topics: 1
  vogue: 1
- secretcunning: 1
+ secret--cunning: 1
  rogue: 1
  presumed: 1
  clearer: 1
  hearer: 1
- _submission_: 1
  historians: 1
  confessed: 1
  trodden: 1
@@ -7434,7 +7470,7 @@ the: 3148
  punishing: 1
  violator: 1
  nettle: 5
- fatespiritless: 1
+ fate--spiritless: 1
  grieves: 1
  submits: 1
  control: 2
@@ -7442,18 +7478,19 @@ the: 3148
  shackled: 1
  tracks: 2
  bred: 1
- _crabbe_: 1
+ crabbe: 1
  intents: 1
  directions: 1
  thews: 1
  limbs: 1
  ancestors: 1
+ fathersï¿½: 1
  governed: 2
  yoke: 1
  sufferance: 1
  womanish: 1
  bartered: 1
- golds: 1
+ goldï¿½s: 1
  needy: 1
  wretches: 1
  dishonourable: 1
@@ -7462,7 +7499,7 @@ the: 3148
  lakes: 1
  supplied: 1
  wrecks: 2
- longfallen: 1
+ long-fallen: 1
  compensation: 1
  bloodless: 1
  pasteboard: 1
@@ -7474,18 +7511,18 @@ the: 3148
  repressed: 1
  sinks: 1
  feebly: 1
+ mans: 1
  happier: 1
  meanness: 3
  domes: 1
- cæsars: 1
+ cï¿½sars: 1
  defaced: 1
  tottering: 2
- shelterseeking: 1
+ shelter-seeking: 1
  exults: 1
- _time_: 1
  destroyer: 1
  flinty: 1
- pyramids: 2
+ pyramids: 1
  babylonian: 1
  achaia: 1
  moulder: 1
@@ -7493,8 +7530,8 @@ the: 3148
  tyranny: 1
  thrones: 1
  empires: 2
- _armstrong_: 1
- mantelpiece: 1
+ armstrong: 1
+ mantel-piece: 1
  ticking: 1
  tolls: 1
  clicking: 1
@@ -7533,20 +7570,22 @@ the: 3148
  dowers: 1
  dregs: 1
  prophecy: 2
+ henceforth: 1
  incline: 1
  haste: 1
- timetis: 1
+ time--ï¿½tis: 1
  speeds: 1
  wallet: 1
  alms: 1
- greatsized: 1
+ great-sized: 1
  monster: 1
  ingratitudes: 1
  devoured: 1
  strayed: 1
  methought: 1
+ templeï¿½s: 1
  structure: 1
- scythes: 1
+ scytheï¿½s: 1
  blade: 1
  swathed: 1
  tussocks: 1
@@ -7554,15 +7593,18 @@ the: 3148
  responsive: 1
  furrowed: 1
  meantime: 1
- hourglass: 1
+ hour-glass: 1
  vigils: 1
- softlybreathing: 1
+ softly-breathing: 1
  ditty: 1
+ ï¿½lullaby: 1
  reposes: 1
  sylphs: 1
- _bowles_: 3
+ wing.ï¿½: 1
+ bowles: 3
  relentless: 2
  trophies: 1
+ pyramidï¿½s: 1
  top: 1
  recording: 1
  expire: 1
@@ -7573,8 +7615,8 @@ the: 3148
  stealest: 1
  unperceived: 1
  departing: 1
+ shower: 1
  forgetful: 1
- _misanthropy_: 1
  aching: 1
  ties: 2
  fleetest: 1
@@ -7582,7 +7624,7 @@ the: 3148
  charity: 1
  bone: 1
  relieve: 1
- dogs: 2
+ dogs: 1
  deniest: 1
  prisons: 1
  debts: 1
@@ -7593,7 +7635,7 @@ the: 3148
  tremendous: 1
  meteors: 1
  dismay: 1
- _proctor_: 1
+ proctor: 1
  implacable: 1
  deaf: 1
  prayers: 1
@@ -7601,7 +7643,7 @@ the: 3148
  unappeasable: 1
  rages: 1
  warped: 1
- disappointments: 1
+ disappointmentï¿½s: 1
  conduct: 1
  dupe: 1
  cursed: 1
@@ -7634,7 +7676,6 @@ the: 3148
  quenched: 1
  lasts: 1
  casts: 1
- _serenade_: 1
  inesilla: 1
  cavalier: 1
  delaying: 2
@@ -7642,19 +7683,18 @@ the: 3148
  repining: 1
  paths: 1
  staying: 1
- voicelike: 1
+ voice-like: 1
  utters: 1
  vows: 1
  blossoming: 1
  complaining: 3
  disdaining: 1
  shouts: 1
- daylight: 1
- ravens: 1
+ day-light: 1
+ ravenï¿½s: 1
  mystic: 1
  numbers: 2
  teacheth: 1
- _pity_: 1
  hollowness: 1
  moves: 1
  wretchedness: 1
@@ -7664,13 +7704,14 @@ the: 3148
  allegiance: 1
  fealty: 1
  owe: 1
+ womankind: 1
  ariadne: 1
  athenian: 1
- herso: 1
+ her,--so: 1
  eva: 1
- deathlike: 1
- despairingand: 1
- meadsbeside: 1
+ death-like: 1
+ despairing;--and: 1
+ meads,--beside: 1
  perilous: 1
  feeding: 1
  unearthly: 1
@@ -7680,9 +7721,8 @@ the: 3148
  pitied: 1
  downfall: 1
  amorous: 1
- pity_: 1
  flitted: 1
- talismans: 1
+ talismanï¿½s: 1
  alighting: 1
  inviting: 1
  fleeted: 1
@@ -7693,25 +7733,23 @@ the: 3148
  hum: 1
  surgings: 1
  tides: 1
- pitys: 1
+ pityï¿½s: 1
  instinctively: 1
- tomorrow: 1
+ to-morrow: 1
  snatch: 1
  mates: 1
  scentless: 2
- _domestic: 1
- virtues_: 1
  expectant: 1
  todlin: 1
  stacher: 1
  dad: 1
  flichtering: 1
- weebit: 1
+ wee-bit: 1
  blinkin: 1
  bonilie: 1
  clean: 2
- hearthstane: 1
- wifies: 1
+ hearth-stane: 1
+ wifieï¿½s: 1
  lisping: 1
  prattling: 1
  kiaugh: 1
@@ -7761,18 +7799,17 @@ the: 3148
  relations: 1
  fulfils: 1
  duties: 1
- loveguarded: 1
+ love-guarded: 1
  precinct: 1
  aloof: 1
- _solitude_: 1
  unfrequented: 2
  towns: 1
- nightingales: 1
+ nightingaleï¿½s: 1
  notes: 2
  distresses: 1
  woes: 1
  bewildered: 1
- oercast: 1
+ oï¿½ercast: 1
  sphery: 1
  strains: 1
  dimness: 1
@@ -7788,7 +7825,7 @@ the: 3148
  slanting: 1
  enchanting: 1
  invades: 1
- mindthe: 1
+ mind;--the: 1
  groan: 1
  agonies: 1
  vital: 1
@@ -7800,29 +7837,30 @@ the: 3148
  eddies: 1
  bones: 1
  pyramid: 1
- youthno: 1
+ youth!--no: 1
  lorn: 1
  bard: 1
  melodious: 1
+ strangers: 1
  passionate: 1
- virgins: 2
+ virgins: 1
  rugged: 1
- solitarys: 1
- allforgetting: 1
- allforgot: 1
+ solitaryï¿½s: 1
+ all-forgetting: 1
+ all-forgot: 1
  cavern: 1
- newlygathered: 1
+ newly-gathered: 1
  haply: 1
  collected: 1
  raising: 1
- wandring: 1
- meandring: 1
+ wandï¿½ring: 1
+ meandï¿½ring: 1
  hermit: 4
  footstep: 1
  lucky: 1
  improve: 1
  stop: 1
- selfrespecting: 1
+ self-respecting: 1
  keenly: 1
  despise: 1
  heeds: 1
@@ -7831,15 +7869,15 @@ the: 3148
  saddest: 1
  heaped: 1
  rustle: 1
- rabbits: 1
+ rabbitï¿½s: 1
  wren: 1
  jay: 1
- woodtop: 1
+ wood-top: 1
  sisterhood: 1
  november: 2
- windflower: 1
- wildrose: 1
- goldenrod: 1
+ wind-flower: 1
+ wild-rose: 1
+ golden-rod: 1
  plague: 1
  squirrel: 1
  nuts: 1
@@ -7848,19 +7886,20 @@ the: 3148
  moist: 1
  unmeet: 1
  emblematic: 1
- achillea: 1
+ achillea: 3
  millefolia: 1
  flos: 2
  agrimony: 2
  thankfulness: 1
- almondtree: 1
- amaryllis: 4
+ almond-tree: 1
+ amaryllis: 9
  angelica: 1
  angrec: 1
  royalty: 1
  apple: 1
  asphodel: 2
  regrets: 1
+ after-thought: 1
  gilead: 1
  joking: 1
  impatience: 1
@@ -7869,13 +7908,13 @@ the: 3148
  basil: 3
  bilberry: 1
  treachery: 2
- bladdernut: 1
+ bladder-nut: 1
  frivolous: 1
  amusement: 1
  borage: 2
  bluntness: 1
  bramble: 1
- buckbean: 1
+ buck-bean: 1
  falsehood: 2
  bulrush: 1
  burdock: 1
@@ -7892,12 +7931,12 @@ the: 3148
  chicory: 1
  frugality: 1
  cinquefoil: 1
- circæa: 1
+ circï¿½a: 1
  artifice: 1
- clotbur: 1
+ clot-bur: 1
  rudeness: 1
  clove: 1
- convolvulus: 3
+ convolvulus: 4
  coriander: 1
  cornbottle: 1
  cornel: 1
@@ -7905,7 +7944,7 @@ the: 3148
  cress: 1
  resolution: 1
  cuscuta: 1
- daylily: 3
+ day-lily: 3
  dittany: 1
  childbirth: 1
  dock: 1
@@ -7914,35 +7953,36 @@ the: 3148
  fig: 2
  longevity: 1
  flax: 1
- flowerdeluce: 1
+ flower-de-luce: 1
  fraxinella: 1
- fullers: 1
+ fullerï¿½s: 1
  teasel: 1
  pencilled: 1
  ingenuity: 1
- rosescented: 1
+ rose-scented: 1
  sorrowful: 1
  steadfast: 1
+ utility: 1
  peruvian: 1
  hellenium: 1
- hepatica: 1
+ hepatica: 2
  hop: 1
  injustice: 1
  hornbeam: 1
- horsechestnut: 1
+ horse-chestnut: 1
  hortensia: 1
  freeze: 1
- ipomæa: 2
+ ipomï¿½a: 2
  attach: 2
  myself: 2
- iris: 5
+ iris: 9
  amiableness: 1
  carolina: 2
  separation: 1
  jonquil: 3
  larch: 1
  boldness: 1
- laurustinus: 3
+ laurustinus: 4
  mistrust: 1
  linden: 1
  liverwort: 2
@@ -7965,10 +8005,10 @@ the: 3148
  surmount: 1
  moonwort: 1
  survive: 1
- muskplant: 1
+ musk-plant: 1
  myrobolan: 1
  privation: 1
- enchanters: 1
+ enchanterï¿½s: 1
  nosegay: 1
  gallantry: 1
  hospitality: 1
@@ -7979,22 +8019,23 @@ the: 3148
  parsley: 1
  festivity: 1
  peppermint: 1
- pineapple: 1
+ pine-apple: 1
  plane: 1
  plum: 1
  independence: 1
  poplar: 1
  potato: 1
- largeflowered: 1
+ large-flowered: 1
  privet: 1
  prohibition: 1
  quince: 1
  temptation: 1
- hundredleaved: 1
+ hundred-leaved: 1
  monthly: 1
  musk: 3
  fleeting: 1
  infidelity: 1
+ rosebud: 1
  unacquainted: 1
  rue: 1
  morals: 1
@@ -8009,7 +8050,7 @@ the: 3148
  presumption: 1
  sorrel: 7
  speedwell: 3
- spindletree: 1
+ spindle-tree: 1
  engraven: 1
  bethlehem: 4
  week: 1
@@ -8027,1059 +8068,1017 @@ the: 3148
  tendrils: 1
  surliness: 1
  thrift: 1
- tremella: 2
+ tremella: 3
  nostoc: 1
  truffle: 1
  tussilage: 1
- venuss: 1
- lookingglass: 1
+ venusï¿½s: 1
+ looking-glass: 1
  flattery: 1
- veronica: 2
+ veronica: 5
  intoxication: 1
  candour: 1
+ wallflower: 1
  walnut: 1
  stratagem: 1
  whortleberry: 1
  catholic: 2
- monks: 3
+ monks: 2
  observers: 1
  ritual: 1
  compiled: 1
  catalogue: 1
- saints: 1
+ saintï¿½s: 1
  appropriations: 1
  figures: 1
  january: 2
  1: 14
- _vibernum: 1
- tinus_: 1
+ vibernum: 1
+ tinus: 1
  faine: 1
  fanchea: 1
  irish: 2
  sixth: 5
  2: 14
  groundsel: 3
- _senecio: 4
- vulgaris_: 5
+ senecio: 4
+ vulgaris: 5
  macarius: 1
  alexandria: 4
  394: 2
  3: 16
  persian: 1
- _iris: 4
- persica_: 2
+ persica: 2
  genevieve: 1
  patroness: 7
  422: 1
  4: 16
- _corylus: 1
- avellana_: 1
+ corylus: 1
+ avellana: 1
  titus: 1
  disciple: 2
  paul: 7
  5: 18
  hellebore: 5
- _helleborus: 4
- fœtidus_: 1
+ helleborus: 4
+ fï¿½tidus: 1
  simeon: 3
  stylites: 2
  6: 14
  screw: 1
- _tortula: 1
- rigida_: 1
+ tortula: 1
+ rigida: 1
  nilammon: 1
  7: 15
  portugal: 4
- _prunus: 4
- lusitanica_: 2
+ prunus: 4
+ lusitanica: 2
  kentigerna: 1
  8: 14
- _tremella: 1
- deliquescens_: 1
+ deliquescens: 1
  gudula: 1
  brussels: 1
  9: 16
- laurocerasus_: 1
- smallfruited: 1
+ lauro-cerasus: 1
+ small-fruited: 1
  marciana: 1
  10: 14
  gorse: 1
  furze: 1
- _ulex: 1
- europœus_: 1
+ ulex: 1
+ europï¿½us: 1
  bourges: 1
  1207: 1
  11: 14
- _bryum: 2
- hornum_: 1
- swanneck: 1
- threadmoss: 1
+ bryum: 2
+ hornum: 1
+ swan-neck: 1
+ thread-moss: 1
  theodosius: 1
  12: 13
  hygrometric: 1
- _funaria: 1
- hygrometrica_: 1
+ funaria: 1
+ hygrometrica: 1
  arcadius: 1
- _taxus: 2
- bacata_: 1
+ taxus: 2
+ bacata: 1
  milan: 1
  1497: 1
  14: 12
- _fragaria: 1
- sterilis_: 1
+ fragaria: 1
+ sterilis: 1
  hilary: 1
  368: 1
- _hedera: 1
- helix_: 1
+ hedera: 1
+ helix: 1
  16: 12
- _lamium: 3
- purpureum_: 2
+ lamium: 3
+ purpureum: 2
  marcellus: 2
- pope: 18
  17: 12
- _anemone: 2
- hortensis_: 1
+ hortensis: 1
  anthony: 2
  patriarch: 7
  18: 12
- fourtoothed: 1
- pellucidum_: 1
+ four-toothed: 1
+ pellucidum: 1
  prisca: 1
  martyr: 16
  19: 12
- album_: 3
+ album: 3
  martha: 2
  270: 3
  woolly: 1
- gargaricum_: 1
+ gargaricum: 1
  fabian: 1
  21: 12
- niger_: 1
+ niger: 1
  agnes: 2
  special: 1
  beheaded: 1
  thirteen: 1
  304: 13
  whitlow: 1
- _draba: 1
- verna_: 1
+ draba: 1
+ verna: 3
  vincent: 4
  spanish: 1
- peziza: 1
- _peziza: 1
- acetobolum_: 1
+ peziza: 2
+ acetobolum: 1
  raymond: 2
  pennafort: 1
  1275: 1
  24: 12
  stalkless: 1
- _phascum: 2
- muticum_: 1
+ phascum: 2
+ muticum: 1
  timothy: 5
  250: 2
- hyemalis_: 1
+ hyemalis: 1
  conversion: 1
- butterbur: 2
- _tussilago: 4
- alba_: 4
+ butter-bur: 1
+ tussilago: 4
+ alba: 4
+ coltï¿½s-foot: 2
  polycarp: 1
  27: 12
- cuspidatum_: 1
+ cuspidatum: 1
  chrysostom: 1
- _bellis: 2
- perennis: 1
- plenus_: 2
+ perennis: 3
+ plenus: 2
  margaret: 7
  hungary: 2
  1271: 1
  29: 11
  fern: 2
- _osmunda: 2
- regalis_: 2
+ osmunda: 2
+ regalis: 2
  francis: 5
  sales: 1
  1622: 1
- spleenwort: 2
- _asplenium: 2
- trichomanes_: 1
+ spleen-wort: 2
+ asplenium: 2
+ trichomanes: 1
  martin: 2
- harts: 1
- scolopendrium_: 1
+ hartï¿½s: 1
+ scolopendrium: 1
  marcella: 1
  410: 3
  february: 2
- _fontinalis: 2
- minor_: 3
+ fontinalis: 2
  ignatius: 2
- baytree: 1
- _laurus: 4
- nobilis_: 1
+ bay-tree: 1
+ laurus: 4
+ nobilis: 1
  bridget: 2
  ireland: 2
- _galanthus: 1
- nivalis_: 1
+ snow-drop: 1
+ galanthus: 1
+ nivalis: 1
  purification: 1
- mary: 11
- antipyretica_: 1
+ anti-pyretica: 1
  blase: 1
  armenia: 1
  316: 1
  goldilocks: 2
- _polytrichum: 1
- commune_: 1
+ polytrichum: 1
+ commune: 1
  jane: 1
  joan: 1
  1505: 1
- indica_: 2
- _primula: 7
+ indica: 2
+ primula: 8
  agatha: 1
  sicilian: 1
- acaulis_: 1
+ acaulis: 2
  adelaide: 2
  1015: 1
- _hyacinthus: 3
- orientalis_: 2
+ hyacinthus: 4
+ orientalis: 3
  dorothy: 1
  308: 1
- cyclamen: 1
- roundleafed: 1
- _cyclamen: 1
- coum_: 1
+ cyclamen: 2
+ round-leafed: 1
+ coum: 1
  romuald: 1
  1027: 1
- narrowleafed: 2
- _mnium: 2
- androgynum_: 1
- john: 15
+ narrow-leafed: 2
+ mnium: 2
+ androgynum: 1
  matha: 1
  1213: 1
- _narcissus: 14
- romanus_: 1
+ romanus: 2
  apollonia: 1
  249: 1
- _daphne: 1
- mezereon_: 1
  scholastica: 1
  543: 2
  silky: 1
  fork: 1
- heteromallum_: 1
+ heteromallum: 1
  coteris: 1
  fourth: 7
- verna: 2
- rubra_: 6
+ rubra: 6
  theodora: 2
  empress: 5
  367: 1
- hepatica_: 1
  eulalia: 2
  barcelona: 1
  polyanthos: 2
- _plimula: 1
- polyanthus_: 1
+ plimula: 1
+ polyanthus: 1
  catherine: 5
  ricci: 1
  1589: 1
- mœsiacus_: 1
- aureus_: 1
+ mï¿½siacus: 1
+ aureus: 1
  valentine: 1
  priest: 1
  cloth: 1
- sulphureus_: 1
+ sulphureus: 1
  sigifred: 1
  sweden: 3
  1002: 1
- acaulis: 1
- plena_: 1
+ plena: 1
  juliana: 2
  scotch: 2
- susianus_: 1
+ susianus: 1
  flavian: 1
  archbishop: 18
  constantinople: 4
  449: 1
- _veronica: 3
- vernus: 1
- arvensis_: 7
+ arvensis: 7
  jerusalem: 3
- agrestis_: 3
- barbatus: 1
+ agrestis: 3
+ barbatus: 2
  patron: 4
  benevento: 1
  682: 1
  cynoglossum: 1
  omphalodes: 1
- lusitanicum_: 1
+ lusitanicum: 1
  milfred: 1
  abbess: 10
  munster: 1
- albus_: 2
+ albus: 3
  servianus: 1
  452: 1
- perennis_: 2
  cortona: 1
  1297: 1
  apricot: 1
- armeniaca_: 1
+ armeniaca: 1
  milburge: 1
  ethelbert: 1
- _amygdalus: 1
+ amygdalus: 1
  walburg: 1
  swabia: 1
  germany: 2
- _vinca: 1
+ vinca: 1
  victor: 1
  seventh: 3
  lungwort: 1
- _pulmonaria: 1
- officinalis_: 8
+ pulmonaria: 1
+ officinalis: 8
  leander: 1
  596: 1
  proterius: 1
  557: 1
  leek: 1
- _allium: 2
- porrum_: 1
+ allium: 2
+ porrum: 1
  david: 1
  wales: 1
  544: 1
  chickweed: 3
- mouseear: 2
- _cerastium: 1
- pumilum_: 1
+ mouse-ear: 2
+ cerastium: 1
+ pumilum: 1
  chad: 1
  ceada: 1
  lombards: 1
- _mesembryanthemum: 3
- aureum_: 1
+ mesembryanthemum: 7
+ aureum: 1
  cunegunda: 1
  1040: 1
- _alsine: 1
- media_: 1
+ alsine: 1
+ media: 1
  casimir: 1
  poland: 1
  1458: 1
- viridis_: 1
+ viridis: 1
  adrian: 2
  309: 1
- _pseudo: 1
- multiplex_: 1
+ pseudo: 1
+ multiplex: 1
  colette: 1
- simplex_: 1
+ simplex: 1
  perpetua: 1
  martyred: 2
  emperor: 1
  severus: 1
- everblowing: 1
- _rosa: 7
- semperflorens_: 1
- rosa: 1
+ ever-blowing: 1
+ rosa: 8
+ semperflorens: 1
  viterbo: 1
  1261: 1
- lœtus_: 1
+ lï¿½tus: 1
  felix: 3
  646: 3
- hooppetticoat: 1
- bulbocodium_: 2
+ hoop-petticoat: 1
+ bulbocodium: 2
  bologna: 1
  1463: 1
- triphyllos_: 1
- droctavæus: 1
+ triphyllos: 1
+ droctavï¿½us: 1
  abbot: 12
  580: 1
  cornish: 1
- _erica: 10
- vagans_: 1
+ erica: 10
+ vagans: 1
  eulogius: 2
  cordova: 1
  851: 1
- ixia: 1
- crocusleafed: 1
- _ixia: 2
- _viscum: 1
- albus: 1
- bulbus_: 1
+ ixia: 3
+ crocus-leafed: 1
+ viscum: 1
+ bulbus: 1
  gregory: 3
- prætor: 1
+ prï¿½tor: 1
  574: 1
- _viola: 5
- tricolor_: 2
+ viola: 5
+ tricolor: 2
  euphrasia: 1
  bindweed: 1
- _soldanella: 1
- alpina_: 3
+ soldanella: 1
+ alpina: 3
  maud: 1
  matilda: 1
  968: 1
- farfara_: 1
+ farfara: 1
  zachary: 1
  752: 1
- nutans_: 1
+ nutans: 1
  julian: 2
  cilicia: 1
  gertrude: 2
  626: 1
  shamrock: 1
  trefoil: 1
- _trifolium: 1
- repens_: 1
+ trifolium: 1
+ repens: 1
  patrick: 1
  apostle: 10
- leopards: 2
- _doronicum: 2
- pardalianches_: 1
+ leopardï¿½s: 2
+ doronicum: 2
+ pardalianches: 1
  cyril: 3
- _ornithogalum: 2
- luteum_: 3
+ ornithogalum: 2
+ luteum: 3
  joseph: 1
- canina_: 1
+ spouse: 1
+ dogï¿½s: 1
+ canina: 1
  wolfram: 1
  sens: 1
  720: 1
  fumitory: 2
  bulbous: 1
- _fumaria: 2
- bulbosa_: 1
+ fumaria: 2
+ bulbosa: 1
  bennet: 2
  benedict: 2
  founder: 5
  ficaria: 1
  1381: 1
  peerless: 1
- incomparabilis_: 1
+ incomparabilis: 1
  alphonsus: 1
  turibius: 1
  lima: 2
  1606: 1
  saxifrage: 2
- _chrysosplenium: 1
- oppositifolium_: 1
- irenæus: 2
+ chrysosplenium: 1
+ oppositifolium: 1
+ irenï¿½us: 2
  sirmium: 1
- _calendula: 4
+ calendula: 4
  annunciation: 1
  henbane: 1
- nightshadeleafed: 1
- _hyosciamus: 1
- scopalia_: 1
+ nightshade-leafed: 1
+ hyosciamus: 1
+ scopalia: 1
  braulio: 1
  saragossa: 1
- odorus_: 1
- plantagineum_: 1
+ odorus: 1
+ plantagineum: 1
  priscus: 1
  260: 1
- oxlip: 1
- elatior_: 1
+ ox-lip: 1
+ elatior: 1
  eustatius: 1
  625: 1
  jonas: 1
  327: 1
- watercress: 1
- _cardamine: 1
- hirsuta_: 1
+ water-cress: 1
+ cardamine: 1
+ hirsuta: 1
  climacus: 1
  zosimus: 1
  syracuse: 2
  660: 1
- benjamin: 2
- benzoin_: 1
+ benzoin: 1
  deacon: 1
  424: 1
- _mercurialis: 1
- annua_: 1
+ mercurialis: 1
+ annua: 1
  hugh: 1
  1132: 1
  paula: 1
  calabria: 1
  alkanet: 1
- _anchusa: 1
- sempervirens_: 3
+ anchusa: 1
+ sempervirens: 3
  agape: 1
- _fritillaria: 2
- imperialis_: 1
+ fritillaria: 2
+ imperialis: 2
  isidore: 1
  seville: 1
  636: 1
- imperialis: 1
  ferrer: 1
  1419: 1
  starch: 1
- racemosus_: 1
+ racemosus: 1
  sixtus: 1
- _anemona: 1
- nemorosa_: 1
+ anemona: 1
+ nemorosa: 1
  aphraates: 1
- groundivy: 1
- _glechoma: 1
- hederacea_: 1
+ ground-ivy: 1
+ glechoma: 1
+ hederacea: 1
  dionysius: 2
  corinth: 1
- _primula_: 1
  421: 1
- tambrigens_: 1
+ tambrigens: 1
  mechtildes: 1
  fourteenth: 1
- _leontodon: 5
- taraxacum_: 3
+ leontodon: 5
+ taraxacum: 3
  leo: 2
  461: 1
- thickleafed: 1
- _saxifraga: 1
- crassifolia_: 1
+ thick-leafed: 1
+ saxifraga: 1
+ crassifolia: 1
  zeno: 1
  380: 1
- viridiflorus_: 2
+ viridiflorus: 2
  hermenegild: 1
  586: 1
- _borago: 1
+ borago: 1
  lidwina: 1
  1184: 1
  stitchwort: 1
- _stellaria: 1
- holostea_: 1
+ stellaria: 1
+ holostea: 1
  peter: 4
  gonzales: 1
  1246: 1
- _tulipa: 3
- sylvestris_: 3
+ tulipa: 3
+ sylvestris: 3
  joachim: 1
  sienna: 3
  1305: 1
- arum: 2
- friars: 1
+ arum: 4
+ friarï¿½s: 1
  cowl: 1
- broadleafed: 1
- _arum: 2
- arisarum_: 1
+ broad-leafed: 1
+ arisarum: 1
  stephen: 4
  citeaux: 1
  1134: 2
- moschatus_: 1
+ moschatus: 1
  appollonius: 1
  garlic: 1
- ursinum_: 1
+ ursinum: 1
  ix: 1
  1054: 1
  snowflake: 1
- _leucoium: 1
- vernum_: 1
+ leucoium: 1
+ vernum: 1
  monte: 2
  pulciano: 1
  1317: 1
- orientalis: 1
  anselm: 1
  crowfoot: 2
- _ranunculus: 5
- auricomus_: 1
+ auricomus: 1
  rufus: 1
  glendaloch: 1
  harebell: 1
  non: 1
- scriptus_: 1
- spinosa_: 1
+ scriptus: 1
+ spinosa: 1
  fidelis: 1
  clarimond: 1
- præcox_: 1
+ prï¿½cox: 1
  evangelist: 4
- erysimum: 1
- _erysimum: 1
- barbarea_: 1
+ erysimum: 2
+ barbarea: 1
  richarius: 1
  645: 1
- major_: 1
+ major: 1
  anastasius: 1
  401: 1
- maculatum_: 2
+ maculatum: 2
  sts: 4
  didymus: 1
- robert: 2
- _geranium: 1
- robertianum_: 1
+ robertianum: 1
  molesme: 1
  1110: 1
- veris_: 1
+ veris: 1
  1380: 1
  genser: 1
- gesnerina_: 1
+ gesnerina: 1
  philip: 3
  apostles: 1
- bachelors: 2
+ bachelorï¿½s: 2
  button: 2
- _lychnis: 2
- dioica_: 1
- james: 2
+ lychnis: 2
+ dioica: 1
  tumult: 1
  charlock: 1
- _raphanus: 1
- raphanistrum_: 1
- _sinapus: 1
+ raphanus: 1
+ raphanistrum: 1
+ sinapus: 1
  athanasius: 1
  373: 1
- poeticus_: 1
+ poeticus: 1
  discovery: 2
  326: 1
  gilliflower: 1
- _cheiranthus: 1
- incanus_: 1
+ cheiranthus: 1
+ incanus: 1
  monica: 1
  augustine: 3
- appletree: 1
- _pyrus: 1
- malus_: 1
+ apple-tree: 1
+ pyrus: 1
+ malus: 1
  angelus: 1
  pius: 1
  v: 1
  1572: 2
- _trollius: 2
- europæus_: 1
+ trollius: 2
+ europï¿½us: 1
  damascene: 1
  780: 1
  asiatic: 1
- asiaticus_: 2
+ asiaticus: 2
  beverly: 1
- _convallaria: 2
- majalis_: 1
+ convallaria: 2
+ majalis: 1
  selena: 1
- multiflora_: 1
+ multiflora: 1
  nazianzen: 1
  389: 2
- slenderleafed: 1
- _pæonia: 2
- tenuifolia_: 1
+ slender-leafed: 1
+ pï¿½onia: 2
+ tenuifolia: 1
  comgal: 1
  601: 1
  lancashire: 1
- _asphodelus: 1
- luteus_: 2
+ asphodelus: 1
+ luteus: 2
  mammertus: 1
  vienna: 1
  477: 1
- germanica_: 1
+ germanica: 1
  germanus: 1
  733: 1
  comfrey: 1
- _symphytum: 1
+ symphytum: 1
  558: 1
  coralline: 1
- corollina_: 1
+ corollina: 1
  pontius: 1
  258: 2
  welsh: 1
- _papaver: 6
- cambricum_: 1
+ papaver: 6
+ cambricum: 1
  dympna: 1
- umbellatum_: 2
+ umbellatum: 2
  nepomucene: 1
  1383: 1
- argemone_: 1
+ argemone: 1
  paschal: 1
  1592: 1
  hawkweed: 14
- _hieracium: 7
- pilosella_: 3
+ hieracium: 7
+ pilosella: 3
  eric: 1
  1151: 1
+ monkï¿½s: 1
  hood: 1
- _aconitum: 1
- napellus_: 1
+ aconitum: 1
+ napellus: 1
  dunstan: 1
  988: 1
- _æschylus: 1
- hippocastanum_: 1
+ ï¿½schylus: 1
+ hippocastanum: 1
  bernardine: 1
  1444: 1
  ragged: 1
- cuculi_: 1
+ cuculi: 1
  cantalicio: 1
  1587: 1
- _tragopogon: 3
- pratensis_: 3
+ tragopogon: 3
+ pratensis: 3
  yvo: 1
  1303: 1
- _springa: 1
+ springa: 1
  julia: 1
  fifth: 3
  monkey: 1
- orientale_: 1
+ orientale: 1
  lerins: 1
  450: 2
- _geum: 1
- urbanum_: 1
+ geum: 1
+ urbanum: 1
  urban: 1
  223: 1
- rhododendron: 1
- _rhododendron: 1
- ponticum_: 1
+ rhododendron: 2
+ ponticum: 1
  604: 1
- azalea: 1
- _azalea: 1
- pontica_: 1
+ azalea: 2
+ pontica: 1
  neri: 1
  1595: 1
- acris_: 2
+ acris: 3
  526: 1
- acris: 1
  bede: 1
  735: 1
  lurid: 1
- lurida_: 1
+ lurida: 1
  germain: 1
  576: 1
- _centaurea: 4
- montana_: 1
+ centaurea: 4
+ montana: 1
  275: 2
  spearwort: 1
- flammula_: 1
+ flammula: 1
  ferdinand: 1
  iii: 1
  confessor: 2
  1252: 1
- _lilium: 4
- pomponium_: 1
+ turkï¿½s: 1
+ lilium: 4
+ pomponium: 1
  petronilla: 1
  justin: 1
  167: 1
- _anagallis: 1
+ anagallis: 1
  erasmus: 1
  303: 5
  meaux: 1
- provincialis_: 1
+ provincialis: 1
  cecilius: 1
  211: 1
- _dianthus: 5
- chinensis_: 2
+ dianthus: 5
+ chinensis: 2
  quirinus: 1
- threeleafed: 2
- sinica_: 1
+ three-leafed: 2
+ sinica: 1
  boniface: 1
  friesland: 1
  mentz: 1
  primate: 1
  belgium: 1
  eighth: 3
- deltoides_: 1
+ deltoides: 1
  norbert: 1
  centaury: 1
- _chironia: 2
- centaureum_: 1
+ chironia: 3
+ centaureum: 1
  350: 2
- moneywort: 1
- twopence: 1
- loosestrife: 2
- _lysimachia: 1
- nummularia_: 1
+ money-wort: 1
+ two-pence: 1
+ loosestrife: 1
+ lysimachia: 1
+ nummularia: 1
  medard: 1
- _berberis: 1
+ berberis: 1
  columba: 1
  597: 1
- pseudoacorus_: 1
+ pseudo-acorus: 1
  1093: 1
- _crysanthemum: 1
- leucanthemum_: 1
+ crysanthemum: 1
+ leucanthemum: 1
  barnabas: 1
  1479: 1
  padua: 1
  1231: 2
- _ocimum: 1
- basilicum_: 1
+ ocimum: 1
+ basilicum: 1
  379: 1
- _mimosa: 1
- sensitiva_: 1
+ sensitiva: 1
  vitus: 1
- muscosa_: 1
+ muscosa: 1
  julietta: 2
- monkeyflower: 1
- _mimulus: 1
+ monkey-flower: 1
+ mimulus: 1
  nicandeo: 1
  horned: 1
- _chelidonium: 1
- glaucum_: 1
+ chelidonium: 1
+ glaucum: 1
  marina: 1
  julienne: 1
  nuit: 1
- _hesperis: 1
- tristis_: 1
+ hesperis: 1
+ tristis: 1
  falconieri: 1
  1340: 1
- dubium_: 1
+ dubium: 1
  silverius: 1
  538: 1
- vipers: 1
- _echium: 1
- vulgare_: 2
+ viperï¿½s: 1
+ echium: 1
+ vulgare: 2
  aloysius: 1
  1591: 2
- _campanula: 2
- medium_: 1
+ campanula: 2
+ medium: 1
  paulinus: 1
  nola: 1
  431: 1
- _cypripedium: 1
- calceolus_: 1
+ cypripedium: 1
+ calceolus: 1
  etheldreda: 1
  679: 1
- _hipericum: 1
- pulchrum_: 1
+ hipericum: 1
+ pulchrum: 1
  nativity: 2
  baptist: 1
- barbatus_: 1
  virgine: 1
  1142: 1
  sowthistle: 5
  hairy: 2
- _sonchus: 5
- cœruleus_: 1
+ sonchus: 5
+ cï¿½ruleus: 1
  reingarda: 1
  1135: 1
  perforated: 1
- _hypericum: 1
- perforatum_: 1
+ hypericum: 1
+ perforatum: 1
  montier: 1
  cornflower: 1
- cyanus_: 1
+ cyanus: 1
  lyons: 1
  rattle: 1
- _rhinanthus: 1
- cristagalli_: 1
- cistus: 1
- _cistus: 1
- helianthemum_: 1
- _agrimonia: 1
- eupatoria_: 1
+ rhinanthus: 1
+ crista-galli: 1
+ cistus: 2
+ helianthemum: 1
+ agrimonia: 1
+ eupatoria: 1
  aaron: 1
- candidum_: 1
- _malva: 2
+ candidum: 1
+ malva: 2
  phocas: 1
  tawny: 1
- _hemerocallis: 2
- fulva_: 3
+ hemerocallis: 2
+ fulva: 3
  ulric: 1
  augsburg: 1
- sulphurea_: 1
+ sulphurea: 1
  edana: 1
  elphin: 1
  tuam: 1
- _crepis: 7
- barbata_: 1
+ crepis: 7
+ barbata: 1
  anchorite: 1
  nasturtium: 1
- _tropæolum: 1
- majus_: 1
+ tropï¿½olum: 1
+ majus: 1
  nantes: 1
  584: 1
- _œnothera: 1
- biennis_: 1
+ ï¿½nothera: 1
+ biennis: 1
  elizabeth: 2
  1336: 1
- palustris_: 2
+ palustris: 2
  everildis: 1
  speckled: 2
- _antirrhinum: 3
- triphyllum_: 1
+ antirrhinum: 3
+ triphyllum: 1
  rufina: 1
  secunda: 1
  lupine: 4
- _lupinus: 3
- flavus_: 1
+ lupinus: 3
+ flavus: 1
  nisibis: 1
  gualbert: 1
  1073: 1
- hirsutus_: 1
+ hirsutus: 1
  eugenius: 1
  505: 1
  bonaventure: 1
  1274: 1
- pluvialis_: 1
+ pluvialis: 1
  swithin: 1
  862: 1
- _convolvulus: 1
- purpureus_: 1
+ purpureus: 1
  eustathius: 1
  antioch: 3
  338: 1
- sweetpea: 1
- _lathyrus: 1
- odoratus_: 1
+ sweet-pea: 1
+ lathyrus: 1
+ odoratus: 1
  marcellina: 1
  397: 3
- _chrysanthemum: 2
- coronarium_: 1
+ chrysanthemum: 4
+ coronarium: 1
  bruno: 2
  1125: 1
- auranticum_: 1
+ auranticum: 1
  paule: 1
  1660: 1
- dragons: 1
+ dragonï¿½s: 1
  virginian: 1
- _dracocephalus: 1
- virginianum_: 1
+ dracocephalus: 1
+ virginianum: 1
  philadelphian: 1
- philadelphicum_: 1
+ philadelphicum: 1
  praxedes: 1
  african: 4
- _agapanthus: 1
- umbellatus_: 1
+ agapanthus: 1
+ umbellatus: 1
  magdalen: 1
- _scabias: 1
- atropurpurea_: 1
+ scabias: 1
+ atro-purpurea: 1
  apollinaris: 1
  ravenna: 1
- _lupinits: 1
- arboreus_: 2
+ lupinits: 1
+ arboreus: 2
  lupus: 1
  478: 1
  christopher: 2
- _actea: 1
- spicata_: 1
+ actea: 1
+ spicata: 1
  feverfew: 2
- _matricaria: 1
- chamomilla_: 1
+ matricaria: 1
+ chamomilla: 1
  ann: 1
- _lythrum: 1
- salicaria_: 1
+ loose-strife: 1
+ lythrum: 1
+ salicaria: 1
  pantaleon: 1
- montanus_: 1
+ montanus: 1
  417: 1
- chironia: 1
- centorium_: 1
+ centorium: 1
  mullein: 2
- _verbascum: 2
- lychnitis_: 1
- virgatum_: 1
+ verbascum: 2
+ lychnitis: 1
+ virgatum: 1
  loyola: 1
  jesuits: 1
  1556: 1
  stramony: 2
- _datura: 2
- stramonium_: 1
+ datura: 2
+ stramonium: 1
  ad: 2
  vincula: 1
- tigrum_: 1
+ tigrum: 1
  alfrida: 1
  834: 1
- _althea: 2
- rosea_: 1
+ rosea: 1
  415: 1
- rotundifolia_: 1
+ rotundifolia: 1
  dominic: 1
  friar: 1
  preachers: 1
  1221: 1
  egyptian: 1
- _nelumbo: 1
- nilotica_: 1
+ nelumbo: 1
+ nilotica: 1
  nives: 1
- _colchicum: 4
- autumnale_transfiguration: 1
+ autumnale_.--transfiguration: 1
  tabor: 1
- _amaranthus: 2
- hypochondriacus_: 1
  cajetan: 1
  1547: 1
- procumbens_: 1
+ procumbens: 1
  hormisdas: 1
  ragwort: 2
- jacobæa_: 1
- romanus: 1
- _impatiens: 1
- balsamea_: 1
+ jacobï¿½a: 1
+ impatiens: 1
+ balsamea: 1
  lawrence: 2
- _aster: 14
  susanna: 1
  third: 3
  clare: 1
  1253: 1
- paludosus_: 1
+ birdï¿½s: 1
+ paludosus: 1
  radigunda: 1
- zinnia: 1
- _zinnia: 1
- elegans_: 1
+ zinnia: 2
+ elegans: 1
  eusebius: 1
- _clematis: 1
- vitalba_: 1
+ virginï¿½s: 1
+ vitalba: 1
  miraculous: 1
  ascent: 1
- belladonna: 1
- _amaryllis: 5
- belladonna_: 1
+ belladonna: 2
  1257: 1
  toadflax: 1
- linaria_: 1
+ linaria: 1
  manus: 1
- _tagetes: 2
- erecta_: 1
+ tagetes: 2
+ erecta: 1
  382: 1
- cats: 2
- _phleum: 2
- panniculatum_: 1
- _ph: 1
- asperum_: 1
- serotinus_: 1
+ catï¿½s: 2
+ phleum: 2
+ panniculatum: 1
+ ph: 1
+ asperum: 1
+ serotinus: 1
  bernard: 1
  1153: 1
- patula_: 1
+ patula: 1
  jean: 1
  francois: 1
  chantal: 1
  1641: 1
- pratense_: 1
+ pratense: 1
  311: 1
  tansy: 1
- _tanacetum: 1
+ tanacetum: 1
  beniti: 1
  1285: 1
- _helianthus: 3
- annuus_: 1
+ helianthus: 3
+ annuus: 1
  bartholomew: 1
  perennial: 2
- multiflorus_: 2
+ multiflorus: 2
  louis: 1
  1270: 1
  banded: 1
- rotata_: 1
+ rotata: 1
  zephyrinus: 1
  219: 1
- cæsarius: 1
+ cï¿½sarius: 1
  arles: 1
  542: 1
- _solidago: 5
+ solidago: 6
  virga: 1
- aurea_: 2
+ aurea: 2
  430: 1
- flava_: 1
+ flava: 1
  sabinus: 1
  697: 1
  guernsey: 1
- sarniensis_: 1
+ sarniensis: 1
  1617: 1
- pheasants: 1
- _adonis: 1
- autumnalis_: 3
+ pheasantï¿½s: 1
+ autumnalis: 3
  nonnatus: 1
  1240: 1
  september: 1
  orpine: 2
- _sedum: 1
- telephium_: 1
+ sedum: 1
+ telephium: 1
  giles: 1
  beggars: 1
  cripples: 1
  nismes: 1
  750: 1
- _solidago_: 1
  thirteenth: 1
- fleabane: 4
- _inula: 3
- dysenterica_: 1
+ flea-bane: 1
+ inula: 3
+ dysenterica: 1
  younger: 2
  592: 1
  soapwort: 2
- _saponaria: 2
+ saponaria: 2
  rosalia: 1
  1160: 1
  mushroom: 4
- _agaricus: 5
- campestris_: 1
+ agaricus: 5
+ campestris: 1
  laurence: 1
  justinian: 1
  venice: 1
@@ -9087,381 +9086,364 @@ the: 3148
  pambo: 1
  nitria: 1
  385: 1
- solidaginoides_: 1
+ solidaginoides: 1
  560: 1
- amellus_: 1
+ amellus: 1
  306: 1
  canadian: 1
- canadensis_: 1
+ canadensis: 1
  omer: 1
  607: 1
  pulcheria: 1
  453: 1
- variegatum_: 1
- hyacinthus: 1
- passionflower: 5
+ variegatum: 1
+ passion-flower: 5
  semilunar: 1
- _passiflora: 5
- peltata_: 1
+ passiflora: 5
+ peltata: 1
  earnswith: 1
  officinal: 1
- sativus_: 1
+ sativus: 1
  608: 1
- cœrulea_: 1
+ cï¿½rulea: 1
  exaltation: 1
  629: 1
  byzantine: 1
- byzanticum_: 1
+ byzanticum: 1
  nicetas: 1
- seablue: 1
- tripolium_: 1
+ sea-blue: 1
+ tripolium: 1
  editha: 1
  984: 1
- angustifolia_: 1
+ angustifolia: 1
  lambert: 1
  709: 2
  pendulous: 1
- pendulus_: 1
+ pendulus: 1
  valencia: 1
- 1555: 1
  scabius: 1
- devils: 1
+ devilï¿½s: 1
  bit: 1
- _scabiosa: 1
- succisa_: 1
+ scabiosa: 1
+ succisa: 1
  lucy: 2
  1090: 1
- autumnale_: 2
  eustachius: 1
- fringedleafed: 1
- ciliata_: 1
+ fringed-leafed: 1
+ ciliata: 1
  matthew: 1
- boletus: 2
- _boletus: 2
+ boletus: 4
  maurice: 1
  bushy: 1
- dumosus_: 1
+ dumosus: 1
  thecla: 1
  fungus: 2
- fimetarius_: 2
+ fimetarius: 2
  gerard: 1
  1046: 1
  fungi: 1
- bovinus_: 1
+ bovinus: 1
  ceolfrid: 1
  716: 1
- gigantea_: 2
+ gigantea: 2
  justina: 1
- smallleafed: 1
+ small-leafed: 1
  delphina: 1
  1323: 1
  eustochium: 1
  419: 1
  michaelmas: 1
- tradescanti_: 1
+ tradescanti: 1
  michael: 1
  jerome: 1
  420: 1
- humilis_: 1
+ humilis: 1
  remigius: 1
  rheims: 1
  533: 1
  guardian: 1
- helenium: 2
- _helenium: 2
- pubescens_: 1
+ helenium: 4
+ pubescens: 1
  areopagite: 1
  southernwood: 1
- _artemisa: 1
- abrotanum_: 1
+ artemisa: 1
+ abrotanum: 1
  assissi: 1
  franciscans: 1
  1226: 1
  starlike: 1
- _boltonia: 1
- asteroides_: 1
+ boltonia: 1
+ asteroides: 1
  placidus: 1
  546: 1
- _pyrethrum: 1
- serotinum_: 2
+ pyrethrum: 1
+ serotinum: 2
  carthusian: 1
  1101: 1
- chrysanthemum: 2
- indicum_: 1
+ indicum: 1
  336: 1
  maudlin: 1
- _achillea: 2
- ageratum_: 1
+ ageratum: 1
  1373: 1
  lactifluus: 1
- listeri_: 1
+ listeri: 1
  denys: 1
- aletris: 3
- wavedleafed: 1
- _aletris: 2
- viridifolia_: 1
+ aletris: 5
+ waved-leafed: 1
+ viridifolia: 1
  borgia: 1
- _ilex: 2
- aquifolium_: 1
+ ilex: 2
+ aquifolium: 1
  ethelburga: 1
  664: 1
- undulata_: 1
+ fleabane: 3
+ undulata: 1
  wilfred: 1
- edward: 1
  1066: 1
  calixtus: 1
- moschata_: 1
+ moschata: 1
  teresa: 1
  1582: 1
  yarrow: 1
- millefolium_: 1
- indicus_: 1
+ millefolium: 1
+ indicus: 1
  anstrudis: 1
  688: 1
- floccosus_: 1
+ floccosus: 1
  luke: 1
- tickseed: 2
- _coreopsis: 2
- procera_: 1
+ tick-seed: 2
+ coreopsis: 2
+ procera: 1
  frideswith: 1
  oxford: 1
- suaveolens_: 1
+ suaveolens: 1
  artemius: 1
  362: 2
- silphium: 2
- hairystalked: 1
- _silphium: 2
- asteriscus_: 1
+ silphium: 4
+ hairy-stalked: 1
+ asteriscus: 1
  ursula: 1
- trifoliatum_: 1
+ trifoliatum: 1
  nunilo: 1
  840: 1
- slenderstalked: 1
- junceus_: 1
+ slender-stalked: 1
+ junceus: 1
  theodoret: 1
  carolinus: 1
- flexuosus_: 1
+ flexuosus: 1
  proclus: 1
  447: 1
- conizoides_: 1
+ conizoides: 1
  crispin: 1
  287: 2
- miser_: 1
  crispinian: 1
- 287these: 1
+ 287.--these: 1
  brothers: 2
+ martyrs: 2
  shoemakers: 1
  patrons: 1
- petiolaris_: 1
+ petiolaris: 1
  evaristus: 1
  112: 1
  floribund: 1
- floribundus_: 1
+ floribundus: 1
  frumentius: 1
  ethiopia: 1
- lateflowering: 1
- _chrys: 1
+ late-flowering: 1
+ chrys: 1
  simon: 1
  zealot: 1
- passiflorus_: 1
+ passiflorus: 1
  jude: 1
  second: 1
  mixed: 1
  centurion: 1
  298: 1
- fennelleaved: 1
- ferulafolia_: 1
+ fennel-leaved: 1
+ ferulafolia: 1
  quintin: 1
- _laurustinus: 1
  fortunatus: 1
- _physalis_: 1
+ physalis: 2
  marcian: 1
  387: 1
  flour: 1
- _arbutus_: 1
+ arbutus: 1
  brinstane: 1
  winchester: 1
  931: 1
- _physalis: 1
- alkakengi_: 1
+ alkakengi: 1
  bertille: 1
  chelles: 1
  692: 1
- baccata_: 1
+ baccata: 1
  leonard: 1
- furcræa: 1
- _furcræa: 1
+ furcrï¿½a: 2
  willebord: 1
  utrecht: 1
  738: 2
- _veltheimia_: 2
- glaucousleafed: 1
- _veltheimia: 1
- glauca_: 1
+ veltheimia: 3
+ glaucous-leafed: 1
+ glauca: 1
  lateran: 1
- _pinus: 9
+ pinus: 9
  nympha: 1
  weymouth: 1
- strobus_: 1
- orangeflowering: 1
- uvaria_: 1
+ strobus: 1
+ orange-flowering: 1
+ uvaria: 1
  nilus: 1
  390: 1
- poetica_: 1
+ poetica: 1
  homobonus: 1
  1197: 1
- _cerasus: 1
+ cerasus: 1
  dublin: 1
  1180: 1
- colts: 1
- fragrans_: 3
+ coltï¿½s: 1
+ fragrans: 3
  1292: 1
  hemp: 1
- bowstring: 1
- _sanseviera: 1
- guineensis_: 1
+ bow-string: 1
+ sanseviera: 1
+ guineensis: 1
  edmund: 2
  1242: 1
- arborea_: 1
+ arborea: 1
  thaumaturgus: 1
- notchleafed: 1
- serratifolia_: 1
+ notch-leafed: 1
+ serratifolia: 1
  dedication: 1
- applefruited: 1
- maliformis_: 1
- stapelia: 4
- _stapelia: 3
+ apple-fruited: 1
+ maliformis: 1
+ stapelia: 7
  870: 1
- _oxalis: 6
- grandiflora_: 1
+ oxalis: 6
+ grandiflora: 1
  presentation: 1
- tubeflowered: 1
- tubiflora_: 1
+ tube-flowered: 1
+ tubiflora: 1
  cecilia: 1
  inventress: 1
  organ: 1
  230: 1
- convexula_: 1
+ convexula: 1
  clement: 1
- radiata_: 1
+ radiata: 1
+ butterbur: 1
  spinsters: 1
  linear: 1
- linearis_: 1
+ linearis: 1
  conrad: 1
  constance: 1
  976: 1
- lupineleafed: 1
- lupinifolia_: 1
+ lupine-leafed: 1
+ lupinifolia: 1
  virgil: 1
  salzburg: 1
  784: 1
- variegata_: 1
+ variegata: 1
  764: 1
  sphenogyne: 1
- _s: 2
- piloflora_: 1
+ piloflora: 1
  saturninus: 1
- threecoloured: 1
+ three-coloured: 1
  sapor: 1
  december: 1
- pulla_: 1
+ pulla: 1
  eligius: 1
  noyon: 1
  659: 1
- geodorum: 1
+ geodorum: 2
  lemon: 1
- _geodorum: 1
- citrinum_: 1
+ citrinum: 1
  bibiania: 1
  363: 1
- _euphorbia: 1
- tirucalle_: 1
+ euphorbia: 1
+ tirucalle: 1
  xavier: 1
  1552: 1
  gooseberry: 1
  barbadoes: 1
- _cactus: 1
- pereskia_: 1
+ pereskia: 1
  chrysologus: 1
- hibiscus: 2
- longstalked: 1
- pedunculatus_: 1
+ hibiscus: 3
+ long-stalked: 1
+ pedunculatus: 1
  crispina: 1
- nestflowered: 1
- nudiflora_: 1
+ nest-flowered: 1
+ nudiflora: 1
  nicholas: 1
  myra: 1
  342: 1
- achania: 1
- _achania: 1
- pilosa_: 1
+ achania: 2
+ pilosa: 1
  ambrose: 1
  arbor: 3
- vitæ: 2
- _thuga: 3
- occidentalis_: 1
+ vitï¿½: 2
+ thuga: 3
+ occidentalis: 1
  spruce: 1
  corsican: 1
- laricio_: 1
+ laricio: 1
  leodocia: 1
- _cupressus: 3
- pendula_: 1
+ cupressus: 3
+ pendula: 1
  aleppo: 1
- halapensis_: 1
+ halapensis: 1
+ damascus: 1
  384: 1
- abietina_: 1
+ abietina: 1
  eadburga: 1
  751: 1
- cupressoides_: 1
+ cupressoides: 1
  spiridion: 1
  348: 1
  pitch: 1
- resinosa_: 1
+ resinosa: 1
  florence: 1
  vitas: 1
  chinese: 1
  999: 1
  cedar: 2
- thyoides_: 1
+ thyoides: 1
  olympias: 1
- newholland: 1
- australis_: 1
+ new-holland: 1
+ australis: 1
  winebald: 1
  760: 1
- twocoloured: 1
- bicolor_: 1
+ two-coloured: 1
+ bicolor: 1
  samthana: 1
- stonepine: 1
- pinea_: 1
+ stone-pine: 1
+ pinea: 1
  philogonius: 1
  322: 1
- sparrowwort: 1
- passerina_: 1
- pellucida_: 1
+ sparrow-wort: 1
+ passerina: 1
+ pellucida: 1
  881: 1
  lebanon: 1
- cedrus_: 1
+ cedrus: 1
  victoria: 1
  frankincense: 1
- tæda_: 1
+ tï¿½da: 1
  thrasilla: 1
  emiliana: 1
  aculeata: 1
- baccifera_: 1
+ baccifera: 1
  saviour: 1
- purpurea_: 1
- flammea_: 1
- bloodyflowered: 1
- cruenta_: 1
+ purpurea: 1
+ flammea: 1
+ bloody-flowered: 1
+ cruenta: 1
  innocents: 1
  suffered: 1
- herods: 1
- genistopha_: 1
+ herodï¿½s: 1
+ genistopha: 1
  1170: 1
- ponthieva: 1
+ ponthieva: 2
  glandular: 1
- _ponthieva: 1
- glandulosa_: 1
+ glandulosa: 1
  anysia: 1
  appropriated: 1
  vase: 1
@@ -9470,17 +9452,17 @@ the: 3148
  guests: 1
  arcadian: 1
  breezeless: 1
- thuseven: 1
- thuson: 1
+ thus--even: 1
+ thus--on: 1
  closing: 1
  shutting: 4
  lingerer: 1
  shaded: 1
- _hemans_: 1
  completely: 1
  developed: 1
  vegetation: 1
  arrives: 1
+ plants.ï¿½: 1
  superficial: 1
  observer: 1
  individual: 1
@@ -9489,10 +9471,10 @@ the: 3148
  unfolds: 2
  catkins: 1
  rarely: 1
- earlyblooming: 1
+ early-blooming: 1
  tips: 1
  offers: 1
- peachcoloured: 1
+ peach-coloured: 1
  advance: 1
  increasing: 1
  displaying: 1
@@ -9512,7 +9494,7 @@ the: 3148
  protect: 1
  pernicious: 1
  agents: 1
- flowerbud: 1
+ flower-bud: 1
  enable: 1
  perform: 1
  functions: 2
@@ -9520,47 +9502,45 @@ the: 3148
  fulfilling: 1
  closes: 1
  injurious: 1
- goats: 3
+ goatï¿½s: 3
  eleven: 1
- oclock: 1
+ oï¿½clock: 1
  mallows: 1
  mesembryanthemums: 1
  precisely: 1
  serene: 1
- singularlyformed: 1
+ singularly-formed: 1
  drosera: 1
  purslain: 1
  injured: 1
- œnotheras: 1
+ ï¿½notheras: 1
  gauras: 1
  mirabilis: 1
  examples: 1
  opuntia: 1
  nineteenth: 1
  class: 2
- nightthe: 1
- exampleby: 1
+ night--the: 1
+ example--by: 1
  periodical: 1
  remark: 1
- _hedysarum: 1
+ hedysarum: 1
  changeable: 1
- _hibiscus: 1
- mutabilis_: 1
- fleshcoloured: 1
- rosered: 1
- cornflag: 1
- _gladiolus: 1
- grandis_: 1
+ mutabilis: 1
+ flesh-coloured: 1
+ rose-red: 1
+ corn-flag: 1
+ gladiolus: 1
+ grandis: 1
  changes: 1
  strongest: 1
- cinnamomea_: 1
- highlyscented: 1
- _crassula: 1
- odoratissima_: 1
- _epidendrum: 1
- epidendrum: 1
- _hebenstreitia: 1
- dentata_: 1
+ cinnamomea: 1
+ highly-scented: 1
+ crassula: 1
+ odoratissima: 1
+ epidendrum: 2
+ hebenstreitia: 1
+ dentata: 1
  indicate: 1
  disposed: 1
  try: 1
@@ -9569,30 +9549,31 @@ the: 3148
  consulting: 1
  comprehending: 1
  eight: 1
- ofhours: 1
- openingshutting: 1
- tectorum_: 2
- nakedstalked: 2
- nudicaule_: 2
- rubrum_: 2
+ of|hours: 1
+ opening.|shutting: 1
+ tectorum: 2
+ naked-stalked: 2
+ nudicaule: 2
+ rubrum: 2
+ 5-6: 1
  goshmore: 2
- _hypochæris: 2
- 612: 1
- _nymphæa: 2
+ hypochï¿½ris: 2
+ 6-1/2: 1
+ nymphï¿½a: 2
  spiderwort: 2
- _anthericum: 2
- tongueleafed: 2
- mesembryanthemum: 4
- linguiforme_: 2
- 78: 1
+ anthericum: 2
+ tongue-leafed: 2
+ linguiforme: 2
+ 7-8: 1
  bearded: 2
- barbatum_: 2
- singleflowered: 2
- prolifer_: 2
+ barbatum: 2
+ 8-9: 1
+ single-flowered: 2
+ prolifer: 2
  sandwort: 2
- _arenaria: 2
- crystallinum_: 2
- _hemeroeallis: 1
+ arenaria: 2
+ crystallinum: 2
+ hemeroeallis: 1
  impossible: 1
  accurate: 1
  going: 1

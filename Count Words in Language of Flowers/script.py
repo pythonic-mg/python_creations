@@ -1,5 +1,5 @@
 from urllib.request import urlretrieve
-import re
+import string
 
 url = "https://www.gutenberg.org/ebooks/71779.txt.utf-8"
 
@@ -28,7 +28,7 @@ for lst in list_of_lists_of_words:
         del lst
     else:
         for word in lst:
-            word = re.sub(r'\W', "", word)
+            word = word.strip(string.punctuation)
             word = word.lower()
             if word in word_and_count:
                 word_and_count[word] += 1
