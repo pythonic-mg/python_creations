@@ -1,5 +1,6 @@
 from urllib.request import urlretrieve
 import string
+import re
 
 url = "https://www.gutenberg.org/ebooks/71779.txt.utf-8"
 
@@ -23,13 +24,17 @@ for line in book:
 
 word_and_count = dict()
 
+#Trying to isolate each word, but some punctuation is standing in the way
+#I've almost got it, but the words separated by double dashes are not then split into their own words
+
 for lst in list_of_lists_of_words:
     if lst == []:
         list_of_lists_of_words.remove(lst)
     else:
         for word in lst:
-            word = word.strip("“”")
+            word = word.strip("“”‘,")
             word = word.strip(string.punctuation)
+            word = re.sub(r'(-)+', " ", word)
             word = word.lower()
             if word in word_and_count:
                 word_and_count[word] += 1
