@@ -34,11 +34,11 @@ for lst in list_of_lists_of_words:
                 word_and_count[word] += 1
             else:
                 word_and_count[word] = 1
-                
+
 # slowly removing integer entries from the dictionary, but a few still remain
 for key, value in list(word_and_count.items()):
     if value == isinstance(value, int):
-        del word_and_count[key]
+        word_and_count.popitem()
 
 with open("word_and_count", "w") as fileref:
     for word, count in sorted(word_and_count.items()):
