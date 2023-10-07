@@ -1,8 +1,8 @@
 : 431
  1851: 1
  257: 3
- a: 813
- a-billing.”: 1
+ a: 814
+ a-billing: 1
  abashed: 2
  abbeys: 1
  abide: 2
@@ -18,8 +18,7 @@
  account: 9
  accounted: 2
  accustomed: 1
- aconite: 2
- aconite.”: 1
+ aconite: 3
  acquaintance: 3
  across: 4
  actual: 1
@@ -46,16 +45,18 @@
  after: 15
  afternoon: 2
  afterwards: 3
- again: 36
+ again: 37
  against: 7
  ages: 7
  ago: 4
  agone: 1
+ agony: 2
  agree: 1
  agriculture: 1
  ah: 9
  aim: 3
  air: 19
+ air--of: 1
  airily: 1
  akin: 1
  alabaster: 1
@@ -72,7 +73,7 @@
  almost: 6
  aloe: 3
  aloft: 3
- alone: 30
+ alone: 31
  along: 15
  also: 9
  although: 7
@@ -92,7 +93,7 @@
  ancient: 20
  anciently: 2
  ancients: 9
- and: 1723
+ and: 1725
  anew: 3
  angel: 9
  angels: 7
@@ -102,7 +103,7 @@
  anguish: 2
  another: 18
  answers: 3
- antidote: 2
+ antidote: 3
  antimony: 1
  anxious: 5
  any: 20
@@ -115,10 +116,12 @@
  appears: 7
  appease: 2
  appendage: 1
+ apple-blossoms: 1
  applied: 1
  appointed: 2
  approach: 7
  approached: 1
+ approaching: 1
  appropriate: 7
  april: 2
  apt: 1
@@ -143,6 +146,7 @@
  asia: 1
  ask: 7
  asp: 1
+ assembled: 1
  assertion: 1
  assumed: 1
  astonish: 1
@@ -195,15 +199,17 @@
  bards: 1
  bare: 10
  bark: 4
+ base: 11
  baser: 1
  bathe: 1
  baths: 1
  battlements: 2
  bay: 1
- be: 167
+ be: 168
  beam: 7
  beaming: 4
  bear: 15
+ beareth: 1
  bears: 8
  beauteous: 6
  beauties: 2
@@ -238,11 +244,10 @@
  belie: 1
  believe: 4
  believed: 2
- bell: 5
+ bell: 6
  belle: 1
  bellis: 1
  bells: 6
- bell”: 1
  beloved: 9
  below: 8
  bend: 5
@@ -255,8 +260,8 @@
  bequeath: 2
  bereaved: 1
  beside: 12
- best: 9
- bestow.”: 1
+ best: 10
+ bestow: 2
  betrothed: 3
  better: 14
  between: 11
@@ -281,6 +286,7 @@
  blaze: 3
  blazing: 1
  bleak: 1
+ bleeding: 1
  blend: 3
  blended: 1
  bless: 4
@@ -292,6 +298,7 @@
  bliss: 5
  blithe: 4
  blood: 10
+ blood-red: 1
  bloom: 19
  blooming: 6
  blooms: 4
@@ -301,7 +308,7 @@
  blow: 9
  blown: 3
  blows: 4
- blue: 32
+ blue: 33
  blue-veined: 1
  bluebell: 1
  bluebell’s: 1
@@ -339,8 +346,7 @@
  bow: 5
  bowed: 3
  bower: 6
- bowers: 3
- bowers,”: 1
+ bowers: 4
  box: 8
  box-hill: 1
  box-trees: 2
@@ -381,8 +387,8 @@
  bromwich: 1
  brooding: 1
  brook: 5
- broom: 5
- brother: 3
+ broom: 6
+ brother: 4
  brought: 10
  bud: 5
  buds: 10
@@ -393,6 +399,7 @@
  burnie: 1
  burning: 7
  burns: 5
+ burst: 2
  bush: 2
  but: 202
  butterfly: 3
@@ -404,8 +411,7 @@
  cabinet-maker: 1
  cactus: 4
  calends: 1
- call: 11
- call,”: 1
+ call: 12
  called: 14
  calm: 12
  came: 14
@@ -463,6 +469,7 @@
  charged: 1
  chariot: 3
  charioteer: 1
+ chariots: 1
  charm: 11
  charms: 17
  cheek: 11
@@ -476,8 +483,7 @@
  cherished: 4
  chessmen: 1
  chide: 1
- child: 11
- child,”: 1
+ child: 12
  childhood: 4
  childhood’s: 3
  children: 11
@@ -501,6 +507,7 @@
  city: 3
  clasp: 4
  clear: 12
+ cleft: 1
  clerk’s: 1
  climate: 1
  climbing: 3
@@ -518,6 +525,7 @@
  clouds: 14
  clustering: 1
  clusters: 5
+ clutched: 1
  coal: 1
  cochin: 1
  cold: 38
@@ -527,8 +535,7 @@
  colours: 7
  comb: 1
  combat: 1
- combs: 1
- combs.”: 1
+ combs: 2
  come: 28
  comely: 1
  comes: 10
@@ -603,7 +610,7 @@
  cozy: 1
  cradle: 1
  cragged: 1
- create.”: 1
+ create: 1
  creating: 2
  creator: 1
  creatures: 5
@@ -649,13 +656,15 @@
  dancing: 7
  dangerous: 7
  dares: 3
- dark: 23
+ dark: 24
+ darkened: 2
  darkest: 5
  darkness: 7
  darling: 1
  darlings: 1
  dart: 1
  darting: 1
+ dashed: 1
  daughter: 7
  daunted: 1
  dawn: 2
@@ -671,6 +680,7 @@
  dearly-loved: 1
  death: 22
  death-chill: 1
+ death-wound: 2
  decayed: 1
  deck: 5
  decking: 1
@@ -715,8 +725,9 @@
  description: 1
  desert: 3
  deserted: 2
- designed!”: 1
+ designed: 3
  desolate: 2
+ desolate,--where: 1
  despair: 5
  despotic: 2
  destitute: 2
@@ -758,8 +769,8 @@
  disturbed: 1
  diversity: 2
  divided: 2
- divine: 5
- divine”: 1
+ divine: 6
+ divinity: 3
  dizziest: 1
  do: 27
  does: 15
@@ -782,7 +793,7 @@
  drawn: 1
  dreaded: 1
  dreading: 1
- dream: 15
+ dream: 16
  dreams: 7
  dreamy: 1
  drear: 2
@@ -797,6 +808,7 @@
  drizzling: 1
  drooping: 5
  droops: 1
+ drop: 5
  dropped: 1
  dropping: 4
  drops: 7
@@ -905,6 +917,7 @@
  evening: 19
  events: 1
  ever: 54
+ ever-open: 1
  evergreen: 5
  every: 58
  everywhere: 6
@@ -928,6 +941,7 @@
  expressive: 2
  exquisitely: 1
  extent: 1
+ extinguished: 2
  extraordinary: 1
  extravagant: 1
  extreme: 2
@@ -954,6 +968,7 @@
  faith: 6
  faithful: 4
  fall: 14
+ fallen: 6
  falling: 5
  false: 6
  fame: 4
@@ -1003,7 +1018,7 @@
  fidele: 1
  fidelity: 4
  field: 13
- fields: 8
+ fields: 9
  fiery: 3
  fifty: 1
  fill: 9
@@ -1028,7 +1043,8 @@
  fix: 1
  fixed: 8
  flakes: 1
- flame: 11
+ flame: 12
+ flapping: 1
  flash: 2
  flashed: 2
  flat: 1
@@ -1049,7 +1065,7 @@
  flood: 2
  flora: 3
  flora--“take”: 1
- floral: 4
+ floral: 5
  flora’s: 3
  flourishing: 2
  flow: 6
@@ -1085,13 +1101,14 @@
  fontaine: 1
  fool: 4
  foot: 14
- for: 262
+ for: 263
  forborest: 1
  foresee: 1
  forest: 15
  forest--are: 1
+ forest--of: 1
  forget: 14
- forget-me-not: 8
+ forget-me-not: 9
  forgot: 6
  forgotten: 6
  form: 30
@@ -1155,8 +1172,7 @@
  gardens: 5
  garden’s: 2
  garland: 3
- gather: 8
- gather.”: 1
+ gather: 9
  gathered: 5
  gathers: 1
  gave: 9
@@ -1181,16 +1197,19 @@
  gilded: 4
  girded: 1
  girt: 1
- give: 21
+ give: 22
  given: 15
  gives: 6
  glad: 3
  gladdens: 2
  glade: 9
+ glades: 1
  gladness: 4
  glance: 6
  glare: 1
+ glared: 2
  gleam: 5
+ gleaming: 2
  gleams: 3
  glee: 3
  glen: 4
@@ -1206,13 +1225,14 @@
  glow: 8
  glowing: 6
  gnarled: 2
- go: 17
+ go: 18
  goat-like: 1
  goblet’s: 1
  god: 23
  god,--and: 1
  god-haunted: 1
  goddess: 10
+ goddesses: 1
  gods: 10
  goes: 2
  gold: 19
@@ -1275,7 +1295,7 @@
  habitual: 1
  had: 72
  hadst: 1
- hair: 9
+ hair: 10
  hairs: 2
  half: 7
  half-buried: 1
@@ -1308,14 +1328,15 @@
  hawthorn-spray: 1
  hawthorns: 1
  hazles: 1
- he: 157
+ he: 161
  head: 18
+ head,--wan: 1
  heads: 6
  health: 1
  hear: 18
  heard: 9
  hears: 2
- heart: 105
+ heart: 106
  heart-sore: 1
  heart-wringing: 1
  heartless: 1
@@ -1328,7 +1349,7 @@
  heaven-attuned: 1
  heavenly: 9
  heavens: 1
- heaven’s: 6
+ heaven’s: 7
  heaving: 2
  heavy: 8
  hedge: 2
@@ -1338,6 +1359,7 @@
  heightened: 1
  held: 6
  helmet-like: 1
+ henceforth: 2
  henrietta: 1
  her: 240
  herald: 3
@@ -1359,7 +1381,7 @@
  him: 63
  himself: 6
  him’s: 1
- his: 280
+ his: 281
  history: 4
  hither: 2
  hold: 4
@@ -1377,7 +1399,7 @@
  hooded: 1
  hope: 35
  hope-invested: 1
- hopes: 10
+ hopes: 11
  hoping: 1
  horizon: 1
  horrible: 2
@@ -1386,28 +1408,30 @@
  hours: 24
  house: 3
  household: 3
+ hover: 1
  hovered: 1
  hovering: 2
- how: 63
+ how: 64
  however: 7
  howe’er: 1
  howitt: 1
  howl: 2
- hue: 24
+ hue: 25
  hues: 11
  hues,--all: 1
  human: 22
  humble: 9
  humming: 2
  hums: 1
- hundred: 1
+ hundred: 2
  hung: 8
  hunt: 1
  hurried: 1
  hurry: 1
+ hurrying: 3
  hyacinth: 4
  hyacinth’s: 1
- i: 280
+ i: 282
  ia: 1
  ice-plant: 1
  icy: 2
@@ -1433,7 +1457,7 @@
  impious: 1
  imprudent: 3
  impt: 1
- in: 700
+ in: 701
  inadvertently: 1
  inanimate: 1
  incense: 3
@@ -1456,8 +1480,7 @@
  inhabitants: 1
  inhabits: 1
  inlayer: 1
- innocence: 11
- innocence.”: 1
+ innocence: 12
  innocent: 4
  insect-seeming: 1
  inside: 1
@@ -1482,10 +1505,9 @@
  isles: 2
  issue: 1
  issued: 1
- it: 334
+ it: 339
  it,--she: 1
  it--who: 1
- it?”: 1
  its: 276
  itself: 8
  itself--ay: 1
@@ -1494,6 +1516,7 @@
  i’ll: 14
  i’m: 5
  jail: 1
+ jarred: 1
  jasmine: 5
  jaws: 2
  jealousy: 5
@@ -1540,10 +1563,10 @@
  laborious: 1
  lack: 1
  ladies: 3
- lady: 12
+ lady: 14
  laid: 7
- lake: 6
- lake,”: 1
+ lake: 7
+ lamentation: 1
  lamps: 2
  land--from: 1
  lands: 2
@@ -1564,7 +1587,7 @@
  laughter: 6
  lavender: 3
  lavish: 1
- lawn,”: 1
+ lawn: 1
  lay: 22
  lea: 2
  lead: 5
@@ -1587,6 +1610,7 @@
  let: 25
  let’s: 2
  levant: 1
+ level: 2
  lid: 2
  lids: 2
  lie: 18
@@ -1594,6 +1618,7 @@
  lieth: 1
  life: 54
  life’s: 13
+ lifted: 1
  lifts: 2
  light: 57
  light-winged: 1
@@ -1612,6 +1637,7 @@
  lily’s: 2
  limits: 1
  line: 5
+ lines: 2
  linger: 5
  lingering: 1
  link: 2
@@ -1639,12 +1665,11 @@
  loitering: 1
  lone: 8
  lonely: 12
- long: 43
+ long: 44
  long-haired: 1
  long-horned: 1
- long?”: 1
  longer: 6
- look: 30
+ look: 31
  looked: 9
  looking: 8
  looks: 15
@@ -1657,7 +1682,8 @@
  losses: 1
  lost: 10
  lot: 10
- love: 156
+ loud: 3
+ love: 157
  love-lies-bleeding: 2
  loved: 23
  loveliness: 6
@@ -1668,7 +1694,6 @@
  lover’s: 3
  loves: 7
  love’s: 20
- love”: 1
  loving: 5
  lovingly: 1
  low: 10
@@ -1679,7 +1704,7 @@
  lustre: 6
  lyre’s: 1
  madame: 4
- made: 48
+ made: 49
  madness: 2
  magnificent: 3
  magnolia: 1
@@ -1693,7 +1718,7 @@
  makes: 11
  making: 8
  mall-balls: 1
- man: 32
+ man: 33
  mane: 1
  manes: 1
  manliness: 2
@@ -1727,15 +1752,13 @@
  mathematical: 1
  matrons: 2
  matter: 3
- may: 89
+ may: 90
  may-buds: 2
  may-days: 1
  may.’: 1
- may.”: 1
  maying: 1
  mazes: 2
- me: 98
- me.”: 1
+ me: 99
  meadow: 5
  meadows: 5
  meaning: 4
@@ -1768,8 +1791,7 @@
  milk-white: 2
  milky: 1
  million: 1
- mind: 40
- mind.”: 1
+ mind: 41
  mine: 21
  mingle: 4
  mingled: 2
@@ -1795,7 +1817,9 @@
  modesty: 6
  moisture: 2
  molten: 1
+ moment: 6
  moment--o’er: 1
+ moments: 3
  money: 1
  monstrous: 2
  month: 4
@@ -1803,9 +1827,10 @@
  mood: 3
  moon’s: 1
  moorland: 1
- more: 78
+ more: 79
  morn: 10
  morning: 26
+ morning’s: 1
  morrice: 1
  morrow: 2
  morrows: 1
@@ -1818,6 +1843,7 @@
  mould: 4
  mount: 6
  mountain: 11
+ mountain-summits: 1
  mountains: 10
  mounted: 1
  mounting: 3
@@ -1835,11 +1861,11 @@
  murmurs: 2
  muse: 2
  music: 11
- musical: 1
+ musical: 2
  musicians: 1
  must: 36
  mute: 4
- my: 187
+ my: 188
  myrtilla: 1
  myrtle: 4
  myrtles: 1
@@ -1853,10 +1879,11 @@
  national: 1
  native: 19
  natural: 3
- nature: 37
+ nature: 38
  natures: 1
  nature’s: 10
  naught: 11
+ nay: 3
  near: 10
  nearest: 2
  neat: 3
@@ -1872,21 +1899,21 @@
  nest: 2
  never: 43
  never-ending: 1
- new: 18
+ new: 19
  new-born--most: 1
  new-married: 2
  newly: 1
  newly-married: 1
- next: 4
+ next: 5
  ne’er: 14
  nice: 3
  nice-leaved: 1
- nigh: 4
+ nigh: 5
  night: 30
  nightly: 1
  night’s: 3
  nine: 2
- no: 91
+ no: 92
  no--for: 1
  noble: 11
  nod: 1
@@ -1900,7 +1927,7 @@
  nose: 1
  noses: 1
  nostrils: 1
- not: 182
+ not: 183
  note: 5
  nothing: 17
  notice: 1
@@ -1911,6 +1938,7 @@
  nut-crackers: 1
  nymph: 4
  nymphs: 1
+ o: 4
  oak: 17
  object: 7
  obscurity: 1
@@ -1927,16 +1955,16 @@
  off: 10
  offensive: 1
  offered: 4
- offering: 1
- offering.”: 1
+ offering: 2
  office: 2
  oft: 17
  often: 13
  oftentimes: 2
- oh: 31
- old: 38
+ oh: 33
+ old: 39
  olympus: 6
- on: 228
+ ominously: 1
+ on: 229
  once: 20
  one: 93
  ones: 6
@@ -1963,6 +1991,7 @@
  other: 34
  others: 11
  other’s: 4
+ ought: 1
  our: 113
  out: 42
  outdid: 1
@@ -2003,6 +2032,7 @@
  parts: 7
  pass: 6
  passed: 11
+ passing: 5
  passion: 9
  passions: 6
  past: 21
@@ -2073,7 +2103,7 @@
  plaint: 1
  plant: 37
  planted: 5
- plants: 20
+ plants: 21
  play: 17
  played: 3
  playful: 1
@@ -2205,6 +2235,7 @@
  ranged: 1
  ranked: 1
  ranks: 1
+ rapid: 2
  rapt: 1
  rare: 6
  rarest: 2
@@ -2340,7 +2371,7 @@
  ruthless: 2
  sacred: 9
  sacrifice: 1
- sad: 9
+ sad: 10
  sadful: 1
  sadly: 4
  sadness: 4
@@ -2358,7 +2389,7 @@
  saving: 1
  saw: 15
  saws: 1
- say: 9
+ say: 10
  says: 7
  scarcely: 2
  scares: 1
@@ -2484,15 +2515,15 @@
  signify: 2
  silence: 7
  silent: 9
+ silent-winged: 1
  silken: 2
  silver: 9
  silvered: 2
  silvery: 2
- simple: 9
- simple.”: 1
+ simple: 10
  simplest: 1
  simplicity: 4
- since: 15
+ since: 16
  sincere: 1
  sing: 11
  singing: 6
@@ -2516,7 +2547,7 @@
  slain: 1
  slandered: 1
  slave: 5
- sleep: 17
+ sleep: 18
  sleeping: 9
  sleet: 1
  slender: 4
@@ -2524,18 +2555,19 @@
  slighted: 2
  slightest: 3
  slim: 1
+ sloped: 1
  sloping: 1
  slower: 1
  slowly: 4
  slumbers: 1
  small: 22
  smart: 2
- smell: 8
+ smell: 9
  smile: 21
  smiled: 4
  smiles: 12
  smiling: 7
- smooth: 6
+ smooth: 7
  snapped: 1
  snorting: 1
  snow: 12
@@ -2544,7 +2576,7 @@
  snowdrops: 2
  snowdrop’s: 1
  snowy: 3
- so: 169
+ so: 170
  so--for: 1
  sobbing: 1
  soft: 19
@@ -2562,7 +2594,7 @@
  sometimes: 7
  somewhat: 1
  somewhere: 1
- son: 6
+ son: 7
  song: 13
  sonnets: 1
  soon: 13
@@ -2591,6 +2623,7 @@
  spears: 1
  species: 13
  specimens: 1
+ speechless,--was: 1
  speed: 3
  spell: 13
  sphere: 4
@@ -2616,17 +2649,19 @@
  spreading: 2
  spreads: 4
  sprightly: 1
- spring: 39
+ spring: 40
  spring-tide: 1
  spring-time: 2
- spring.”: 1
  springs: 7
  spring’s: 1
  sprinkle: 1
+ sprung: 2
  squandering: 1
  stag: 1
  staid: 1
+ stain: 5
  stalk: 7
+ stamped: 2
  stand: 8
  stands: 5
  star: 16
@@ -2667,7 +2702,7 @@
  stood: 14
  stooped: 1
  stops: 1
- store: 3
+ store: 4
  storehouse: 1
  storm: 16
  storm-black: 1
@@ -2729,9 +2764,8 @@
  swang: 1
  sway: 4
  swaying: 1
- sweet: 49
+ sweet: 53
  sweet-brier: 1
- sweet.”: 3
  sweeten: 1
  sweeter: 8
  sweetest: 8
@@ -2751,8 +2785,7 @@
  tale: 9
  talents: 1
  tales: 5
- talk: 8
- talk.”: 1
+ talk: 9
  talks: 2
  tall: 6
  tall,--i: 1
@@ -2780,17 +2813,15 @@
  thankful: 1
  that: 423
  that’s: 8
- the: 2809
- thee: 93
+ the: 2816
+ thee: 96
  thee--i: 2
- thee.”: 3
  their: 168
  theirs: 3
  theirs,--theirs: 1
  them: 70
  theme: 3
- then: 69
- then,”: 1
+ then: 70
  thenceforward: 1
  theo: 2
  there: 85
@@ -2811,12 +2842,11 @@
  thinly: 2
  thirty: 2
  this: 109
- thorn: 3
+ thorn: 4
  those: 56
- thou: 106
- though: 56
- thought: 34
- thought.”: 4
+ thou: 107
+ though: 57
+ thought: 39
  thoughtless: 5
  thoughts: 21
  thousand: 11
@@ -2844,7 +2874,7 @@
  tiger: 2
  till: 35
  timber: 2
- time: 57
+ time: 58
  times: 14
  time’s: 2
  timid: 4
@@ -2853,18 +2883,16 @@
  tired: 3
  tissue: 2
  titans: 1
- to: 828
+ to: 830
  to-day: 3
  together: 9
  token: 2
- told: 6
- told.”: 1
+ told: 7
  tomb: 6
  tombs: 1
  tone: 2
  tongue: 7
- too: 53
- too.”: 1
+ too: 54
  took: 2
  tops: 2
  torches: 1
@@ -2894,7 +2922,7 @@
  traverse: 1
  treasure: 7
  treat: 1
- tree: 60
+ tree: 61
  tree:--demophoon: 1
  trees: 19
  tremble: 3
@@ -2931,6 +2959,7 @@
  turning: 3
  turns: 12
  tusks: 1
+ twilight,--for: 1
  twined: 1
  twinkle: 2
  twisted: 2
@@ -2977,11 +3006,12 @@
  unyoked: 1
  up: 44
  upas: 1
+ uplifting: 1
  upon: 76
  upward: 2
- us: 49
+ us: 50
  used: 15
- useful: 4
+ useful: 5
  usher: 1
  utter: 3
  utterly: 1
@@ -3037,8 +3067,10 @@
  vouchsafe: 1
  vow: 3
  waft: 2
+ wafted: 1
  waged: 1
  wail: 3
+ wailing: 2
  wait: 4
  waiting: 2
  waits: 1
@@ -3047,7 +3079,7 @@
  wall-flower: 1
  wall-flowers: 1
  walled: 1
- walls: 8
+ walls: 9
  wan: 1
  wander: 5
  wandering: 5
@@ -3069,7 +3101,7 @@
  watched: 5
  watchful: 1
  watching: 5
- water: 8
+ water: 9
  water-lily: 5
  water-nymphs: 1
  water-violet: 1
@@ -3080,11 +3112,12 @@
  waves: 7
  waxen: 1
  way: 25
+ way--and: 1
  wayside: 1
  we: 94
  weak: 7
  wealth: 17
- wear: 8
+ wear: 9
  wearied: 2
  wearily: 1
  weariness: 1
@@ -3105,7 +3138,7 @@
  welcome: 2
  welcomed: 1
  welcomes: 1
- well: 38
+ well: 40
  wells: 1
  went: 16
  wept: 5
@@ -3122,7 +3155,7 @@
  when: 174
  whence: 5
  whenever: 2
- where: 102
+ where: 103
  wherever: 5
  where’er: 5
  which: 215
@@ -3134,10 +3167,11 @@
  whispered: 2
  whispering: 1
  whispers: 3
+ whistling: 1
  white: 55
  whiteness: 3
  whiter: 1
- who: 119
+ who: 120
  whole: 14
  wholly: 2
  whom: 13
@@ -3160,10 +3194,10 @@
  win: 3
  wind: 16
  winds: 10
- wing: 5
+ wing: 6
  wings: 11
  winter: 18
- winters.”: 1
+ winters: 2
  winter’s: 6
  wintry: 5
  wipe: 2
@@ -3226,12 +3260,12 @@
  yields: 7
  york: 1
  you: 78
- young: 32
+ young: 33
  young--when: 1
  your: 46
  youth: 20
  youthful: 6
- you’ll: 6
+ you’ll: 7
  zephyr: 3
  ‘there’s: 1
  ’neath: 3
@@ -3239,34 +3273,4 @@
  ’twas: 14
  ’twere: 5
  ’twill: 1
- “and: 2
- “be: 1
- “blue: 1
- “dark: 1
- “flame: 1
- “floral: 1
- “for: 1
- “give: 1
- “gleaming: 1
- “go: 1
- “he: 4
- “heaven’s: 1
- “henceforth: 1
- “hopes: 1
- “i: 1
- “in: 1
- “it: 4
- “lady: 2
- “look: 1
- “nay: 1
- “new: 1
- “no: 1
- “o: 1
- “on: 1
- “ought.”: 1
- “store: 1
- “the: 7
- “time: 1
- “well: 1
- “where: 1
  

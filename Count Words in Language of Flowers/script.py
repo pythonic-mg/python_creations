@@ -28,6 +28,7 @@ for lst in list_of_lists_of_words:
         list_of_lists_of_words.remove(lst)
     else:
         for word in lst:
+            word = word.strip("“”")
             word = word.strip(string.punctuation)
             word = word.lower()
             if word in word_and_count:
