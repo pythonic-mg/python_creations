@@ -25,9 +25,11 @@ word_and_count = dict()
 
 for lst in list_of_lists_of_words:
     if lst == []:
-        del lst
+        list_of_lists_of_words.remove(lst)
     else:
         for word in lst:
+            if word == word.isdigit():
+                lst.remove(word)
             word = word.strip(string.punctuation)
             word = word.lower()
             if word in word_and_count:

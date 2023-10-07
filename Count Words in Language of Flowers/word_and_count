@@ -1,438 +1,228 @@
-: 2617
- 1: 14
- 10: 14
- 100: 2
+: 431
+ 1: 2
+ 10: 2
  1002: 1
- 1015: 1
- 102: 1
- 1027: 1
- 104: 1
  1040: 1
- 1046: 1
- 1054: 1
- 106: 1
  1066: 1
  1073: 1
- 108: 1
- 109: 1
- 1090: 1
  1093: 1
- 11: 14
+ 11: 2
  1101: 1
- 111: 1
  1110: 1
  112: 1
  1125: 1
- 113: 1
  1132: 1
- 1134: 2
+ 1134: 1
  1135: 1
  1142: 1
  1151: 1
- 1153: 1
- 116: 2
+ 116: 1
  1160: 1
  1170: 1
  1180: 1
- 1184: 1
- 1197: 1
- 12: 13
- 120: 1
- 1207: 1
+ 12: 1
  1213: 1
- 122: 1
  1221: 1
  1226: 1
- 123: 1
  1231: 2
  1240: 1
  1242: 1
  1246: 1
- 125: 1
  1252: 1
  1253: 1
- 1257: 1
  1261: 1
  1270: 1
  1271: 1
  1274: 1
- 1275: 1
- 1285: 1
  1292: 1
  1297: 1
- 13: 13
  1303: 1
  1305: 1
  1317: 1
- 132: 1
  1323: 1
- 133: 1
  1336: 1
  1340: 1
- 135: 1
- 1373: 1
- 1380: 1
- 1381: 1
  1383: 1
- 14: 12
- 140: 1
  1419: 1
- 142: 1
- 143: 1
  1444: 1
- 145: 1
  1455: 1
  1458: 1
  1463: 1
- 147: 1
- 1479: 1
  1497: 1
- 15: 13
- 150: 1
  1505: 1
- 152: 1
- 154: 1
  1547: 1
- 1552: 1
- 1555: 2
+ 1555: 1
  1556: 1
- 156: 1
- 1572: 2
- 158: 1
- 1582: 1
+ 1572: 1
  1587: 1
- 1589: 1
- 1591: 2
- 1592: 1
- 1595: 1
- 16: 12
- 160: 1
+ 1591: 1
  1606: 1
- 1617: 1
- 162: 1
- 1622: 1
- 1629: 1
  1632: 1
- 164: 1
  1641: 1
- 166: 1
  1660: 1
- 167: 1
- 168: 1
- 1695: 1
- 17: 12
- 170: 1
- 172: 1
  1730: 1
  1740: 1
  1750: 1
  1752: 1
- 179: 1
- 18: 12
- 181: 1
- 1830: 1
- 1831: 1
- 184: 1
- 1851: 2
- 186: 2
- 188: 1
- 19: 12
- 193: 1
- 195: 1
- 198: 1
- 2: 14
- 20: 13
- 200: 1
- 202: 2
- 203: 2
- 204: 1
- 206: 1
- 21: 12
- 211: 1
- 215: 1
- 217: 1
+ 1851: 1
+ 2: 2
+ 202: 1
+ 203: 1
  219: 1
- 22: 13
- 220: 1
- 222: 2
- 223: 1
- 225: 1
- 227: 1
- 229: 1
- 23: 13
  230: 1
- 231: 1
- 233: 1
- 235: 1
- 236: 1
- 238: 1
- 24: 12
- 243: 1
- 246: 1
- 248: 1
- 249: 1
- 25: 13
- 250: 2
- 251: 2
- 254: 1
- 257: 4
- 258: 2
- 259: 1
- 26: 13
- 260: 1
- 268: 1
- 27: 12
+ 250: 1
+ 251: 1
+ 257: 3
+ 258: 1
  270: 3
- 275: 2
- 28: 13
- 287: 2
- 287.--these: 1
- 29: 11
- 293: 1
+ 287: 1
  298: 1
- 3: 16
- 30: 12
- 303: 5
- 304: 13
- 306: 1
- 308: 1
- 309: 1
- 31: 8
+ 3: 4
+ 303: 3
+ 304: 6
  311: 1
  316: 1
  322: 1
  326: 1
- 327: 1
  336: 1
  338: 1
  342: 1
- 348: 1
  350: 2
- 36: 1
- 362: 2
- 363: 1
+ 362: 1
  367: 1
- 368: 1
- 37: 1
  373: 1
- 379: 1
  380: 1
- 382: 1
- 384: 1
- 385: 1
- 387: 1
- 389: 2
- 39: 1
+ 389: 1
  390: 1
- 394: 2
- 397: 3
- 4: 16
- 401: 1
- 410: 3
+ 394: 1
+ 4: 4
+ 410: 1
  415: 1
  417: 1
  419: 1
- 420: 1
- 421: 1
  422: 1
  424: 1
- 43: 1
- 430: 1
  431: 1
  447: 1
  449: 1
- 45: 1
- 450: 2
- 452: 1
  453: 1
- 46: 1
- 461: 1
  477: 1
- 478: 1
- 48: 1
- 49: 1
- 5: 18
+ 5: 6
  5-6: 1
- 505: 1
- 51: 2
- 52: 1
- 526: 1
+ 51: 1
  533: 1
- 538: 1
  542: 1
- 543: 2
+ 543: 1
  544: 1
  546: 1
- 55: 1
  557: 1
  558: 1
- 56: 1
- 560: 1
  574: 1
- 576: 1
- 58: 1
  580: 1
- 584: 1
  586: 1
- 59: 1
  592: 1
- 596: 1
- 597: 1
- 6: 14
+ 6: 2
  6-1/2: 1
  601: 1
  604: 1
- 607: 1
  608: 1
- 61: 1
  625: 1
- 626: 1
  629: 1
- 63: 2
  636: 1
  645: 1
- 646: 3
- 65: 1
- 659: 1
+ 646: 1
  660: 1
- 664: 1
- 67: 1
- 679: 1
  682: 1
- 688: 1
- 69: 1
  692: 1
  697: 1
- 7: 15
+ 7: 3
  7-8: 1
- 70: 1
  709: 2
  716: 1
- 72: 1
  720: 1
  733: 1
  735: 1
  738: 2
- 74: 1
- 75: 1
  750: 1
- 751: 1
  752: 1
- 760: 1
  764: 1
- 77: 1
  780: 1
  784: 1
- 8: 14
+ 8: 2
  8-9: 1
- 834: 1
  840: 1
- 85: 1
- 851: 1
- 86: 1
  862: 1
- 87: 1
  870: 1
- 881: 1
- 89: 1
- 9: 16
- 91: 1
- 92: 1
+ 9: 4
  931: 1
- 94: 1
- 96: 1
  968: 1
  976: 1
- 98: 1
- 984: 1
  988: 1
  999: 1
- a: 944
+ a: 813
  a-billing.”: 1
- aaron: 1
  abandoned: 2
  abashed: 2
  abated: 1
- abbess: 10
+ abbess: 4
  abbeys: 1
- abbot: 12
+ abbot: 7
  abide: 2
- abideth: 1
- abietina: 1
  abject: 1
  able: 1
  abode: 3
  abodes: 1
- about: 41
+ about: 33
  about--so: 1
- above: 22
+ above: 20
  abreast: 1
- abroad: 4
- abrotanum: 1
- absence: 8
+ abroad: 3
+ absence: 5
  absent: 5
  absurd: 1
  abundance: 3
  abundant: 2
- abundantly: 3
+ abundantly: 2
  abused: 1
  abyss: 1
- acacia: 4
- acanthus: 6
- acaulis: 2
+ acacia: 3
+ acanthus: 5
  accent: 1
  accents: 2
  accept: 1
  acclaim: 1
- accommodating: 4
+ accommodating: 2
  accompaniment: 1
- accomplished: 1
- according: 12
+ according: 9
  account: 9
  accounted: 2
- accurate: 1
- accursed: 1
- accurst: 1
  accustomed: 1
- acetobolum: 1
  achaia: 1
- achania: 2
  achieve: 1
- achillea: 3
+ achillea: 1
  aching: 1
  acknowledge: 1
  aconite: 2
  aconite.”: 1
- aconitum: 1
- acorn: 2
+ acorn: 1
  acorn--perchance: 1
- acorus: 1
  acquaintance: 3
  acquire: 2
- acris: 3
- across: 5
- act: 1
- actea: 1
+ across: 4
  action: 1
- activity: 5
+ activity: 4
  acts: 1
  actual: 1
- aculeata: 1
- ad: 2
- adah._--alas: 1
- adah._--never: 1
  adapted: 1
  add: 4
  added: 1
- addison: 2
  additional: 1
  address: 1
  adds: 1
- adelaide: 2
  admiration: 3
  admire: 4
  admired: 4
- adonis: 7
+ adonis: 6
  adopted: 2
  adopts: 1
  adoration: 3
@@ -443,249 +233,193 @@
  adorning: 3
  adorns: 3
  adown: 1
- adrian: 2
  adrift: 1
  adulterous: 1
  advance: 1
  advanced: 1
  advances: 1
  advantages: 1
- adversity: 7
+ adversity: 5
  advice: 1
  advises: 1
  aerial: 2
- afar: 2
- affection: 16
+ afar: 1
+ affection: 12
  affectionate: 2
  affections: 3
  affianced: 1
  afford: 1
  affords: 2
  afloat: 2
- afresh: 1
  africa: 1
- african: 4
- after: 18
+ after: 15
  after-thought: 1
  after-time: 2
  afternoon: 2
  afterthought: 1
  afterwards: 3
- again: 39
+ again: 36
  again!”: 1
  againe: 1
- against: 9
- agapanthus: 1
- agape: 1
- agaricus: 5
- agatha: 1
- age: 8
+ against: 7
+ age: 6
  aged: 4
  agents: 1
- ageratum: 1
  ages: 7
  aghast: 1
  agitation: 1
- agnes: 2
  ago: 4
  agone: 1
  agonies: 1
  agony: 2
  agree: 1
- agreeable: 3
- agrestis: 3
+ agreeable: 2
+ agrestis: 2
  agriculture: 1
- agrimonia: 1
- agrimony: 2
+ agrimony: 1
  agues: 1
- ah: 15
+ ah: 9
  aigrette: 1
  ailments: 2
  aim: 3
  aims: 1
  ain: 1
- air: 20
+ air: 19
  air--of: 1
  airily: 1
  airns: 1
- airs: 3
+ airs: 2
  airy: 1
  aisled: 1
- aisles: 1
  ajax: 1
- akenside: 1
  akin: 1
  alabaster: 1
- alas: 6
- alba: 4
- albert: 1
- album: 3
- albus: 3
+ alas: 4
+ alba: 2
+ album: 2
+ albus: 1
  alchymist: 1
- aleppo: 1
  alert: 2
- aletris: 5
- alexandria: 4
+ alexandria: 3
  alfred: 1
- alfrida: 1
  alighting: 1
  alike: 7
- alimony: 1
  alive: 1
- alkakengi: 1
- alkanet: 1
- all: 246
- all-consuming: 1
+ all: 210
  all-enduring: 1
  all-forgetting: 1
  all-forgot: 1
  allay: 1
  alleged: 1
  allegiance: 1
- allium: 2
  allowed: 1
  alloy: 1
  alludes: 1
  allure: 1
  allusion: 3
  all’s: 1
- almanac: 1
- almond: 6
+ almond: 5
  almond-tree: 1
  almost: 6
  alms: 1
- aloe: 5
+ aloe: 3
  aloft: 3
- alone: 34
+ alone: 30
  alone--with: 1
  alone?”: 1
- along: 17
+ along: 15
  aloof: 1
  aloud: 1
- aloysius: 1
- alphonsus: 1
- alpina: 3
- alpine: 4
+ alpina: 2
+ alpine: 3
  alps: 2
  already: 1
- alsine: 1
- also: 11
- altar: 5
+ also: 9
+ altar: 4
  altar-stone: 1
  altars: 2
  altered: 2
- althea: 7
+ althea: 4
  although: 7
  altogether: 1
  alway: 1
- always: 15
- am: 17
+ always: 13
+ am: 12
  amain: 1
- amaranth: 8
- amaranthus: 4
- amaryllis: 9
- amaze: 1
+ amaranth: 5
+ amaranthus: 2
+ amaryllis: 1
  amazed: 2
  amazement: 1
- ambition: 9
+ ambition: 4
  ambition’s: 1
  ambitious: 1
- ambrose: 1
  ambrosia: 1
  ambrosial: 2
  ambush: 1
- amellus: 1
  amends: 1
  america: 10
- american: 7
- amiability: 4
+ american: 3
+ amiability: 2
  amiable: 1
- amiableness: 1
- amid: 14
- amidst: 4
- amiss: 1
- among: 34
+ amid: 12
+ amidst: 3
+ among: 29
  amorous: 1
  amphoræ: 1
  amusement: 1
- amygdalus: 1
- an: 93
- anagallis: 1
- anastasius: 1
+ an: 79
  ancestors: 1
  ancestral: 1
  ancestry: 1
  anchor: 1
- anchorite: 1
- anchusa: 1
- ancient: 25
+ ancient: 20
  anciently: 2
- ancients: 10
- and: 1874
- androgynum: 1
+ ancients: 9
+ and: 1723
  anecdote: 1
- anemona: 1
- anemone: 12
- anew: 4
- angel: 11
+ anemone: 6
+ anew: 3
+ angel: 9
  angelic: 1
  angelica: 1
- angels: 9
- angelus: 1
+ angels: 7
  angel’s: 1
- anger: 5
+ anger: 4
  angered: 1
  anger’s: 1
  angrec: 1
  angry: 4
  anguish: 2
  angular: 1
- angustifolia: 1
  animal: 2
  animals: 1
- ann: 1
- annihilation--were: 1
- annua: 1
- annual: 2
- annunciation: 1
- annuus: 1
+ annual: 1
  anointed: 1
- anon: 16
- another: 19
+ another: 18
  another’s: 3
- anselm: 1
- anstrudis: 1
  answering: 1
  answers: 3
  anthericum: 2
  anther’s: 1
- anthony: 2
- anti-pyretica: 1
  antidote: 2
  antidote.”: 1
  antimony: 1
- antioch: 3
+ antioch: 2
  antique: 2
- antirrhinum: 3
  antlers: 1
  anxious: 5
- any: 22
- anysia: 1
- an’: 4
+ any: 20
+ an’: 3
  apace: 1
  apart: 4
- aphraates: 1
- apollinaris: 1
  apollo: 5
- apollonia: 1
  apollo’s: 2
- apostle: 10
+ apostle: 5
  apostles: 1
  apparel: 1
- appealing: 1
- appear: 12
+ appear: 8
  appearance: 12
- appeared: 1
  appears: 7
  appease: 2
  appendage: 1
@@ -693,110 +427,83 @@
  applause: 1
  apple: 1
  apple-blossoms: 1
- apple-fruited: 1
- apple-tree: 1
  applications: 1
  applied: 1
  appointed: 2
- appollonius: 1
  approach: 7
  approached: 1
  approacheth: 1
- approaching: 2
+ approaching: 1
  appropriate: 7
- appropriated: 1
  appropriations: 1
  approve: 1
- apricot: 1
  april: 2
- apt: 2
+ apt: 1
  aptly: 2
- aquifolium: 1
  arabian: 1
- arbor: 3
- arborea: 1
- arboreus: 2
  arbours: 1
- arbutus: 1
  arcadian: 1
- arcadius: 1
- archbishop: 18
+ archbishop: 10
  arched: 2
  architect: 1
- ardent: 7
+ ardent: 5
  ardour: 3
- are: 207
+ are: 181
  arenaria: 2
  areopagite: 1
- argemone: 1
  argos: 1
- ariadne: 1
  aright: 1
- arisarum: 1
- arise: 2
+ arise: 1
  arises: 1
  ark: 1
  arles: 1
  arm: 4
  armed: 1
  armenia: 1
- armeniaca: 1
- armful: 1
  arms: 8
- armstrong: 1
  aroma: 1
  aromatic: 3
  arose: 2
- around: 27
+ around: 25
  arrant: 1
- array: 5
- arrayed: 4
+ array: 3
+ arrayed: 3
  arrival: 1
- arrive: 1
  arrived: 2
  arrives: 1
  arrogance: 2
  arrow: 1
  arrows: 3
- art: 42
- artemisa: 1
- artemius: 1
+ art: 35
  article: 1
  artifice: 1
  artificial: 1
- artist: 1
  artless: 1
- artlessness: 1
- arts: 8
- arum: 4
- arvensis: 7
- as: 306
+ arts: 7
+ arvensis: 2
+ as: 277
  ascend: 1
  ascending: 1
- ascends: 3
+ ascends: 2
  ascent: 1
  ascribed: 2
- ash: 3
+ ash: 2
  ashes: 3
  asia: 1
- asiatic: 1
- asiaticus: 2
  aside: 1
- ask: 10
+ ask: 7
  asked: 1
  asking: 1
  asks: 2
- asleep: 5
+ asleep: 4
  asp: 1
  aspect: 3
  aspen: 1
  asperities: 1
  asperum: 1
- asphodel: 2
- asphodelus: 1
+ asphodel: 1
  aspirations: 1
- aspiring: 2
- asplenium: 2
+ aspiring: 1
  assembled: 1
  assert: 1
  asserted: 1
@@ -806,18 +513,16 @@
  associated: 1
  assuage: 1
  assumed: 1
- assumption: 2
+ assumption: 1
  assuredly: 1
- aster: 22
- asteriscus: 1
- asteroides: 1
+ aster: 6
  asthma: 1
  astonish: 1
  astonished: 2
  astonishment: 1
  astray: 1
  astronomer: 1
- at: 152
+ at: 140
  atalanta: 1
  athanasius: 1
  atheist’s: 1
@@ -827,9 +532,8 @@
  athwart: 1
  atmosphere: 1
  atom: 1
- atro-purpurea: 1
  attach: 2
- attached: 3
+ attached: 2
  attachment: 3
  attack: 1
  attains: 1
@@ -848,32 +552,20 @@
  attraction: 1
  attractive: 1
  attracts: 1
- attributed: 1
  attributes: 1
  atys: 1
- aught: 4
+ aught: 3
  augsburg: 1
  august: 2
- augustine: 3
+ augustine: 1
  auld: 1
- auranticum: 1
- aurea: 2
- aureum: 1
- aureus: 1
- auricomus: 1
  aurora’s: 1
  austere: 1
- australis: 1
  author: 2
- autumn: 12
- autumnal: 4
- autumnale: 3
- autumnale_.--transfiguration: 1
- autumnalis: 3
- avellana: 1
+ autumn: 9
+ autumnal: 2
  avenue: 1
  avenues: 1
- averred: 1
  averse: 1
  aversion: 1
  avert: 2
@@ -881,105 +573,81 @@
  avoiding: 1
  avow: 1
  awake: 2
- awaken: 4
- awakened: 2
+ awaken: 3
+ awakened: 1
  awakening: 1
  awakens: 1
  awakes: 2
  awaking: 2
- away: 55
+ away: 51
  away!--through: 1
  away!--ye: 1
  awe: 1
  awful: 1
  awfu’: 1
- awhile: 3
+ awhile: 1
  axe: 1
  axe;--and: 1
- ay: 2
- ay,--father!--i: 1
+ ay: 1
  aye: 3
- azalea: 2
  azure: 2
  aërial: 2
- a’: 4
- babe: 5
+ a’: 3
+ babe: 4
  babies: 1
  babylonian: 1
- bacata: 1
- baccata: 1
  bacchus: 1
- baccifera: 1
- bachelor’s: 2
- back: 15
+ back: 13
  back--and: 1
  back-kneed: 1
  backs: 1
  backward: 3
- bad: 1
  bade: 4
  badge: 1
  bag: 1
- bailey: 5
- baillie: 3
  bairns: 1
  balanced: 1
  baleful: 2
- balfour: 2
  balm: 4
  balmy: 1
- balsam: 4
- balsamea: 1
+ balsam: 3
  ban: 2
- band: 4
- banded: 1
+ band: 3
  bands: 2
- bane: 7
+ bane: 4
  banes: 1
  banished: 1
- bank: 8
- banks: 13
- banner: 3
+ bank: 7
+ banks: 12
+ banner: 2
  banners: 1
  banquet-hall: 1
  banquets: 1
  banyans: 1
  baptist: 1
  bar: 1
- barbadoes: 1
- barbarea: 1
  barbarous: 3
- barbata: 1
  barbatum: 2
- barbatus: 2
- barberry: 2
+ barberry: 1
  barcelona: 1
  bard: 1
- bards: 3
- bare: 12
- bareheaded: 1
+ bards: 1
+ bare: 10
  bark: 4
  bark-clad: 1
- barker: 1
  barks: 1
- barley: 2
- barnabas: 1
+ barley: 1
  barometer: 1
  barometers: 1
  baronial: 1
- barren: 2
- barrett: 2
- barry: 6
- bartered: 1
- bartholomew: 1
- barton: 4
+ barren: 1
+ barton: 1
  base: 11
  base-rocket: 1
  baseness: 1
  baser: 1
- bashful: 2
- basil: 3
- basilicum: 1
+ bashful: 1
+ basil: 1
  basilisk: 1
  basis: 1
  basket: 1
@@ -990,64 +658,62 @@
  bathe: 1
  bathing: 1
  baths: 1
- battle: 2
+ battle: 1
  battlements: 2
  battles’: 1
  battling: 1
- bay: 3
+ bay: 1
  bay-tree: 1
  bays: 2
- be: 181
+ be: 167
  bead: 1
  beak: 1
- beam: 8
+ beam: 7
  beamed: 1
  beaming: 4
  beams: 4
  beans: 1
- bear: 16
+ bear: 15
  beard: 4
  bearded: 2
  beareth: 1
  bearing: 3
  bears: 8
- beast: 4
+ beast: 3
  beasts: 1
  beat: 2
  beating: 1
  beats: 2
  beaufet: 1
- beaumont: 1
  beauteous: 6
  beauties: 2
- beautiful: 54
+ beautiful: 47
  beautiful--thou: 1
  beautifully: 1
- beauty: 77
+ beauty: 61
  beauty--human: 1
  beauty--oh: 1
  beauty’s: 5
  beaux: 1
- became: 6
+ became: 5
  because: 19
  become: 6
  becomes: 4
- bed: 10
- bede: 1
+ bed: 8
  bedewed: 2
  bedim: 1
  beds: 3
  bee: 9
  bee-haunted: 1
  beech: 3
- been: 58
+ been: 54
  been,--ah: 1
- bees: 2
+ bees: 1
  beetles: 2
  befell: 1
  befits: 1
  befitting: 1
- before: 33
+ before: 32
  before--to: 1
  began: 3
  beggar: 2
@@ -1055,15 +721,15 @@
  beggary: 1
  begin: 1
  beginning: 3
- begins: 3
+ begins: 2
  beguile: 2
  beguiled: 1
  begun: 2
  beheaded: 1
  beheld: 5
  behind: 11
- behold: 7
- being: 17
+ behold: 6
+ being: 15
  beings: 1
  being’s: 1
  belgium: 1
@@ -1072,109 +738,91 @@
  belied: 1
  belief: 1
  believe: 4
- believed: 3
+ believed: 2
  believes: 1
- bell: 6
- belladonna: 2
- belle: 2
- bellis: 3
- bells: 7
+ bell: 5
+ belle: 1
+ bellis: 1
+ bells: 6
  belly: 1
  bell”: 1
  belong: 2
  beloved: 9
- below: 10
+ below: 8
  bend: 5
  bended: 1
  bending: 4
  bends: 2
- beneath: 26
- benedict: 2
+ beneath: 23
+ benedict: 1
  benefactor: 1
  beneficence: 2
  beneficent: 1
  benevento: 1
- beniti: 1
- benjamin: 5
- bennet: 2
  bent: 4
- benzoin: 1
  bepearled: 1
  bequeath: 2
- berberis: 1
  bereaved: 1
  bereft: 1
- bernard: 1
- bernardine: 1
  berries: 5
- bertille: 1
- beside: 16
+ beside: 12
  besides: 1
  bespread: 1
- best: 12
+ best: 9
  best.”: 1
  bestow: 1
  bestow.”: 1
  bestowed: 1
  bestows: 1
  bestrewèd: 1
- bethlehem: 4
+ bethlehem: 1
  betides: 1
- betimes: 1
  betrayed: 1
  betrothed: 3
  better: 14
  between: 11
  betwixt: 1
  beverly: 1
- beware: 2
+ beware: 1
  bewildered: 1
  bewrayed: 1
  beyond: 8
- bibiania: 1
- bicolor: 1
  bid: 3
- biddeth: 1
  bids: 2
- biennis: 1
  big: 1
  bilberry: 1
  bills: 1
  bind: 3
  binding: 1
  binds: 2
- bindweed: 1
  birchen: 1
- bird: 15
+ bird: 14
  bird-lime: 1
  birdies: 1
- birds: 5
- bird’s: 1
+ birds: 4
  birken: 1
  birth: 6
  birth-day: 1
- bishop: 48
- bit: 1
+ bishop: 15
  bite: 1
  bites: 1
  biting: 1
- bitter: 8
- bitter-sweet: 3
+ bitter: 7
+ bitter-sweet: 2
  bitterest: 1
  bitterly: 1
  bitterness: 4
- black: 7
+ black: 5
  black,--and: 1
  blackened: 1
  blackest: 1
  blackish-purple: 1
- blackness: 2
+ blackness: 1
  bladder-nut: 1
  blade: 1
  blame: 2
  blanch: 1
  blank: 1
- blase: 1
  blast: 3
  blasted: 3
  blaze: 3
@@ -1184,33 +832,31 @@
  blend: 3
  blended: 1
  bless: 4
- blessed: 8
- blessedness: 4
+ blessed: 6
+ blessedness: 3
  blessing: 1
- blessings: 7
- blest: 9
+ blessings: 6
+ blest: 7
  blight: 2
  blighted: 1
- blind: 7
+ blind: 6
  blinded: 1
  blinding: 1
  blindly: 1
  blinds: 1
  blinkin: 1
  bliss: 5
- blissful: 1
  blithe: 4
  blood: 10
  blood-dipped: 1
  blood-red: 1
  bloodless: 1
  bloods: 1
- bloody-flowered: 1
- bloom: 21
+ bloom: 19
  bloomed: 1
  blooming: 6
- blooms: 5
- blossom: 9
+ blooms: 4
+ blossom: 6
  blossomed: 2
  blossoming: 1
  blossoms: 27
@@ -1219,20 +865,19 @@
  blowing: 1
  blown: 3
  blows: 4
- blue: 40
+ blue: 32
  blue--the: 1
- blue-bottle: 3
+ blue-bottle: 1
  blue-veined: 1
- bluebell: 2
+ bluebell: 1
  bluebell’s: 1
  bluer: 1
  bluid: 1
  bluish-white: 1
- blunderer: 1
  blunt: 1
  bluntness: 1
- blush: 5
- blushes: 2
+ blush: 4
+ blushes: 1
  blushing: 5
  bluster: 1
  boar: 3
@@ -1247,76 +892,63 @@
  bog: 1
  boggy: 2
  boisterous: 1
- bold: 5
+ bold: 4
  boldest: 1
  boldly: 1
- boldness: 1
  boles: 1
- boletus: 4
  bologna: 1
- boltonia: 1
  bolts: 1
- bonaventure: 1
  bond: 1
  bone: 1
  bone-lace: 1
  bones: 1
- boniface: 1
  bonilie: 1
- bonny: 2
- book: 6
+ book: 5
  books: 5
  boon: 1
  booted: 1
- boots: 1
- borage: 2
- borago: 1
+ borage: 1
  border: 1
  borders: 2
- bore: 4
+ bore: 3
  borealis: 1
  boreas: 1
  borgia: 1
- born: 4
+ born: 3
  borne: 4
  borrowed: 2
- bosom: 16
+ bosom: 15
  bosoms: 2
  bosom’s: 2
  bossed: 1
  botanist: 3
- botanists: 1
  both: 15
  bottom: 1
  bough: 1
- boughs: 3
+ boughs: 2
  bough’s: 1
  bound: 2
  bounded: 2
  boundless: 2
  bounds: 1
- bounties: 2
+ bounties: 1
  bountiful--bestows: 1
  bounty: 1
  bouquet: 1
  bouquets: 1
- bourges: 1
- bovinus: 1
  bow: 5
- bow-string: 1
- bowed: 4
- bower: 10
- bowers: 5
+ bowed: 3
+ bower: 6
+ bowers: 3
  bowers,”: 1
- bowles: 3
  bows: 2
- box: 9
+ box: 8
  box-hill: 1
  box-trees: 2
  box-wood: 1
  boxley: 1
  boxwell: 1
- boy: 5
+ boy: 4
  boyhood’s: 1
  boyish: 1
  boys: 1
@@ -1328,25 +960,23 @@
  bramble: 1
  brambles: 1
  branch: 6
- branched: 2
+ branched: 1
  branches: 10
  brand: 2
  brass: 2
- braulio: 1
  brave: 7
- braved: 1
  bravery: 1
  brazil: 1
  bread: 1
  break: 6
  breaking: 4
  breaks: 1
- breast: 22
+ breast: 17
  breasts: 2
- breath: 15
+ breath: 14
  breathe: 3
  breathed: 4
- breathes: 5
+ breathes: 4
  breckan: 1
  bred: 1
  breed: 2
@@ -1359,213 +989,168 @@
  brevis: 1
  bridal: 3
  bridal-day: 1
- bride: 8
- bridge: 1
- bridget: 2
+ bride: 7
+ bridget: 1
  bridle: 1
  brief: 6
- bright: 66
- bright-eyed: 1
+ bright: 56
  brighter: 5
  brighter?--yet: 1
  brightest: 7
- brightly: 5
+ brightly: 4
  brightness: 4
- brilliant: 5
- bring: 13
+ brilliant: 4
+ bring: 12
  bringeth: 1
  bringing: 4
  brings: 4
  brink: 2
- brinstane: 1
  bristle: 1
  bristled: 1
  britain: 2
- broad: 11
- broad-leafed: 1
+ broad: 10
  broader: 1
  brocade: 1
  broke: 4
- broken: 8
+ broken: 7
  broken-hearted: 1
  brompton: 2
  bromwich: 1
  brood: 1
  brooding: 1
- brook: 7
+ brook: 5
  brooked: 1
- broom: 9
+ broom: 5
  broom,”: 1
  broom-seeds: 1
  brother: 3
  brother.”: 1
  brotherhood: 1
- brothers: 2
- brought: 12
- brow: 16
+ brothers: 1
+ brought: 10
+ brow: 11
  brown: 3
- browne: 1
  brows: 2
  bruises: 1
- bruno: 2
  brussels: 1
  brute: 1
- bryant: 4
- bryum: 2
  buck-bean: 1
- buckingham: 1
  buckler: 2
- bud: 8
+ bud: 5
  buds: 10
  bugles: 1
- bugloss: 3
+ bugloss: 1
  build: 1
  buildings: 1
- builds: 2
- built: 4
- bulbocodium: 2
- bulbosa: 1
- bulbous: 1
+ builds: 1
+ built: 1
  bulbus: 1
  bulk: 1
  bulky: 1
  bulrush: 1
- bulwer: 1
  bump-sticks: 1
  bunker: 1
  bur: 1
  burden: 1
  burdens: 1
  burdock: 1
- buried: 5
- burn: 4
- burned: 4
+ buried: 4
+ burn: 3
+ burned: 3
  burnie: 1
  burning: 7
- burns: 14
+ burns: 5
  burst: 2
  bursting: 1
  burying-grounds: 1
  bush: 2
- bushes: 1
- bushy: 1
- bustled: 1
- busy: 4
- but: 226
+ busy: 3
+ but: 202
  butt: 1
- butter-bur: 1
- butterbur: 1
- buttercup: 2
+ buttercup: 1
  butterflies: 1
  butterfly: 3
  butterfly’s: 1
- button: 2
  button-moulds: 1
  buxom: 1
  buy: 2
  buys: 2
  buzz: 1
- by: 237
- by-gone: 2
+ by: 220
+ by-gone: 1
  bygone: 1
- byron: 25
- byzanticum: 1
- byzantine: 1
- c: 10
+ c: 2
  cabinet-maker: 1
- cactus: 7
+ cactus: 4
  caduceus: 1
  caged: 1
- cain: 1
- cain._--then: 1
- cajetan: 1
  calabria: 1
- calamity: 1
- calamus: 3
- calceolus: 1
- calendar: 3
+ calamus: 2
+ calendar: 2
  calends: 1
- calendula: 4
- calixtus: 1
- call: 13
+ calendula: 2
+ call: 11
  call,”: 1
  called: 14
  callimachus: 1
  calling: 1
  calls: 3
- calm: 14
+ calm: 12
  calmly: 1
- calumny: 2
+ calumny: 1
  calypso: 1
- cambricum: 1
- came: 21
- camellia: 4
+ came: 14
+ camellia: 3
  camp: 1
- campanula: 2
- campbell: 3
- campestris: 1
  camps: 1
- can: 75
+ can: 66
  canada: 1
- canadensis: 1
- canadian: 1
- candidum: 1
  candied: 1
  candour: 1
- canina: 1
  canker: 1
  canker-tooth: 1
  cannon: 1
- cannot: 16
+ cannot: 14
  canopy: 1
  canst: 4
- cantalicio: 1
- canterbury: 7
+ canterbury: 6
  cantraip: 1
- cap: 2
  capabilities: 1
  capable: 1
  capacious: 1
  capacities: 1
- cape: 4
+ cape: 1
  capital: 1
- capricious: 5
+ capricious: 4
  captivate: 1
- captivates: 1
  car: 2
- cardamine: 1
- cardinal: 2
+ cardinal: 1
  care: 13
- cared: 2
+ cared: 1
  career: 2
  careful: 2
  carefully: 1
  careless: 3
  cares: 2
  caresses: 1
- carew: 3
- carey: 1
  carmine: 2
  carnation: 3
- carolina: 2
+ carolina: 1
  carolinas: 1
- carolinus: 1
  carpet: 3
  carpeted: 1
  carpets: 1
  carriage: 1
- carried: 5
+ carried: 4
  carry: 1
  cart: 1
  carthusian: 1
- carved: 1
  carver: 1
  car’st: 1
  case: 2
  casement: 2
  casements: 1
- casimir: 1
- cast: 7
+ cast: 6
  castile: 2
  castle: 2
  castles: 1
@@ -1577,11 +1162,9 @@
  catchfly: 1
  catching: 1
  cathedral: 1
- catherine: 5
  catholic: 2
  catkins: 1
  cattle: 3
- cat’s: 2
  caucasus: 1
  caught: 9
  cauld: 1
@@ -1589,7 +1172,6 @@
  caused: 1
  causes: 1
  caution: 2
- cautiously: 1
  cavalcade: 1
  cavalier: 1
  cavaliere: 1
@@ -1598,36 +1180,24 @@
  cavern-like: 1
  caves: 1
  ceada: 1
- cease: 8
+ cease: 7
  ceased: 3
  ceases: 1
- cecilia: 1
- cecilius: 1
- cedar: 2
  cedars: 1
- cedrus: 1
  celandine: 1
  celandine’s: 1
  celebrate: 1
  celebrated: 5
- celestial: 5
- celia: 1
- cell: 5
+ celestial: 3
+ cell: 4
  cemeteries: 2
  censer: 1
  censure: 1
- centaurea: 4
- centaureum: 1
- centaury: 1
- centorium: 1
  centre: 2
  centred: 1
- centuries: 2
+ centuries: 1
  centurion: 1
- century: 33
- ceolfrid: 1
- cerastium: 1
- cerasus: 1
+ century: 24
  ceremonies: 2
  ceremony: 1
  ceres: 2
@@ -1636,29 +1206,24 @@
  cerulean: 1
  cerulean-blue: 1
  cestus--and: 1
- chad: 1
  chaff: 1
- chain: 9
+ chain: 8
  chair: 1
  chaliced: 1
  chalky: 3
  challenging: 1
- chamber: 3
+ chamber: 2
  chameleon: 1
- chamomile: 4
- chamomilla: 1
- champignon: 2
+ chamomile: 1
+ champignon: 1
  chance: 1
- change: 19
+ change: 12
  changeable: 1
  changed: 8
- changed!--and: 1
- changeful: 1
  changes: 1
- changing: 3
+ changing: 2
  chantal: 1
  chanted: 1
- chapel: 1
  chaplet: 2
  character: 1
  characters: 2
@@ -1668,60 +1233,53 @@
  chariot: 3
  charioteer: 1
  chariots: 1
- charity: 1
  charles: 1
- charlock: 1
  charm: 11
  charmed: 2
- charming: 4
+ charming: 3
  charmingly: 1
- charms: 23
+ charms: 17
  charnell-houses: 1
- chase: 3
+ chase: 2
  chased: 2
  chasing: 1
  chaste: 2
- chastity: 7
- chat: 2
+ chastity: 5
+ chat: 1
  chatted: 1
- chaucer: 1
  cheated: 1
  checkered: 1
- cheek: 14
+ cheek: 11
  cheek--his: 1
  cheek?--is: 1
  cheeks: 3
- cheer: 6
+ cheer: 5
  cheered: 4
- cheerful: 5
+ cheerful: 4
  cheerfulness: 1
  cheering: 1
- cheerless: 2
- cheiranthus: 1
- chelidonium: 1
+ cheerless: 1
  chelles: 1
  chequered: 1
  cherish: 4
- cherished: 6
- cherry: 5
+ cherished: 4
+ cherry: 3
  cherub,”: 1
  chessmen: 1
- chestnut: 2
+ chestnut: 1
  chests: 1
  chevalier: 1
- chickweed: 3
  chicory: 1
  chide: 1
  chiding: 1
  chief: 3
- chiefly: 1
- child: 16
+ child: 11
  child,”: 1
  childbirth: 1
- childhood: 5
+ childhood: 4
  childhood’s: 3
  childish: 1
- children: 12
+ children: 11
  children--vain: 1
  child’s: 2
  chill: 3
@@ -1731,11 +1289,8 @@
  chime: 2
  chiming: 1
  chimney: 1
- china: 10
- chinensis: 2
- chinese: 1
+ china: 7
  chink: 1
- chironia: 3
  chivalric: 1
  chivalry: 1
  chloes: 1
@@ -1754,34 +1309,23 @@
  christall: 1
  christening-cup: 1
  christmas: 6
- christopher: 2
  christ’s: 2
- chrys: 1
- chrysanthemum: 4
- chrysologus: 1
- chrysosplenium: 1
- chrysostom: 1
  church: 1
  church-yards: 1
  churches: 2
- churchill: 3
  ciliata: 1
- cilicia: 1
  cinders: 2
  cinnamomea: 1
  cinquefoil: 1
  circle: 1
  circle’s: 1
- circling: 1
  circumstance: 5
  circumstance:--jupiter: 1
  circæa: 1
- cistus: 2
  citadel: 1
  citeaux: 1
  cities: 1
- citrinum: 1
- citron: 2
+ citron: 1
  city: 3
  civil: 1
  clad: 1
@@ -1789,63 +1333,56 @@
  claimed: 1
  claims: 2
  clanks: 1
- clare: 1
- claremont: 1
  claremont’s: 1
- clarimond: 1
- clarion: 1
  clasp: 4
  clasped: 1
  class: 2
  classes: 2
  clay: 2
  clean: 2
- clear: 13
+ clear: 12
  cleared: 1
  clearer: 1
  clearest: 1
  clearly: 1
  cleaves: 1
  cleft: 1
- clematis: 3
- clement: 1
+ clematis: 1
  clerk’s: 1
  clever: 1
  clicking: 1
- climacus: 1
  climate: 1
  climates: 1
- climb: 3
+ climb: 2
  climbed: 1
  climber: 1
  climbing: 3
  climbs,--he: 1
- clime: 3
+ clime: 2
  cling: 1
  clinging: 2
  clings: 2
  clipped: 2
  cloak: 1
- clock: 4
+ clock: 3
  clocks: 1
  cloddy: 1
- close: 13
- closed: 3
+ close: 12
+ closed: 2
  closely: 1
  closes: 1
  closing: 1
  clot-bur: 1
- cloth: 1
  clothed: 3
  clothes: 2
  clothing: 1
  cloths: 1
  clotted: 1
- cloud: 16
+ cloud: 12
  cloud-capt: 1
  clouded: 3
  cloudless: 3
- clouds: 15
+ clouds: 14
  cloudy: 1
  clove: 1
  clove-gilly: 1
@@ -1853,42 +1390,35 @@
  cloy: 1
  clung: 1
  cluster: 2
- clustered: 3
+ clustered: 1
  clustering: 1
  clusters: 5
  clutched: 1
- co: 1
  coaches: 1
  coal: 1
  coal-pits: 1
  coarse: 2
  coast: 1
- coats: 2
+ coats: 1
  cochin: 1
  cock: 1
  cockle-boat: 1
  coffin: 1
  coffins: 1
- colchicum: 7
- cold: 41
+ colchicum: 2
+ cold: 38
  cold--and: 1
- colder: 2
- coldly: 1
+ colder: 1
  coldness: 2
- coleridge: 2
- colette: 1
  collected: 1
- college: 3
+ college: 2
  colossal: 1
- colour: 9
- coloured: 3
+ colour: 8
+ coloured: 2
  colouring: 1
  colours: 7
  coltsfoot: 1
- colt’s: 1
- colt’s-foot: 2
- columba: 1
- columbine: 9
+ columbine: 7
  columbine?”: 1
  columns: 1
  column’s: 1
@@ -1897,28 +1427,23 @@
  combining: 1
  combs: 1
  combs.”: 1
- come: 39
+ come: 28
  comely: 1
- comes: 12
+ comes: 10
  cometh: 1
- comfort: 4
+ comfort: 2
  comforted: 1
  comforter: 1
  comfortless: 1
- comfrey: 1
- comgal: 1
  coming: 6
  command: 3
  commanded: 1
  commandment: 1
  commemoration: 1
- commenting: 1
  commerce: 2
- common: 43
- common-place: 1
+ common: 16
  commonly: 2
  commotion: 1
- commune: 1
  compact: 1
  companion: 2
  companions: 2
@@ -1943,32 +1468,27 @@
  composition: 2
  comprehending: 1
  compriseth: 1
- comprising: 1
  conceal: 1
  concealed: 2
  concealing: 1
  concealment: 1
  conceals: 1
  conceit: 2
- conceited: 1
  conceived: 1
  concert: 1
  concluded: 1
  concord: 1
  condemn: 1
- condemned: 1
  condition: 1
- conditions: 1
  conduct: 1
  cone-shaped: 1
  conferred: 1
  confers: 1
- confess: 2
  confessed: 1
- confession: 4
+ confession: 2
  confessor: 2
  confide: 1
- confidence: 3
+ confidence: 2
  confiding: 4
  confines: 1
  confirms: 1
@@ -1979,15 +1499,12 @@
  confusion: 1
  congealed: 1
  congenial: 1
- congress: 1
  conical: 1
- conizoides: 1
  conjugal: 2
  conjure: 1
  conjures: 1
  conqueror: 2
  conquers: 1
- conrad: 1
  consecrate: 1
  consecrated: 5
  consent: 1
@@ -1996,19 +1513,18 @@
  considerable: 3
  considered: 10
  considering: 1
- consolation: 5
+ consolation: 4
  constance: 1
- constancy: 11
- constant: 8
+ constancy: 7
+ constant: 6
  constantinople: 4
  constructed: 1
  consulting: 1
- consumed: 4
+ consumed: 3
  consuming: 4
  contagion: 1
  contains: 1
  contemn: 1
- contemning: 1
  contemplates: 1
  contempt: 1
  contending: 2
@@ -2027,121 +1543,95 @@
  contribute: 1
  contrive: 1
  control: 2
- convallaria: 2
  conventional: 1
  converse: 1
- conversing: 1
- conversion: 1
  converted: 1
- convex: 2
- convexula: 1
+ convex: 1
  convey: 2
  convinced: 1
- convolvulus: 4
+ convolvulus: 2
  cooed: 1
  cooing: 1
  cookery-books: 1
  cope: 1
  copied: 1
  coping: 1
- copious: 2
+ copious: 1
  coppice: 1
  copse: 1
- coquetry: 3
- coquetry--desire: 1
+ coquetry: 2
  coquettish: 1
  coral: 1
- coralline: 1
  cordial: 1
- cordova: 1
  cords: 1
- coreopsis: 2
  coriander: 1
  corinth: 1
  corinthian: 1
- corn: 14
- corn-cockle: 1
+ corn: 8
  corn-fields: 1
  corn-flag: 1
  cornbottle: 1
  cornel: 1
  corners?--wishing: 1
- cornflower: 1
- cornish: 1
- cornwall: 6
  corollas: 1
  corollina: 1
- coronarium: 1
  coronets: 1
  corpse-light: 1
- correct: 1
  correspond: 1
  corrupt: 1
  corruption: 2
  corruptly: 1
- corsican: 1
- cortona: 1
  corybantes: 1
- corylus: 1
- costly: 2
+ costly: 1
  cot: 6
- coteris: 1
  cotillon: 1
  cottage: 5
  cottages,--a: 1
- cotton: 3
+ cotton: 2
  couch: 5
  couched: 1
  coughs: 1
- could: 39
+ could: 35
  couldst: 3
- coum: 1
- counsel: 2
+ counsel: 1
  counsel--but: 1
  count: 1
  counted: 1
  countenance: 4
  countless: 4
  countries: 2
- country: 14
+ country: 10
  country’s: 1
  count’st: 1
  couple: 3
  courage: 3
- course: 7
+ course: 5
  courser: 1
  court: 4
  courted: 1
  courtiers: 1
  cover: 2
- covered: 8
+ covered: 7
  covering: 1
  covers: 2
  covert: 1
  cow: 1
  cowardly: 1
  cowden-knowes: 1
- cowl: 1
- cowley: 1
- cowper: 6
- cowslip: 7
- coxcomb: 2
+ cowslip: 4
+ coxcomb: 1
  cozy: 1
- crabbe: 1
  crack: 1
- cracked: 1
  cracking: 1
  crackle: 1
  cradle: 1
  craft: 1
- craftsmen: 1
  cragged: 1
  crags: 2
  crammed: 1
  cranberries: 2
- cranberry: 3
+ cranberry: 1
  crashing: 1
- crassifolia: 1
  crassula: 1
  craves: 1
  cream: 1
@@ -2155,9 +1645,9 @@
  creed: 1
  creep: 1
  creeper: 1
- creeping: 7
+ creeping: 4
  creeps: 1
- crepis: 7
+ crepis: 6
  crept: 1
  crescent: 1
  cress: 1
@@ -2166,131 +1656,102 @@
  cresty: 1
  cried: 4
  crime: 1
- crimson: 9
+ crimson: 8
  cripples: 1
- crispin: 1
- crispina: 1
- crispinian: 1
- crista-galli: 1
- crocus: 22
- crocus-leafed: 1
+ crocus: 6
  crop: 1
  cropped: 1
  crops: 2
- cross: 5
+ cross: 3
  crouch: 1
  crow: 3
- crowd: 5
- crowded: 4
+ crowd: 4
+ crowded: 3
  crowding: 3
  crowds: 1
- crowfoot: 2
- crown: 16
- crowned: 7
+ crowfoot: 1
+ crown: 9
+ crowned: 6
  crowning: 1
  crownless: 1
  crowns: 1
  cruel: 3
- cruelty: 6
- cruenta: 1
+ cruelty: 5
  crunched: 1
  crush: 6
- crushed: 1
  crusoe: 1
  crusted: 1
- cry: 4
- crysanthemum: 1
+ cry: 3
  crystal: 7
  crystal-globed: 1
  crystallinum: 2
  crystals: 1
- cuculi: 1
  cull: 1
  culled: 1
  cultivate: 1
  cultivated: 5
  cultivation: 3
  cultured: 1
- cunegunda: 1
  cunning: 1
  cup: 11
- cupressoides: 1
- cupressus: 3
  cups: 1
  curb: 1
- curdles: 1
- cure: 6
+ cure: 4
  curiosity: 1
- curious: 4
- curl: 2
+ curious: 3
+ curl: 1
  current: 3
- curse: 2
+ curse: 1
  cursed: 1
  curtain: 1
  cuscuta: 1
- cuspidatum: 1
  custom: 3
  customary: 2
  customs: 1
- cut: 6
+ cut: 5
  cutted: 1
- cyanus: 1
  cybele: 1
  cyclads: 1
- cyclamen: 2
  cygnet’s: 1
- cymbeline: 1
- cynoglossum: 1
  cyparissos: 1
- cypress: 13
- cypripedium: 1
- cyril: 3
- cæsarius: 1
+ cypress: 8
  cæsars: 1
- cœrulea: 1
- cœruleus: 1
  dad: 1
- daffodil: 10
- daffodillies: 1
- daffodils: 3
- dahlia: 4
- daily: 5
+ daffodil: 2
+ daffodils: 2
+ dahlia: 3
+ daily: 4
  daintily: 1
- dainty: 7
+ dainty: 5
  dairy: 1
- daisies: 9
- daisy: 14
+ daisies: 7
+ daisy: 8
  daisy’s: 1
  dales: 1
  dally: 1
  damascene: 1
- damascus: 1
  damascus’: 1
  damask: 1
- dames: 3
+ dames: 1
  dames’: 1
  damons: 1
  damp: 1
  dampness: 1
- dana: 2
  dance: 4
- danced: 3
+ danced: 1
  dances: 1
  dancing: 7
- dandelion: 11
+ dandelion: 6
  danger: 2
- dangerous: 9
- daniel: 3
+ dangerous: 7
  dank: 1
  danube: 1
- daphne: 2
  dappled: 2
- dare: 7
+ dare: 5
  dares: 3
- daring: 2
- dark: 25
+ daring: 1
+ dark: 23
  dark-green: 1
- darken: 1
  darken;--when: 1
  darkened: 2
  darkening: 2
@@ -2301,41 +1762,34 @@
  dart: 1
  darting: 1
  darts: 1
- darwin: 3
+ darwin: 1
  dashed: 1
  dates: 1
- datura: 2
- daughter: 8
+ daughter: 7
  daughters: 1
  daunted: 1
  dauphinelle: 1
- davenport: 1
- david: 1
- dawes: 3
  dawn: 2
  dawns: 1
- day: 56
+ day: 52
  day-light: 1
  day-lily: 3
- days: 25
+ days: 20
  day’s: 4
  dazzled: 2
  dazzling: 4
- de: 9
- deacon: 1
- dead: 24
+ de: 5
+ dead: 18
  deadens: 1
  deadly: 1
  deadly-tusked: 1
- deaf: 1
  dealings: 1
- dear: 22
- deare: 1
+ dear: 17
  dearer: 2
  dearest: 2
- dearly: 2
+ dearly: 1
  dearly-loved: 1
- death: 27
+ death: 22
  death-chill: 1
  death-like: 1
  death-wound: 2
@@ -2344,12 +1798,11 @@
  death’s: 3
  debases: 1
  debts: 1
- decay: 4
+ decay: 3
  decayed: 1
  decays: 1
- deceit: 3
- deceitful: 3
- deceive: 1
+ deceit: 2
+ deceitful: 2
  deceived: 2
  december: 1
  december’s: 1
@@ -2357,16 +1810,15 @@
  decked: 3
  decking: 1
  decks: 1
- declaration: 3
- declare: 2
+ declaration: 2
+ declare: 1
  declares: 1
- decline: 3
+ decline: 2
  declines: 1
  decoction: 1
  decoration: 1
  decorations: 1
  decoy: 1
- decreed: 1
  decrepitude: 1
  dedicated: 2
  dedication: 1
@@ -2375,11 +1827,10 @@
  deem: 1
  deemed: 3
  deem’st: 2
- deep: 39
- deep--the: 1
+ deep: 35
  deepening: 3
  deeper: 4
- deepest: 2
+ deepest: 1
  deeply: 3
  deer: 4
  defaced: 1
@@ -2393,7 +1844,7 @@
  defy: 1
  degradation: 1
  degree: 1
- degrees: 2
+ degrees: 1
  deign: 3
  deity: 1
  dejected: 1
@@ -2405,18 +1856,15 @@
  delicious: 6
  delight: 12
  delighted: 1
- delightest: 1
- delightful: 2
+ delightful: 1
  delighting: 1
  delights: 8
  delineation: 1
- deliquescens: 1
  delivered: 1
  dells: 1
  delphi: 1
  delphina: 1
  delphinium: 1
- deltoides: 1
  delusions: 1
  delves: 1
  delvest: 1
@@ -2433,7 +1881,7 @@
  dentata: 1
  deny: 2
  denys: 1
- depart: 4
+ depart: 3
  departed: 2
  departing: 1
  depend: 1
@@ -2443,7 +1891,6 @@
  deposed: 1
  depth: 4
  depths: 3
- deride: 1
  derive: 1
  derived: 7
  derives: 2
@@ -2453,11 +1900,10 @@
  descending: 1
  descent: 1
  described: 1
- describes: 1
  description: 1
- desert: 4
- deserted: 3
- desertion: 2
+ desert: 3
+ deserted: 2
+ desertion: 1
  deserved: 1
  deserves: 2
  deserving: 1
@@ -2466,15 +1912,14 @@
  designed: 2
  designed!”: 1
  designing: 1
- desire: 7
+ desire: 5
  desires: 1
  desiring: 1
- desk: 1
  desolate: 2
  desolate,--where: 1
  desolating: 1
  desolation: 2
- despair: 6
+ despair: 5
  despairing;--and: 1
  despise: 1
  despised: 1
@@ -2491,15 +1936,13 @@
  deterred: 1
  devastating: 1
  developed: 1
- device: 2
  devilish: 1
- devil’s: 1
- devoted: 7
+ devoted: 5
  devotion: 1
  devour: 1
  devoured: 1
  devouring: 2
- dew: 14
+ dew: 11
  dew-drops: 2
  dew-like: 1
  dew-nursed: 1
@@ -2508,29 +1951,28 @@
  dexterous: 1
  di: 1
  diadem: 2
- dial: 5
+ dial: 4
  dialogue: 1
  diamond: 3
  diamonds: 2
  diana: 1
  diana’s: 1
- dianthus: 5
- dictionary: 2
- did: 29
- didst: 5
- didymus: 1
- die: 19
+ dianthus: 2
+ dictionary: 1
+ did: 27
+ didst: 3
+ die: 16
  die!”: 1
- died: 11
- dies: 7
+ died: 9
+ dies: 6
  differ: 1
  difference: 2
- different: 7
+ different: 5
  differing: 1
  difficulties: 2
  diffuse: 1
  dig: 2
- dignity: 5
+ dignity: 4
  dilapidated: 1
  dilated: 2
  dilates: 1
@@ -2540,15 +1982,12 @@
  dimmed: 1
  dimmer: 1
  dimness: 1
- dimple: 1
  dimpled: 1
- din: 2
+ din: 1
  dingle: 1
  dingles: 1
  dinner: 1
  dint: 1
- dioica: 1
- dionysius: 2
  dip: 1
  dipped: 1
  dire: 1
@@ -2559,19 +1998,16 @@
  disagreeable: 3
  disappeared: 1
  disappearing: 1
- disappointment’s: 1
  disapproved: 1
  disarrayed: 1
- disciple: 2
  disclaim: 1
- disclose: 3
+ disclose: 2
  discontent: 2
  discoursed: 1
  discover: 1
  discovered: 1
- discovery: 2
  discreetly: 1
- disdain: 8
+ disdain: 7
  disdained: 1
  disdaining: 1
  disease: 1
@@ -2589,7 +2025,7 @@
  displaying: 1
  displays: 4
  disposed: 1
- disposition: 5
+ disposition: 3
  disputing: 1
  dissolved: 1
  dissolving: 1
@@ -2597,15 +2033,14 @@
  distant: 4
  distilled: 1
  distinct: 1
- distinctions: 1
  distinguished: 5
  distress: 1
  distresses: 1
  district: 2
  districts: 1
- distrust: 2
+ distrust: 1
  distrusting: 1
- disturb: 3
+ disturb: 2
  disturbed: 1
  disuse--rural: 1
  dittany: 1
@@ -2616,103 +2051,86 @@
  divide: 1
  divided: 2
  divinations: 1
- divine: 6
+ divine: 5
  divinely: 1
  divine”: 1
  divinity: 3
  divisions: 1
  dizziest: 1
  dizziness: 1
- do: 36
- docile: 1
+ do: 27
  docility: 1
  dock: 1
  dodder: 1
  does: 15
- dog: 3
+ dog: 2
  dogs: 1
- dog’s: 1
  doing: 3
  dolci’s: 1
  dolphin: 1
  domain: 2
  domains: 1
- dome: 4
- dome--the: 1
+ dome: 3
  domes: 1
- domestic: 2
- dominic: 1
+ domestic: 1
  dominions: 1
  don: 2
- done: 12
+ done: 11
  done--oh: 1
- donne: 1
- donned: 1
  don’t: 2
  doom: 3
- doomed: 7
+ doomed: 6
  doomèd: 1
  door: 3
  door-way: 1
- doronicum: 2
- dorothy: 1
- dost: 8
- doth: 32
+ dost: 6
+ doth: 30
  doting: 1
- double: 5
- doubt: 3
- doubted: 1
- doubtful: 4
+ double: 3
+ doubt: 2
+ doubtful: 3
  doubtfully: 1
- doubts: 2
+ doubts: 1
  doves: 3
  dower: 1
  dowers: 1
- down: 40
+ down: 38
  down-trodden: 1
  downcast: 1
- downe: 1
  downfall: 1
- downy: 3
- dr: 1
- draba: 1
- dracocephalus: 1
+ downy: 1
  dragged: 1
- dragon: 4
+ dragon: 3
  dragon-fly: 1
- dragon’s: 1
  drain: 2
  dramas: 1
  draught: 2
  draw: 4
- drawing: 1
- drawings: 1
- drawn: 2
+ drawn: 1
  draws: 1
- drayton: 1
  dread: 1
  dreaded: 1
  dreading: 1
- dream: 16
+ dream: 15
  dream.”: 1
  dreamed: 2
  dreams: 7
  dreamy: 1
- drear: 3
+ drear: 2
  drearily: 1
  dreariment: 1
- dreary: 3
+ dreary: 2
  dregs: 1
  dress: 1
  dressed: 2
  dressers: 1
  dresses: 2
  drest: 2
- drew: 8
+ drew: 7
  dried: 2
  drifted: 2
  drifting: 1
- drink: 2
+ drink: 1
  drinking: 1
  drip: 1
  drive: 1
@@ -2720,8 +2138,7 @@
  drives: 2
  driving: 3
  drizzling: 1
- droctavæus: 1
- droop: 4
+ droop: 3
  drooping: 5
  droops: 1
  drop: 5
@@ -2736,82 +2153,66 @@
  drudge: 1
  druggets: 1
  druids: 3
- drummond: 1
  drum’s: 1
  drunk: 1
  dry: 4
  dryads: 1
- dryden: 4
  dryness: 1
- dry’st: 1
  dub: 1
- dubium: 1
  dublin: 1
  due: 2
  dug: 1
- dull: 12
+ dull: 10
  dull-looking: 1
  duly: 1
  dumb: 1
  dumont: 1
- dumosus: 1
  dumpy: 1
- dunstan: 1
  dupe: 1
  durability: 1
  durable: 1
  during: 7
  durst: 2
  dusky: 1
- dust: 8
+ dust: 7
  duties: 1
  duty: 1
- dwarf: 4
+ dwarf: 1
  dwarfs: 1
- dwell: 9
- dwellers: 1
- dwelleth: 3
+ dwell: 8
+ dwelleth: 1
  dwelling: 2
  dwelling-place: 1
  dwellings: 1
- dwells: 7
+ dwells: 5
  dwelt: 5
  dye: 4
  dyed: 1
- dyer: 1
  dyers: 1
- dyer’s: 4
+ dyer’s: 3
  dyes: 2
- dying: 8
- dympna: 1
- dysenterica: 1
+ dying: 5
  d’alouette: 1
  d’insarville: 1
- e: 5
- each: 48
- eadburga: 1
+ each: 42
  eager: 5
  eagle: 1
- eagle-sighted: 1
- eames: 1
- ear: 17
+ ear: 16
  earlier: 1
  earliest: 6
- early: 20
+ early: 12
  early-blooming: 1
- earnest: 3
- earnswith: 1
+ earnest: 2
  ears: 5
- earth: 52
+ earth: 47
  earth-shaking: 1
- earthly: 9
+ earthly: 7
  earthquake’s: 1
  earth’s: 4
- ease: 3
+ ease: 2
  eased: 1
  easily: 3
- east: 10
- eastburne: 1
+ east: 9
  eastern: 2
  eastward: 1
  easy: 3
@@ -2822,39 +2223,29 @@
  eaves: 2
  ebb: 1
  ebbed: 1
- ebony: 1
  ebook: 1
- echium: 1
  echo: 3
  echoes: 2
  eclipse: 1
- edana: 1
  eddies: 1
  eddying: 3
  eden: 1
- eden’s: 1
  edge: 3
  edging: 1
- editha: 1
- edmund: 2
  education: 2
- edward: 2
  edwin’s: 1
  effect: 2
  effort: 2
  efforts: 1
- eglantine: 4
- egypt: 5
- egyptian: 1
+ eglantine: 3
+ egypt: 3
  egyptians: 1
  eight: 1
- eighth: 3
+ eighth: 2
  either: 1
  elastic: 1
- elatior: 1
  elder: 1
- elegance: 7
- elegans: 1
+ elegance: 6
  elegant: 5
  element’s: 1
  elephant: 1
@@ -2862,26 +2253,22 @@
  elevation: 2
  eleven: 1
  elf: 1
- eligius: 1
- elizabeth: 2
+ elizabeth: 1
  elizabeth’s: 1
  eliza’s: 1
  ellen: 1
  ellen;--there: 1
  ellen’s: 2
- elliott: 1
  elm: 1
  eloquence: 5
  eloquent: 1
- elphin: 1
  else: 3
  elsewhere: 1
  elvish: 2
  embalmed: 1
  embellish: 1
  embers: 1
- emblem: 55
- emblematic: 1
+ emblem: 52
  emblematical: 1
  emblems: 2
  embower: 1
@@ -2889,26 +2276,24 @@
  embrace: 2
  embroidered: 2
  embroidery: 1
- embury: 6
  emerald: 2
- emiliana: 1
  eminent: 1
  emit: 2
- emotions: 8
+ emotions: 6
  emperor: 1
  empire: 1
  empires: 2
  employed: 5
- empress: 5
+ empress: 2
  emulate: 1
  emulation: 1
  enable: 1
  enables: 1
  enamoured: 3
- enchanted: 2
+ enchanted: 1
  enchanter’s: 1
  enchanting: 1
- enchantment: 5
+ enchantment: 4
  enchantress: 1
  encircled: 1
  enclose: 2
@@ -2923,15 +2308,15 @@
  ends: 5
  endued: 1
  endurance: 1
- endure: 3
+ endure: 2
  endures: 1
  enduring: 1
  endymion: 1
  enemies: 1
  enemy: 1
- energy: 3
+ energy: 2
  engirt: 1
- england: 16
+ england: 13
  england’s: 2
  english: 13
  engraven: 1
@@ -2941,18 +2326,17 @@
  enjoy: 2
  enjoyed: 2
  enjoyment: 2
- enjoys: 1
  enkindled: 1
  enlightener: 1
  enlists: 1
  enliven: 1
  enlivened: 1
- enough: 8
+ enough: 6
  enraptured: 1
  enshrined: 3
- ensure: 2
+ ensure: 1
  enter: 2
- entered: 2
+ entered: 1
  enthroned: 1
  entire: 1
  entirely: 2
@@ -2974,78 +2358,47 @@
  epidendrum: 2
  epitaphs: 1
  equal: 1
- equally: 2
+ equally: 1
  equator: 1
- erasmus: 1
- ere: 23
+ ere: 21
  erect: 2
- erecta: 1
- eric: 1
- erica: 10
  error: 4
- erst: 1
- erysimum: 2
  escape: 1
  escaped: 1
  especial: 1
  especially: 4
  essences: 1
  est: 1
- estate: 1
- estate--the: 1
- estates: 2
- esteem: 4
+ estates: 1
+ esteem: 2
  estrange: 1
  estranged: 4
- estrangement: 2
+ estrangement: 1
  eternal: 6
  eternity: 1
- ethelbert: 1
- ethelburga: 1
- etheldreda: 1
  ethiopia: 1
  ethiop’s: 1
- eton: 1
  etymologists: 1
- eugenius: 1
- eulalia: 2
- eulogius: 2
  eulogized: 1
  eulogy: 1
- eupatoria: 1
- euphorbia: 1
- euphrasia: 1
  europe: 13
  european: 1
- europæus: 1
- europœus: 1
- eusebius: 1
- eustachius: 1
- eustathius: 1
- eustatius: 1
- eustochium: 1
  eva: 1
- evangelist: 4
- evans: 1
+ evangelist: 1
  evaristus: 1
  eve: 9
  evelyn: 1
- even: 26
- evening: 21
- evening’s: 2
+ even: 25
+ evening: 19
+ evening’s: 1
  event: 1
  events: 1
- ever: 59
- ever,--i: 1
- ever-blowing: 1
+ ever: 54
  ever-open: 1
- ever-varying: 1
- everett: 2
- evergreen: 7
+ evergreen: 5
  evergreens: 1
- everildis: 1
  everlasting: 2
- every: 61
+ every: 58
  everywhere: 6
  evidence: 1
  evidently: 1
@@ -3053,20 +2406,16 @@
  evils: 1
  ev’n: 2
  exactly: 1
- exaggerated: 1
  exalt: 1
- exaltation: 1
  exalts: 1
- examine: 1
  examined: 1
  example--by: 1
  examples: 1
  exceed: 1
  excelleth: 1
  except: 5
- excess: 1
  exchange: 1
- excite: 3
+ excite: 2
  exclaimed: 1
  excluded: 1
  excludes: 1
@@ -3082,7 +2431,7 @@
  existence: 2
  exotic: 1
  expand: 1
- expanded: 3
+ expanded: 2
  expands: 3
  expectant: 1
  expectation: 1
@@ -3092,8 +2441,7 @@
  experiment: 1
  expire: 1
  expiring: 1
- explanation: 1
- express: 6
+ express: 5
  expresses: 5
  expressions: 1
  expressive: 2
@@ -3113,21 +2461,20 @@
  exultant: 1
  exulting: 1
  exults: 1
- eye: 60
+ eye: 57
  eye--a: 1
  eyebrow’s: 2
  eyelids: 3
- eyes: 43
+ eyes: 37
  eye’s: 1
  eyrie: 1
- e’en: 16
- e’er: 9
- fabian: 1
- fable: 6
+ e’en: 14
+ e’er: 8
+ fable: 5
  fabled: 1
  fables: 1
  fabulous: 1
- face: 32
+ face: 29
  faces: 5
  facility: 1
  fact: 1
@@ -3139,62 +2486,55 @@
  fading: 2
  fail: 4
  failed: 1
- fain: 4
- faine: 1
+ fain: 3
  faint: 7
  faint--the: 2
- fainting: 1
  faints: 1
- fair: 47
+ fair: 39
  fair;--good: 1
  faire: 2
  fairer: 4
- fairest: 8
+ fairest: 6
  fairies: 1
  fairies’: 1
  fairly: 2
- fairy: 10
+ fairy: 8
  fairy-boat: 1
  fairy-tales: 1
- faith: 10
+ faith: 6
  faithful: 4
  faithfully: 1
- faithfulness: 1
  faithless: 1
  faithlessness: 1
  faiths: 1
- falchion-leaves: 1
  falconieri: 1
- fall: 17
- fallen: 7
+ fall: 14
+ fallen: 6
  falling: 5
  fallow: 1
- falls: 6
- false: 8
+ falls: 4
+ false: 6
  falsehood: 2
  falsehoods: 1
  falsehood’s: 1
- fame: 6
+ fame: 4
  fame--’tis: 1
- fame’s: 1
  familiar: 2
  familiarly: 1
  family: 3
  famished: 2
- fanchea: 1
  fancied: 4
  fancies: 1
  fanciful: 1
  fancifully: 1
- fancy: 19
- fancy’s: 4
+ fancy: 12
+ fancy’s: 3
  fantastic: 1
- far: 36
+ far: 34
  far-coming: 1
  far-seeing: 1
  fare: 1
- farewell: 6
- farfara: 1
+ farewell: 4
  farmer: 4
  farms: 1
  farther: 1
@@ -3207,11 +2547,11 @@
  fasts: 1
  fat-bodied: 1
  fatal: 3
- fate: 12
+ fate: 10
  fate--spiritless: 1
  fated: 1
  fates: 2
- father: 3
+ father: 2
  fathers: 2
  fathers’: 1
  father’s: 5
@@ -3219,117 +2559,103 @@
  fault: 3
  faults: 1
  favour: 2
- favourite: 13
+ favourite: 12
  favourites: 1
  fealty: 1
- fear: 13
+ fear: 12
  feared: 1
- fearful: 7
+ fearful: 5
  fearing: 1
  fearless: 2
  fearlessly: 2
  fears: 8
- feast: 6
+ feast: 5
  feasted: 1
  feasts: 1
  feather: 1
  feather-mantled: 1
  feathered: 1
  feathers: 2
- feathery: 4
+ feathery: 3
  feature: 1
- features: 4
+ features: 3
  february: 2
- fed: 6
+ fed: 4
  feeble: 5
  feebly: 1
  feed: 3
  feeding: 1
  feeds: 1
- feel: 19
+ feel: 16
  feeling: 11
- feelings: 10
+ feelings: 9
  feelings--making: 1
- feet: 15
+ feet: 14
  feign: 1
  feigned: 1
- felix: 3
  fell: 22
- fellow: 5
- felt: 16
+ fellow: 4
+ felt: 15
  female: 4
- fen: 3
- fence: 2
+ fen: 2
+ fence: 1
  fenced: 1
- fennel: 3
- fennel-leaved: 1
- ferdinand: 1
+ fennel: 1
  fermented: 1
- fern: 2
  ferns: 1
  ferrer: 1
- ferulafolia: 1
  fervent: 1
  festering: 1
  festival: 3
  festive: 1
  festivities: 2
- festivity: 1
  fetch: 1
  fevered: 2
- feverfew: 2
- few: 11
+ few: 10
  fewer: 1
  fiat: 1
  fibres: 1
- ficaria: 1
- fickle: 3
- fiction: 1
+ fickle: 2
  fidele: 1
- fidelis: 1
- fidelity: 6
- field: 15
- fields: 9
+ fidelity: 4
+ field: 13
+ fields: 8
  fields,”: 1
- fiend: 1
  fierce: 2
  fiercest: 1
  fiery: 3
- fifth: 3
+ fifth: 1
  fifty: 1
- fig: 2
+ fig: 1
  fight: 2
- figure: 3
- figures: 1
+ figure: 1
  fill: 9
  filled: 1
  fillest: 1
  fills: 2
  filmy: 1
  filth: 1
- fimetarius: 2
- find: 30
+ find: 27
  finding: 3
  finds: 5
- fine: 9
+ fine: 7
  finely: 1
  fineness: 1
  finery: 1
  finesse: 1
  finest: 1
- finger: 2
+ finger: 1
  fingers: 8
  fior: 1
- fir: 4
+ fir: 2
  fire: 14
  fire-arms: 1
- fires: 1
  fireworks: 1
  firm: 5
  firmament: 2
  firmest: 2
  firs: 1
- first: 64
+ first: 47
  first-born: 3
  first-fruits: 1
  firstling: 1
@@ -3341,15 +2667,12 @@
  five: 4
  fix: 1
  fixed: 8
- flag: 1
  flag--acorus: 1
  flags: 1
  flag’s: 1
  flakes: 1
- flame: 14
+ flame: 11
  flames: 1
- flammea: 1
- flammula: 1
  flapping: 1
  flash: 2
  flashed: 2
@@ -3358,18 +2681,11 @@
  flatteries: 1
  flattering: 3
  flattery: 1
- flaunted: 1
- flaunting: 1
  flaunts: 1
- flava: 1
- flavian: 1
  flavour: 1
- flavus: 1
  flax: 1
- flea-bane: 1
- fleabane: 3
  flecked: 1
- fled: 5
+ fled: 4
  flee: 1
  fleeted: 1
  fleetest: 1
@@ -3380,11 +2696,10 @@
  flew: 1
  flexibility: 1
  flexile: 1
- flexuosus: 1
  flichtering: 1
  flies: 6
- flight: 3
- flights: 2
+ flight: 2
+ flights: 1
  fling: 1
  flings: 2
  flint: 3
@@ -3393,32 +2708,24 @@
  flitted: 1
  flitting: 1
  float: 1
- floated: 3
+ floated: 2
  floating: 7
  floats: 1
- floccosus: 1
  flocks: 2
  flood: 2
  floods: 2
  floor: 2
- floors: 1
  flora: 3
  flora--“take”: 1
- floral: 5
- flora’s: 4
- florence: 1
- floribund: 1
- floribundus: 1
+ floral: 4
+ flora’s: 3
  florist: 1
  florists: 2
- flos: 2
- flour: 1
- flourish: 1
+ flos: 1
  flourished: 2
  flourishing: 2
- flow: 7
- flowed: 1
- flower: 129
+ flow: 6
+ flower: 111
  flower!--i’ll: 1
  flower-bud: 1
  flower-de-luce: 1
@@ -3426,28 +2733,25 @@
  flower-spike: 1
  flower-spirit: 1
  flower-wreathed: 1
- flower?--in: 1
- flowered: 3
- floweret: 1
+ flowered: 2
  flowerets: 3
- floweret’s: 2
- flowering: 10
+ floweret’s: 1
+ flowering: 7
  flowerless: 1
- flowers: 155
+ flowers: 131
  flowers--flowers: 1
- flowery: 5
+ flowery: 4
  flowing: 2
  flown: 4
  flows: 5
  flue: 1
- fluid: 1
  flushing: 1
  flute: 1
  flute-maker: 1
  flutter: 1
  fluttering: 2
  flutters: 1
- fly: 13
+ fly: 12
  flying: 2
  foam: 4
  foaming: 1
@@ -3455,34 +2759,32 @@
  foes: 1
  foil: 1
  fold: 4
- folded: 3
+ folded: 2
  folding: 2
- folds: 2
+ folds: 1
  foliage: 7
- folk: 1
- folks: 2
+ folks: 1
  follies: 2
  follow: 5
  followers: 1
- following: 8
+ following: 7
  follows: 1
- folly: 5
- folly’s: 3
- fond: 12
+ folly: 4
+ folly’s: 2
+ fond: 11
  fonder: 1
  fondest: 2
  fondly: 4
  fondness: 1
  fontaine: 1
- fontinalis: 2
  food: 8
- fool: 5
+ fool: 4
  foolish: 2
  fools: 3
- foot: 16
+ foot: 14
  footstep: 1
  footstool: 1
- for: 286
+ for: 262
  forbear: 1
  forbidden: 1
  forbidding: 1
@@ -3490,20 +2792,18 @@
  force: 5
  forehead: 1
  forehead’s: 1
- foreign: 1
  foresee: 1
- foresight: 3
- forest: 18
+ foresight: 2
+ forest: 15
  forest--are: 1
  forest--of: 1
- forester: 1
- forests: 3
- forest’s: 3
+ forests: 2
+ forest’s: 2
  forethought: 1
  foretold: 1
  forever: 1
- forget: 19
- forget-me-not: 9
+ forget: 14
+ forget-me-not: 8
  forgetful: 1
  forgetfulness: 4
  forgets: 1
@@ -3511,68 +2811,58 @@
  forgiven: 1
  forgot: 6
  forgotten: 6
- fork: 1
- forlorn: 2
- form: 33
- formed: 5
- former: 9
+ forlorn: 1
+ form: 30
+ formed: 4
+ former: 8
  formerly: 2
  formidable: 1
  forming: 1
- forms: 8
+ forms: 7
  forsake: 2
- forsaken: 6
+ forsaken: 5
  forsook: 2
  forted: 1
- forth: 20
+ forth: 17
  forthright: 1
  fortitude: 1
- fortunatus: 1
  fortune: 5
- fortune-telling: 1
  fortunes: 2
  fortune’s: 2
  foster: 1
  foul: 3
  foulest: 1
- found: 38
+ found: 33
  foundation: 1
  foundation-stone: 1
- founder: 5
+ founder: 4
  fount: 1
- fountain: 5
+ fountain: 2
  fountains: 2
- four: 5
- four-toothed: 1
+ four: 4
  fourteenth: 1
- fourth: 7
+ fourth: 1
  fox: 1
  frae: 2
- fragaria: 1
  fragile: 3
  fragments: 1
  fragrance: 23
- fragrans: 3
- fragrant: 8
+ fragrans: 1
+ fragrant: 7
  frail: 3
  frame: 2
  france: 11
- francis: 5
  franciscans: 1
- francois: 1
  frank: 1
- frankincense: 1
- franklin: 1
  fraternal: 1
  fraught: 3
  fraxinella: 1
  freaks: 2
- free: 13
+ free: 12
  freedom: 2
  freely: 3
  freemen: 1
- freeze: 1
- french: 8
+ french: 6
  frequent: 4
  frequenting: 2
  frequently: 2
@@ -3582,31 +2872,26 @@
  fret: 1
  fretful: 1
  friar: 1
- friar’s: 1
- frideswith: 1
- friend: 16
- friends: 18
- friendship: 14
- friendship’s: 5
+ friend: 14
+ friends: 15
+ friendship: 9
+ friendship’s: 4
  friesland: 1
  frightened: 1
  frigid: 1
- frigidity: 2
+ frigidity: 1
  fringed: 4
- fringed-leafed: 1
- frisbie: 1
- fritillaria: 2
  fritillaria’s: 1
  frivolity: 1
  frivolous: 1
  fro: 6
- frolic: 3
- from: 263
+ frolic: 2
+ from: 246
  front: 1
  frost: 6
  frosts: 1
  frosty: 1
- frown: 3
+ frown: 2
  frowning: 1
  frowns: 2
  frozen: 4
@@ -3617,42 +2902,30 @@
  fruitful: 1
  fruitless: 1
  fruits: 5
- frumentius: 1
  fuel: 1
  fulfil: 1
  fulfilling: 1
  fulfils: 1
- full: 19
+ full: 15
  full-grown: 1
  fuller’s: 1
  fulness: 1
- fulva: 3
- fumaria: 2
- fumes: 1
- fumitory: 2
+ fulva: 2
  fun: 1
- funaria: 1
  functions: 2
  funeral: 2
  funerals: 3
  funerals,--the: 1
- fungi: 1
- fungus: 2
  funny: 1
- furcræa: 2
  furies: 2
  furnace: 1
  furnish: 4
  furniture: 1
  furrowed: 1
- further: 2
+ further: 1
  fury: 2
- furze: 1
- fuss: 1
  future: 5
  futurity: 1
- fœtidus: 1
- g: 3
  gab: 1
  gaffer: 1
  gain: 4
@@ -3660,10 +2933,9 @@
  gained: 1
  gained--not: 1
  gains: 1
- galanthus: 1
  gale: 5
  gales: 1
- gall: 3
+ gall: 2
  gallant: 2
  gallantly: 1
  gallantry: 1
@@ -3674,156 +2946,128 @@
  gape: 1
  gapes: 1
  garb: 2
- garden: 14
- garden-gate: 1
+ garden: 12
  garden-glory: 1
- gardener: 3
- gardens: 6
+ gardener: 2
+ gardens: 5
  garden’s: 2
- gargaricum: 1
  garland: 3
- garlic: 1
  garment: 1
  garments: 1
- garnered: 1
  garrulous: 1
  gart: 1
  garter: 1
  gasp: 1
- gather: 11
+ gather: 8
  gather--then: 1
  gather.”: 1
- gathered: 6
+ gathered: 5
  gathering: 2
  gathers: 1
  gaudy: 3
  gaul: 1
  gauras: 1
- gave: 10
- gay: 25
+ gave: 9
+ gay: 21
  gayety: 1
  gayly: 2
- gaze: 15
+ gaze: 12
  gazed: 2
  gazed--and: 1
  gazed--but: 1
  gazelle: 1
- gazing: 2
+ gazing: 1
  gear: 1
  gem: 7
  gem--the: 1
- gems: 6
+ gems: 4
  general: 5
- generally: 3
+ generally: 2
  generosity: 1
  generous: 4
- genevieve: 1
  genii: 1
- genistopha: 1
- genius: 5
- genser: 1
- gentle: 30
+ genius: 4
+ gentle: 24
  gentleness: 2
  gentler: 1
- gently: 2
+ gently: 1
  genus: 1
- geodorum: 2
  geometric: 1
- george: 3
- geranium: 12
- gerard: 1
+ george: 1
+ geranium: 8
  gerarde: 1
- germain: 1
- german: 3
- germanica: 1
- germanus: 1
+ german: 2
  germany: 2
  germs: 1
- gertrude: 2
  gesner: 1
- gesnerina: 1
- get: 8
+ get: 6
  getting: 1
- geum: 1
  ghostly: 1
  gibbet: 1
  gie: 2
- gift: 5
+ gift: 3
  gifted: 1
  gifts: 4
- gigantea: 2
  gilded: 4
  gilds: 1
  gilead: 1
- giles: 1
- gilliflower: 1
- gipsies: 1
  girded: 1
  girdles: 1
- girl: 4
+ girl: 1
  girt: 1
- give: 25
- given: 16
- gives: 8
+ give: 21
+ given: 15
+ gives: 6
  giveth: 1
  giving: 1
  glaciers: 1
- glad: 4
+ glad: 3
  gladden: 1
  gladdened: 1
  gladdening: 1
  gladdens: 2
- glade: 12
- glades: 2
+ glade: 9
+ glades: 1
  gladiolus: 1
  gladly: 1
  gladness: 4
  glads: 1
  glance: 6
- glanced: 1
  glancing: 3
- glandular: 1
- glandulosa: 1
  glare: 1
  glared: 2
- glass: 3
- glauca: 1
- glaucous-leafed: 1
- glaucum: 1
+ glass: 2
  gleam: 5
  gleaming: 1
- gleams: 4
+ gleams: 3
  gleaned: 1
- glechoma: 1
- glee: 4
+ glee: 3
  gleesome: 1
- glen: 5
+ glen: 4
  glendaloch: 1
  glide: 3
- gliding: 2
+ gliding: 1
  glimmering: 1
- glintin: 1
- glisten: 1
  glistening: 1
  glitter: 1
  glittering: 7
- globe: 5
+ globe: 2
  globes: 1
- gloom: 7
+ gloom: 6
  gloomy: 8
  glorify: 1
- glorious: 7
- glory: 19
+ glorious: 5
+ glory: 15
  glory’s: 2
  gloss: 1
- glossy: 4
+ glossy: 2
  gloster: 1
  gloucestershire: 1
- glow: 9
- glowing: 8
+ glow: 8
+ glowing: 6
  glows: 1
  gnarled: 2
- go: 22
+ go: 17
  goat-like: 1
  goat’s: 3
  goblet’s: 1
@@ -3833,47 +3077,37 @@
  goddess: 10
  goddesses: 1
  godlike: 1
- gods: 11
+ gods: 10
  god’s: 1
  goes: 2
- going: 1
- gold: 22
- golden: 40
+ gold: 19
+ golden: 27
  golden-rod: 1
- goldilocks: 2
- goldsmith: 5
  gold’s: 1
- gone: 22
- gonzales: 1
- good: 46
+ gone: 19
+ good: 43
  good-night!”: 1
- goodly: 1
  goodness: 1
  goodrich: 1
- gooseberry: 1
- gorgeous: 3
+ gorgeous: 2
  gorgeousness: 1
- gorse: 1
  goshmore: 2
  gospel’s: 1
  gossipping: 1
- got: 1
- gould: 2
  govern: 1
  governed: 2
  gown: 1
  gowns: 1
- grace: 24
+ grace: 18
  graced: 1
- graceful: 6
+ graceful: 5
  graces: 4
  gracing: 1
  gracious: 1
  graciously: 1
  grain: 1
- grand: 6
- grandeur: 7
- grandiflora: 1
+ grand: 5
+ grandeur: 5
  grandis: 1
  grandsons: 1
  granite-rock: 1
@@ -3881,93 +3115,81 @@
  granted: 1
  grasp: 1
  grasps: 1
- grass: 18
- grassy: 3
+ grass: 13
+ grassy: 2
  grateful: 2
  gratified: 2
  gratifies: 1
  gratifying: 1
- grave: 16
+ grave: 15
  graver: 1
  graves: 7
  grav’ly: 1
- gray: 9
- gray’s: 1
+ gray: 7
  grazing: 1
- great: 38
+ great: 18
  great-sized: 1
- greater: 3
+ greater: 2
  greatest: 4
- greatness: 3
+ greatness: 2
  grecian: 1
  grecians: 1
  greece: 3
  greek: 6
  greeks: 5
- green: 41
+ green: 33
  green,--a: 1
  green-tipt: 1
  greenery: 1
  greenhouse: 1
- greenwood: 2
+ greenwood: 1
  greetings: 1
  greets: 2
  greet’st: 1
- gregory: 3
- grew: 11
- grief: 26
- griefs: 3
- grieve: 3
- grieves: 1
- grim: 4
+ gregory: 1
+ grew: 9
+ grief: 19
+ griefs: 2
+ grieve: 2
+ grim: 3
  grind: 1
  grisly: 3
  groan: 1
  groaned: 1
  groans: 1
  grooms: 1
- groping: 2
+ groping: 1
  grossness: 1
  grotesque: 1
  ground: 13
  ground-born: 1
- ground-ivy: 1
  grounds: 2
- groundsel: 3
  group: 2
  groups: 3
- grouse: 1
  grove: 3
  grove-like: 1
- groves: 2
- grow: 22
- groweth: 2
+ groves: 1
+ grow: 18
+ groweth: 1
  growing: 4
  growl: 1
- grown: 9
- grows: 16
+ grown: 7
+ grows: 15
  growth: 4
  grumbled: 1
- gualbert: 1
  guard: 1
- guardian: 1
  guards: 1
- gudula: 1
  guerdon: 1
- guernsey: 1
- guest: 5
+ guest: 4
  guests: 1
  guide: 2
  guides: 1
  guiding: 2
  guile: 1
  guileful: 1
- guileless: 1
  guilt: 1
  guiltiness: 1
  guiltless: 2
- guineensis: 1
- gulf: 2
  gun: 1
  gush: 1
  gushing: 1
@@ -3975,84 +3197,68 @@
  gusts: 1
  gusty: 1
  gutenberg: 1
- göthe: 1
- h: 11
- ha: 1
- ha!”: 1
- habington: 2
+ h: 2
  habit: 2
  habitants: 1
  habitual: 1
  habitually: 1
- hack: 1
- had: 85
+ had: 72
  hadst: 1
  hae: 2
- hair: 12
+ hair: 9
  hair!”: 1
  hairs: 2
- hairy: 2
- hairy-stalked: 1
- halapensis: 1
- hale: 9
- half: 9
+ half: 7
  half-buried: 1
  half-hidden: 1
  half-raised: 1
  half-year’s: 1
  halfway: 1
- hall: 6
- halleck: 3
+ hall: 5
  hallowed: 1
  hallows: 1
- halls: 2
+ halls: 1
  haly: 1
  hamely: 1
- hand: 24
+ hand: 22
  handed: 1
  hands: 5
  handsome: 2
  hang: 4
  hangs: 2
- hannah: 1
- hanson: 1
  hapless: 2
  haply: 1
  happier: 1
- happiness: 9
- happy: 12
+ happiness: 8
+ happy: 11
  harboured: 1
  harbours: 1
- hard: 6
+ hard: 4
  hardened: 1
  hardest: 1
  hardly: 1
  hare: 1
- harebell: 1
- harm: 2
+ harm: 1
  harmless: 1
- harmony: 5
+ harmony: 3
  harp: 2
  harps: 1
  harsh: 2
  harshly: 2
  harshness: 1
  hartstongue: 1
- hart’s: 1
  harvest: 3
  harvest-folk: 1
  harvest-folks: 1
- has: 99
- hashes: 1
- hast: 14
- haste: 1
+ has: 91
+ hast: 12
  hastening: 1
  hasty: 1
  hat: 1
- hate: 13
+ hate: 10
  hated: 1
  hates: 1
- hath: 39
+ hath: 34
  hatred: 1
  haughtier: 1
  haughtily: 1
@@ -4060,54 +3266,53 @@
  haunted: 2
  haunting: 2
  haunts: 1
- have: 148
+ have: 117
  having: 5
  havoc: 1
  hawk: 1
  hawking: 1
- hawkweed: 14
+ hawkweed: 10
  haws: 1
- hawthorn: 12
+ hawthorn: 10
  hawthorn-hedges: 1
  hawthorn-spray: 1
  hawthorns: 1
- hawthorn’s: 1
  hay: 1
- hazel: 9
+ hazel: 7
  hazles: 1
- he: 182
- head: 21
+ he: 157
+ head: 18
  head,--wan: 1
  headache: 1
  heads: 6
  heal: 3
  healing: 4
  heals: 2
- health: 2
+ health: 1
  heap: 3
  heaped: 1
- hear: 20
- heard: 10
+ hear: 18
+ heard: 9
  hearer: 1
  hearing: 2
  hears: 2
- heart: 115
+ heart: 105
  heart,”: 1
  heart-sore: 1
  heart-wringing: 1
- heartache: 2
+ heartache: 1
  hearth: 2
  hearth-stane: 1
  heartless: 1
- hearts: 14
- heart’s: 4
+ hearts: 12
+ heart’s: 1
  heart’s-ease: 3
  heat: 5
- heath: 12
+ heath: 3
  heather: 1
  heaths: 2
  heathy: 1
- heaven: 33
+ heaven: 28
  heaven--by: 1
  heaven--for: 1
  heaven--so: 1
@@ -4119,122 +3324,99 @@
  heaven’s: 6
  heaviness: 2
  heaving: 2
- heavy: 10
+ heavy: 8
  heavy-head: 1
  hebenstreitia: 1
- hedera: 1
- hederacea: 1
- hedge: 4
+ hedge: 2
  hedge-road: 1
  hedges: 2
  hedysarum: 1
  heed: 2
  heeded: 2
  heeding: 2
- heedless: 2
+ heedless: 1
  heeds: 1
  heels: 3
  heft: 1
- height: 10
+ height: 9
  heightened: 1
  heights: 2
- heir: 3
- held: 7
- helen: 2
- helenium: 4
- helianthemum: 1
- helianthus: 3
- heliotrope: 6
- helix: 1
+ heir: 2
+ held: 6
+ helen: 1
+ heliotrope: 5
  hell: 1
  hellas: 1
- hellebore: 5
- helleborus: 4
+ hellebore: 1
  hellenium: 1
  helmet-like: 1
  help: 3
- hemans: 5
- hemerocallis: 2
+ hemerocallis: 1
  hemeroeallis: 1
  hemlock: 1
- hemp: 1
  hen-roost: 1
- henbane: 1
- hence: 5
+ hence: 4
  henceforth: 1
  henrietta: 1
- hepatica: 2
- her: 267
+ hepatica: 1
+ her: 240
  her,--so: 1
  herald: 3
  heralds: 1
- herb: 8
+ herb: 2
  herbage: 1
- herbert: 1
  hercules: 3
  herd: 1
  herds: 2
- here: 37
+ here: 32
  hereafter: 1
- hereditary: 1
- hermenegild: 1
- hermit: 4
+ hermit: 1
  hermitage: 1
  herod’s: 1
  heroes: 1
  heroic: 1
  hero’s: 2
- herrick: 1
  hers: 2
  herse: 1
  herself: 9
  hesitate: 1
- hesperis: 1
- heteromallum: 1
- hewitt: 1
- he’s: 1
- hibiscus: 3
- hid: 2
+ hibiscus: 2
+ hid: 1
  hidden: 6
- hide: 7
+ hide: 6
  hideous: 1
  hides: 1
  hiding-place: 1
  hied: 1
- hieracium: 7
- high: 36
+ hieracium: 4
+ high: 33
  high--no: 1
- high-born: 2
+ high-born: 1
  high-placed: 1
  high-road--we’ll: 1
  higher: 3
  highest: 1
  highly-scented: 1
- hilary: 1
- hill: 6
+ hill: 4
  hill-children: 1
  hill-sides: 1
  hillock’s: 1
  hills: 5
- him: 71
+ him: 63
  himself: 6
  him’s: 1
  hindmost: 1
- hipericum: 1
- hippocastanum: 1
- hirsuta: 1
- hirsutus: 1
- his: 295
+ his: 280
  hissing: 1
  historians: 1
- history: 6
+ history: 4
  hither: 2
  hives: 1
  hoar: 1
  hoards: 1
  hoary: 1
- hold: 5
- holds: 4
+ hold: 4
+ holds: 3
  holies: 1
  holiest: 1
  holland: 1
@@ -4242,56 +3424,44 @@
  hollow: 5
  hollowness: 1
  hollows: 1
- holly: 16
- hollyhock: 6
- holmes: 1
- holostea: 1
- holy: 11
+ holly: 11
+ hollyhock: 3
+ holy: 8
  homage: 1
- home: 31
- home-felt: 1
+ home: 26
  homeless: 1
- homely: 4
+ homely: 2
  homer’s: 2
  homeward: 3
- homobonus: 1
  honesty:)--horsing: 1
- honey: 2
+ honey: 1
  honey-bee: 4
  honeyed: 1
- honeysuckle: 5
+ honeysuckle: 3
  honied: 2
  honour: 10
- honours: 2
- hood: 1
+ honours: 1
  hooded: 1
  hoofs: 1
- hoop-petticoat: 1
  hop: 1
- hope: 45
+ hope: 35
  hope-invested: 1
  hoped: 1
  hopes: 10
  hope’s: 2
  hoping: 1
  horizon: 1
- hormisdas: 1
  hornbeam: 1
- horned: 1
  hornpipes: 1
- hornum: 1
  horrible: 2
- horror: 1
- horse: 3
+ horse: 2
  horse-chestnut: 1
  hortensia: 1
- hortensis: 1
  hospitable: 1
- hospitality: 1
- host: 4
+ host: 3
  hot: 3
  hound: 1
- hour: 26
+ hour: 24
  hour-glass: 1
  hours: 24
  hour’s: 1
@@ -4301,25 +3471,23 @@
  hover: 1
  hovered: 1
  hovering: 2
- how: 76
+ how: 63
  however: 7
  howe’er: 1
- howitt: 4
+ howitt: 1
  howl: 2
- howls: 2
- hue: 26
+ howls: 1
+ hue: 24
  hue,”: 1
- hues: 12
+ hues: 11
  hues,--all: 1
  hues--the: 1
  huge: 4
- hugh: 1
  hum: 1
- human: 24
- humble: 10
+ human: 22
+ humble: 9
  humbled: 1
- humilis: 1
- humility: 6
+ humility: 4
  humming: 2
  humming-birds: 1
  humoured: 1
@@ -4327,38 +3495,31 @@
  hums: 1
  hundred: 1
  hundred-leaved: 1
- hundreds: 3
+ hundreds: 2
  hung: 8
  hungary: 2
  hungry: 3
- hunt: 2
+ hunt: 1
  hunters: 1
- hurdis: 1
  hurried: 1
  hurries: 1
  hurry: 1
  hurrying: 3
- hyacinth: 8
- hyacinthus: 4
- hyacinth’s: 2
- hyemalis: 1
- hygrometric: 1
- hygrometrica: 1
+ hyacinth: 4
+ hyacinthus: 1
+ hyacinth’s: 1
  hymen: 1
  hymettus: 1
  hymn: 2
  hymn--we: 1
- hyosciamus: 1
- hypericum: 1
- hypochondriacus: 2
+ hypochondriacus: 1
  hypochæris: 2
  hyæna: 1
- i: 360
+ i: 280
  i.”: 1
  ia: 1
- ice: 5
- ice-flower: 1
- ice-plant: 2
+ ice: 4
+ ice-plant: 1
  iceberg: 1
  icy: 2
  idea: 5
@@ -4370,47 +3531,37 @@
  idol: 1
  idolatry: 3
  idolizes: 1
- if: 86
- ignatius: 2
+ if: 77
  ignorance: 2
  ignorant: 1
- iii: 1
- ilex: 2
  iliad: 1
- ill: 9
+ ill: 8
  ill-got: 1
- ills: 5
+ ills: 4
  illumed: 1
- illustration: 6
- illustrations: 1
- image: 11
+ illustration: 2
+ image: 10
  imagination’s: 1
- imagined: 1
  imagining: 1
  imitated: 1
  imitating: 1
  immeasurable: 1
  immediately: 2
  immense: 1
- immortal: 8
- immortality: 10
+ immortal: 7
+ immortality: 8
  immortalized: 1
  impart: 4
  imparting: 1
- imparts: 2
+ imparts: 1
  impatience: 1
- impatiens: 1
  impeded: 1
- impediments: 1
- imperial: 6
- imperialis: 2
+ imperial: 4
  imperious: 1
  impious: 1
- implacable: 1
  implied: 1
  imploring: 1
  importance: 1
- impossible: 1
  impotent: 1
  impregnate: 1
  impress: 1
@@ -4421,15 +3572,13 @@
  impt: 1
  impulse: 1
  impulsive: 1
- in: 768
+ in: 700
  inadvertently: 1
  inanimate: 1
- incanus: 1
  incense: 3
  inclement: 1
  incline: 1
  inclined: 1
- incomparabilis: 1
  inconstancy: 2
  incorruptible: 1
  increase: 3
@@ -4438,21 +3587,17 @@
  indeed: 3
  independence: 1
  indescribable: 1
- indian: 8
+ indian: 2
  indians: 2
- indica: 2
  indicate: 1
- indicum: 1
- indicus: 1
  indies: 2
  indigenous: 3
  indignant: 1
  indignantly: 1
- indiscretion: 5
+ indiscretion: 4
  indispensable: 1
  indissoluble: 1
  individual: 1
- indued: 1
  ineffably: 1
  inesilla: 1
  inexpressible: 1
@@ -4467,7 +3612,6 @@
  infinite: 1
  infinity: 1
  inflames: 1
- inflaming: 1
  influence: 5
  influences: 2
  informs: 1
@@ -4490,10 +3634,9 @@
  injustice: 1
  inlayer: 1
  innate: 1
- innocence: 13
+ innocence: 11
  innocence.”: 1
- innocent: 5
- innocents: 1
+ innocent: 4
  innumerable: 1
  inquire: 1
  insatiate: 1
@@ -4504,15 +3647,13 @@
  insist: 1
  insolent: 1
  inspiration: 2
- instability: 1
- instant: 3
+ instant: 2
  instantly: 2
  instead: 2
  instinct: 3
  instinctively: 1
  instrument: 2
  instruments: 2
- insult: 1
  intellect: 1
  intelligence: 3
  intense: 1
@@ -4525,7 +3666,7 @@
  intervals: 1
  interwoven: 1
  intimate: 1
- into: 52
+ into: 48
  intoxicate: 1
  intoxicates: 1
  intoxication: 1
@@ -4533,7 +3674,6 @@
  introduced: 6
  introduction: 1
  intrude: 1
- inula: 3
  invader: 1
  invaders: 1
  invades: 1
@@ -4542,7 +3682,6 @@
  invention: 1
  inventress: 1
  investigation: 1
- investments: 1
  invisible: 2
  invite: 1
  inviting: 1
@@ -4551,134 +3690,103 @@
  ion: 1
  ipomæa: 2
  ireland: 2
- irenæus: 2
- iris: 9
- irish: 2
+ irenæus: 1
+ iris: 1
  iron: 1
  irony: 1
- is: 498
+ is: 412
  is,--they: 1
  is--’tis: 1
- isadore: 2
- isidore: 1
+ isadore: 1
  islands: 1
  isle: 3
  isles: 2
  islet: 1
  issue: 1
  issued: 1
- it: 358
+ it: 334
  it,--she: 1
  it--the: 1
  it--who: 1
  it?”: 1
- italian: 2
+ italian: 1
  italy: 1
- its: 292
- itself: 9
+ its: 276
+ itself: 8
  itself--ay: 1
- it’s: 5
+ it’s: 4
  ivory: 2
- ivy: 10
- ivy-plant: 1
- ix: 1
- ixia: 3
- ixion: 2
+ ivy: 6
+ ixia: 1
  i’: 3
- i’d: 7
- i’ll: 17
+ i’d: 6
+ i’ll: 14
  i’m: 5
- i’ve: 10
- j: 10
+ i’ve: 6
  jack: 3
  jackal: 1
  jackets: 1
- jacobæa: 1
  jail: 1
- james: 4
  jane: 1
- january: 2
+ january: 1
  japan: 1
- japonica: 3
+ japonica: 2
  jarred: 1
- jasmine: 7
- jasmine,--that: 1
+ jasmine: 5
  jasmine-flower: 1
  javelin: 1
  jaws: 2
  jay: 1
  jealous: 3
- jealousy: 7
+ jealousy: 5
  jealousy’s: 1
- jean: 1
  jerk: 1
- jerome: 1
  jerusalem: 3
  jesuit: 1
  jesuits: 1
  jet: 1
- jewel: 2
+ jewel: 1
  jews: 1
- jewsbury: 1
  jigs: 1
  jingle: 1
- joachim: 1
  joan: 1
- joanna: 3
- jocund: 1
- john: 21
- johnson: 1
- john’s: 5
+ john: 1
+ john’s: 2
  join: 1
- joke: 1
  joking: 1
- jonas: 1
- jonquil: 3
- jonson: 1
- joseph: 1
+ jonquil: 1
  journey: 1
  journeying: 1
  jove: 2
  jove’s: 1
- joy: 29
+ joy: 26
  joyful: 1
  joyfully: 1
  joyous: 1
  joyousness: 1
  joys: 8
- jude: 1
  juice: 3
  juices: 1
- julia: 1
- julian: 2
- juliana: 2
- julienne: 1
- julietta: 2
  july: 3
- junceus: 1
- june: 3
+ june: 2
  jungles: 1
- juniper: 6
+ juniper: 5
  juno: 3
  jupiter: 1
  jura: 1
  jussieu: 1
- just: 12
+ just: 11
  justice: 2
- justin: 1
- justina: 1
  justinian: 1
- keats: 2
- keen: 4
+ keen: 2
  keenest: 1
  keenly: 1
- keep: 18
+ keep: 16
  keeping: 2
  keeps: 4
  ken: 3
  kenilworth: 1
- kent: 5
- kentigerna: 1
+ kent: 3
  kept: 5
  kerchief: 1
  kiaugh: 1
@@ -4687,26 +3795,24 @@
  killed: 1
  killing: 1
  kin: 2
- kind: 14
+ kind: 12
  kindled: 1
  kindling: 1
  kindly: 10
- kindness: 5
+ kindness: 3
  kindred: 5
- kinds: 3
- king: 13
+ kinds: 2
+ king: 8
  king-flower: 1
- kingcups: 1
  kingly: 1
  kings: 2
- kins-flowers: 1
  kiss: 3
  kissed: 4
  kisses: 3
  kissing: 1
  kitchen: 1
  knee: 4
- kneel: 3
+ kneel: 2
  kneeling: 1
  knell: 1
  knelt: 1
@@ -4719,52 +3825,43 @@
  knight’s: 2
  knolls: 1
  knot: 1
- know: 40
+ know: 28
  knoweth: 1
  knowing: 1
  knowledge: 3
- known: 23
- knows: 1
- know’st: 2
- l: 3
- la: 2
+ known: 21
+ know’st: 1
+ la: 1
  laborious: 1
  labour: 1
  lack: 1
  lackey: 1
- lactifluus: 1
  ladder: 2
  laden: 1
- ladies: 4
- ladies’: 1
- lady: 16
- lady’s: 9
+ ladies: 3
+ lady: 12
+ lady’s: 6
  laian: 1
- laid: 8
+ laid: 7
  lake: 6
  lake,”: 1
  lakeless: 1
  lakes: 1
  lamb: 1
- lambert: 1
  lament: 1
  lamentation: 1
  lamented: 1
- lamium: 3
  lamp: 3
  lamps: 2
- lancashire: 1
- land: 17
+ land: 14
  land--from: 1
- landon: 7
- lands: 5
+ lands: 2
  lands--some: 1
  landscape: 1
  lane: 1
  lanes: 3
  lang: 3
- language: 12
- languages: 1
+ language: 10
  languish: 2
  languishing: 1
  lap: 2
@@ -4772,66 +3869,52 @@
  laplander: 1
  laplanders: 1
  lapse: 2
- larch: 1
- larcom: 1
- large: 15
+ large: 14
  large-flowered: 1
  largely: 1
  larger: 2
  largest: 1
- laricio: 1
  lark: 2
  lark-heels: 1
- larkspur: 4
+ larkspur: 3
  lark’s-claw: 1
  lark’s-toe: 1
  lashed: 2
  lashing: 1
- last: 27
- lasting: 5
+ last: 25
+ lasting: 4
  lasts: 1
- late: 11
+ late: 10
  late-blooming: 1
- late-flowering: 1
  lately: 3
- later: 2
- lateran: 1
- lathyrus: 1
+ later: 1
  latin: 2
  latter: 2
- lattice: 4
+ lattice: 3
  lattices: 2
  laugh: 2
- laughed: 3
+ laughed: 1
  laughing: 6
  laughingly: 1
- laughter: 8
- laughter--a: 1
- laurel: 12
- laurels: 1
- laurence: 1
- lauro-cerasus: 1
- laurus: 4
- laurustinus: 4
- lavender: 4
+ laughter: 6
+ laurel: 7
+ laurus: 1
+ laurustinus: 1
+ lavender: 3
  lavish: 1
  law: 2
  lawn,”: 1
- lawny: 1
- lawrence: 2
- laws: 1
- lay: 25
+ lay: 22
  lays: 3
- lea: 4
+ lea: 2
  lead: 5
  leads: 10
- leaf: 10
+ leaf: 9
  leaf-clad: 1
  leafier: 1
  leafy: 1
  league: 2
  lean: 1
- leander: 1
  leaneth: 1
  leaning: 2
  leant: 1
@@ -4839,71 +3922,56 @@
  leaps: 2
  leapt: 1
  lear: 1
- learn: 5
- learned: 5
+ learn: 4
+ learned: 3
  learner: 1
- learning: 3
+ learning: 2
  learns: 1
- leas: 1
  least: 6
- leave: 16
- leaves: 50
+ leave: 13
+ leaves: 47
  leaving: 2
- lebanon: 1
  led: 8
- leek: 1
- left: 19
+ left: 17
  left-hand: 1
- legend: 1
  legends: 1
- leggett: 1
- legs: 2
- leisure: 2
- lemon: 1
- lend: 4
+ legs: 1
+ leisure: 1
+ lend: 3
  lendest: 1
- length: 8
+ length: 7
  lengthened: 1
- lenient: 1
- lent: 2
- leo: 2
- leodocia: 1
+ lent: 1
  leon: 2
- leonard: 1
- leontodon: 5
- leopard’s: 2
- lerins: 1
- less: 12
+ leontodon: 2
+ less: 10
  lessened: 1
- lesser: 7
+ lesser: 2
  lessons: 1
  lest: 1
- let: 33
+ let: 25
  let’s: 2
- leucanthemum: 1
- leucoium: 1
  levant: 1
  level: 2
  liable: 2
  liberal: 1
- liberty: 3
+ liberty: 2
  library: 1
- lichen: 3
+ lichen: 2
  lick: 1
  lid: 2
  lids: 2
- lidwina: 1
- lie: 20
- lies: 8
+ lie: 18
+ lies: 7
  lieth: 1
- life: 63
+ life: 54
  life-drop: 1
  lifetime: 1
  life’s: 13
  lift: 3
- lifted: 2
+ lifted: 1
  lifts: 2
- light: 61
+ light: 57
  light-winged: 1
  lighted: 1
  lightly: 1
@@ -4912,28 +3980,24 @@
  lightning’s: 1
  lights: 4
  lightsome: 1
- like: 166
+ like: 150
  likely: 1
  likenesses: 1
  likes: 2
  likewise: 1
- lilac: 9
- lilacs: 2
- lilies: 5
+ lilac: 5
+ lilacs: 1
+ lilies: 4
  lilies--and: 1
- lilium: 4
- lily: 37
+ lily: 18
  lily’s: 2
- lima: 2
+ lima: 1
  limb: 1
  limbs: 1
  lime: 1
  limits: 1
- linaria: 1
  linden: 1
  line: 5
- linear: 1
- linearis: 1
  lined: 1
  linen: 1
  lines: 2
@@ -4947,34 +4011,32 @@
  linnæus: 2
  lip: 5
  lip?--stopping: 1
- lips: 17
+ lips: 13
  liquid: 1
  liquor: 1
- lisp: 1
  lisping: 1
  list: 3
- listen: 4
+ listen: 2
  listened: 2
  listener: 2
  listening: 4
  listens: 2
- listeri: 1
  listlessly: 1
  lit: 2
  literati: 1
  literature: 1
- little: 40
- live: 25
+ little: 32
+ live: 20
  lived: 7
- livelong: 2
+ livelong: 1
  lively: 4
  liveried: 2
- liverwort: 2
+ liverwort: 1
  livery: 1
- lives: 5
+ lives: 4
  living: 11
  lizard: 2
- lo: 4
+ lo: 2
  load: 1
  loads: 1
  loaf: 1
@@ -4985,253 +4047,194 @@
  lodgment: 1
  loftier: 1
  loftiest: 4
- lofty: 4
+ lofty: 3
  loitering: 1
  lombards: 1
  london: 1
- lone: 10
+ lone: 8
  lonelier: 1
  loneliness: 2
- lonely: 15
- long: 47
+ lonely: 12
+ long: 43
  long-fallen: 1
  long-haired: 1
  long-horned: 1
  long-lost: 1
- long-stalked: 1
  long?”: 1
- longer: 7
+ longer: 6
  longest: 2
  longevity: 1
- longfellow: 4
  lon’on: 1
- look: 34
- looked: 13
+ look: 30
+ looked: 9
  looking: 8
  looking-glass: 1
- looks: 17
+ looks: 15
  loom: 2
  loose: 1
- loose-strife: 1
  loosely: 3
- loosestrife: 1
- lord: 10
- lordly: 3
+ lord: 7
+ lordly: 2
  lords: 3
  lordships: 1
- lore: 1
  lorn: 1
- lose: 7
+ lose: 6
  loses: 2
  losing: 1
- loss: 6
+ loss: 5
  losses: 1
- lost: 12
- lot: 13
+ lost: 10
+ lot: 10
  lotus: 1
- loud: 4
+ loud: 3
  loudly: 1
- louis: 1
- louisa: 13
- love: 193
- love--how: 1
+ love: 156
  love-guarded: 1
- love-lies-bleeding: 4
- love?--no: 1
- loved: 28
+ love-lies-bleeding: 2
+ loved: 23
  lovelier: 1
- loveliest: 3
+ loveliest: 2
  loveliness: 6
  lovely: 17
- lover: 9
+ lover: 8
  lover,--she: 1
  lovers: 3
- lover’s: 4
- loves: 10
- loves--but: 1
- lovest: 1
+ lover’s: 3
+ loves: 7
  loveth: 1
- love’s: 22
+ love’s: 20
  love”: 1
- lovibond: 1
  loving: 5
  lovingly: 1
- low: 14
+ low: 10
  lowers: 1
- lowland: 1
  lowliness: 1
- lowly: 2
+ lowly: 1
  loyal: 1
- loyola: 1
  lucern: 1
  lucky: 1
- lucy: 2
- luke: 1
- lullaby: 4
+ lullaby: 3
  lulling: 1
  lumbering: 1
  luminous: 1
  lumps: 1
- lungwort: 1
- lupine: 4
- lupine-leafed: 1
- lupinifolia: 1
- lupinits: 1
- lupinus: 3
- lupus: 1
- lurid: 1
- lurida: 1
  lurking: 1
  luscious: 1
- lusitanica: 2
- lusitanicum: 1
  lust: 1
  lustre: 6
  lustrous: 2
- lusty: 1
- lutea: 3
+ lutea: 1
  luteola: 1
- luteum: 3
- luteus: 2
+ luteum: 2
  luxembourg: 1
  luxuriant: 2
  luxurious: 1
  luxury: 3
- lychnis: 2
- lychnitis: 1
  lycidas: 1
  lying: 3
  lyons: 1
- lyre: 4
+ lyre: 2
  lyre’s: 1
  lyric: 1
- lysimachia: 1
- lythrum: 1
- lœtus: 1
  l’épéron: 1
- m: 9
- macarius: 1
- mackellar: 34
- maculatum: 2
+ m: 4
+ maculatum: 1
  mad--i: 1
- madam: 2
  madame: 4
- madder: 1
- made: 51
+ made: 48
  madness: 2
- magazine: 1
- magdalen: 1
  magic: 5
  magnificent: 3
  magnolia: 1
  maia: 1
- maid: 9
- maiden: 6
+ maid: 6
+ maiden: 4
  maiden-hair: 1
- maidens: 3
+ maidens: 2
  maiden’s: 1
  maids: 1
  main: 2
  maine: 2
  maintains: 1
  mair: 2
- majalis: 1
- majestic: 4
- majesty: 8
- major: 1
- majus: 1
- make: 34
+ majestic: 3
+ majesty: 7
+ make: 32
  maker: 1
- makes: 12
+ makes: 11
  making: 8
  malay: 1
  malice: 1
- maliformis: 1
  malign: 1
  mall-balls: 1
- mallow: 3
+ mallow: 1
  mallows: 1
- malus: 1
- malva: 2
- mammertus: 1
  mammon: 1
- man: 40
+ man: 32
  man!--a: 1
  man--an: 1
- man--in: 1
  manchineel: 1
  mandrake: 1
  mane: 1
  manes: 1
  mangled: 1
- manhood: 2
+ manhood: 1
  maniac: 1
  manifold: 2
- mankind: 3
+ mankind: 2
  manlier: 1
  manliness: 2
  manly: 1
  manner: 5
- manners: 3
+ manners: 2
  manor: 1
  manors: 1
  mans: 1
  mansion: 1
- mansions: 2
- mant: 5
- mantel-piece: 1
+ mansions: 1
+ mant: 1
  mantle: 1
  mantlest: 1
  mantling: 1
- manus: 1
- many: 79
+ many: 65
  man’s: 10
  maple: 1
  marble: 3
  marble-like: 1
  marcella: 1
- marcellina: 1
- marcellus: 2
  march: 3
  marched: 1
- marcian: 1
  marciana: 1
- margaret: 7
- margent: 1
- margin: 3
- marigold: 17
+ margaret: 1
+ margin: 2
+ marigold: 8
  marigolds: 2
- marina: 1
  mariner: 1
- mark: 6
+ mark: 3
  mark,--her: 1
  marked: 6
  markings: 1
  marks: 2
- marlowe: 1
  marriage: 2
  married: 2
- marsh: 3
+ marsh: 1
  marshes: 1
  marshy: 1
  mart: 1
- martha: 2
- martin: 2
- martyr: 16
- martyred: 2
- martyrs: 2
+ martyr: 6
+ martyred: 1
+ martyrs: 1
  martyr’s: 1
- marvel: 10
+ marvel: 9
  marvelled: 1
- mary: 12
+ mary: 5
  mask: 1
  masquerade: 1
  masques: 1
  mass: 1
  massed: 1
  masses: 1
- massinger: 5
- massive: 3
+ massive: 2
  mast: 1
  mastered: 1
  masterly: 1
@@ -5239,36 +4242,27 @@
  matchless: 1
  mate: 2
  materials: 2
- maternal: 5
+ maternal: 4
  mates: 1
  matha: 1
  mathematical: 1
- matilda: 1
  matin: 1
- matricaria: 1
  matrons: 2
  matter: 3
  matthew: 1
- maud: 1
- maudlin: 1
- maurice: 1
- may: 97
+ may: 89
  may-buds: 2
  may-days: 1
  may.’: 1
  may.”: 1
  maying: 1
- mayne: 1
- mayor: 1
  mazes: 2
- me: 119
+ me: 98
  me.”: 1
- meade: 1
- meadow: 11
+ meadow: 5
  meadows: 5
  meads: 1
- meads,--beside: 1
- meagre: 3
+ meagre: 1
  mean: 1
  meand’ring: 1
  meaner: 1
@@ -5281,21 +4275,17 @@
  meantime: 1
  measure: 1
  measured: 1
- meaux: 1
- mechtildes: 1
  medard: 1
  medea: 1
- media: 1
  medicine: 1
  meditated: 1
- medium: 1
- meek: 5
+ meek: 3
  meekness: 1
  meet: 16
  meeting: 1
  meets: 3
  mein: 1
- melancholy: 11
+ melancholy: 10
  melicerta: 1
  melodious: 1
  melody: 3
@@ -5303,115 +4293,97 @@
  melts: 3
  members: 1
  memento: 1
- memorial: 1
- memories: 4
+ memories: 3
  memory: 9
- memory’s: 2
- men: 44
+ memory’s: 1
+ men: 42
  men-of-war: 1
  mention: 1
  mentioned: 2
  mentz: 1
  men’s: 2
  merchant-ships: 1
- mercurialis: 1
- mercury: 4
+ mercury: 3
  mercy: 5
  mere: 1
  meridian’s: 1
- merit: 7
+ merit: 5
  merits: 1
  merrily: 2
  merriment: 1
- merry: 10
- mesembryanthemum: 7
+ merry: 7
+ mesembryanthemum: 6
  mesembryanthemums: 1
  message: 2
- met: 4
+ met: 3
  metal: 1
  metamorphosed: 1
- metamorphosis: 1
  meteor: 1
  meteor,--the: 1
  meteors: 1
  methought: 1
  mettle: 1
- mezereon: 6
- michael: 1
- michaelmas: 1
+ mezereon: 2
  microscopic: 1
- mid: 14
+ mid: 12
  midas: 1
  midnight: 3
  midst: 1
- midsummer: 2
- might: 34
+ midsummer: 1
+ might: 30
  mighty: 17
  mignionette: 1
- mignonette: 6
- milan: 1
- milburge: 1
+ mignonette: 5
  mild: 4
- milder: 1
  mildew: 1
- mile: 3
- milfred: 1
+ mile: 2
  military: 1
  milk: 3
  milk-white: 2
  milkwort: 1
- milky: 2
+ milky: 1
  millefolia: 1
- millefolium: 1
- miller: 13
+ miller: 2
  million: 1
- milman: 1
- milnes: 1
- milton: 8
+ milton: 1
  mimetic: 1
  mimic: 1
- mimosa: 2
- mimulus: 1
  mince: 1
- mind: 45
+ mind: 40
  mind.”: 1
  mind;--the: 1
  minded: 1
  minds: 3
  minds”: 1
  mind’s: 1
- mine: 22
+ mine: 21
  mine--that’s: 1
  mingle: 4
  mingled: 2
  mingles: 2
  mingling: 1
- miniature: 1
  ministers: 1
- minor: 4
+ minor: 1
  minstrelsy: 1
  minute: 1
- minutes: 2
+ minutes: 1
  minutes?--noon: 1
  mirabilis: 1
  miracle: 1
  miraculous: 1
  mire: 1
- mirror: 5
+ mirror: 2
  mirrored: 1
- mirth: 6
- misanthropos: 1
- misanthropy: 3
+ mirth: 5
+ misanthropy: 2
  miscall: 1
  mischief: 1
- miser: 2
- miserly: 1
  misery: 2
  miser’s: 1
- misfortune: 3
+ misfortune: 2
  misfortune’s: 1
  misletoe: 1
- miss: 14
+ miss: 1
  missed: 1
  mission: 2
  mission--a: 1
@@ -5420,15 +4392,13 @@
  mist: 2
  mistake: 1
  mistaking: 1
- mistletoe: 5
+ mistletoe: 3
  mistook: 1
  mistress: 3
  mistrust: 1
  mists: 1
  misty: 2
  mix: 4
- mixed: 1
- mnium: 2
  moat: 2
  moated: 1
  mock: 3
@@ -5437,84 +4407,67 @@
  model: 1
  modelled: 1
  moderation: 1
- modern: 3
- modest: 14
- modesty: 10
+ modern: 2
+ modest: 10
+ modesty: 6
  mohair: 1
- moil: 1
- moir: 1
  moist: 1
  moisture: 2
  molesme: 1
  molten: 1
- moment: 7
+ moment: 6
  moment--o’er: 1
  moments: 3
  monarch: 1
  monarchs: 1
  monarchs’: 1
- money: 2
- money-wort: 1
+ money: 1
  moneys: 1
- monica: 1
- monkey: 1
- monkey-flower: 1
  monkeys: 1
  monks: 2
- monk’s: 1
  monster: 1
  monstrous: 2
- montana: 1
- montanus: 1
- monte: 2
- montgomery: 5
  month: 4
  monthly: 1
  months: 2
  month’s: 1
  montier: 1
  monument: 1
- mood: 4
- moon: 5
+ mood: 3
+ moon: 4
  moonlight: 1
  moonwort: 1
  moon’s: 1
  moor: 3
- moore: 12
- moorland: 2
+ moore: 1
+ moorland: 1
  moorlands: 1
- moors: 2
+ moors: 1
  moralize: 1
  morals: 1
- more: 84
+ more: 78
  more.”: 1
- morn: 12
- morning: 29
+ morn: 10
+ morning: 26
  morning-star: 2
- mornings: 1
  morning’s: 1
  morrice: 1
- morris: 1
- morrow: 3
+ morrow: 2
  morrows: 1
  morrow’s: 1
  mortal: 3
- mortals: 1
  mortal’s: 2
  mosaic: 1
- moschata: 1
- moschatus: 1
  moslem: 1
- moss: 27
+ moss: 13
  moss-rose: 1
- mosses: 5
+ mosses: 4
  mossy: 4
- most: 43
+ most: 41
  mostly: 1
- mother: 15
- motherwell: 1
- mother’s: 11
- motion: 3
+ mother: 11
+ mother’s: 9
+ motion: 2
  motions: 3
  motives: 1
  motley: 1
@@ -5522,41 +4475,31 @@
  moulder: 1
  mouldering: 4
  moulds: 1
- mount: 7
- mountain: 15
+ mount: 6
+ mountain: 11
  mountain-summits: 1
  mountain-top: 1
- mountain-tops: 1
  mountains: 10
- mountain’s: 2
  mounted: 1
  mounting: 3
- mourn: 5
+ mourn: 4
  mourned: 1
- mourner’s: 1
  mournful: 2
- mourning: 7
+ mourning: 5
  mourns: 2
- mouse-ear: 2
- mouth: 3
+ mouth: 2
  mouthed: 1
- move: 9
- moved: 4
+ move: 8
+ moved: 3
  moves: 1
  moving: 1
  mr: 1
- mrs: 38
- much: 28
- much!--i: 1
+ mrs: 1
+ much: 25
  muckle: 1
- mud: 1
  muffled: 1
  mulberry: 2
  muleteer’s: 1
- mullein: 2
- multiflora: 1
- multiflorus: 2
- multiplex: 1
  munster: 1
  murcia: 1
  murder: 1
@@ -5566,139 +4509,116 @@
  murmuring: 2
  murmurings: 1
  murmurs: 2
- muscosa: 1
- muse: 3
- mushroom: 4
- music: 12
+ muse: 2
+ music: 11
  musical: 1
  musicians: 1
  music’s: 2
- musing: 3
- musk: 3
+ musing: 2
+ musk: 1
  musk-plant: 1
- must: 40
+ must: 36
  muster: 1
  mutabilis: 1
  mutable: 1
  mute: 4
  mutely: 1
- muticum: 1
- my: 225
+ my: 187
  myra: 1
  myrobolan: 1
  myrtilla: 1
- myrtle: 7
+ myrtle: 4
  myrtles: 1
  myself: 2
- mysteries: 2
- mysterious: 1
+ mysteries: 1
  mystic: 1
  mythology: 2
  mœnad: 1
- mœsiacus: 1
- n: 2
  nae: 1
  nail: 1
  nails: 1
  naked: 6
  naked-stalked: 2
- name: 41
+ name: 38
  named: 8
- names: 4
- nantes: 1
- napellus: 1
- narcissus: 31
+ names: 3
+ narcissus: 5
  narrow: 1
- narrow-leafed: 2
- nasturtion: 3
- nasturtium: 1
+ nasturtion: 2
  nation: 1
  national: 1
  nations: 6
  nation’s: 1
- native: 20
- nativity: 2
+ native: 19
  natural: 3
  naturally: 2
- nature: 39
+ nature: 37
  nature--clare: 1
  nature--taste: 1
  nature.”: 1
  natures: 1
- nature’s: 12
- naught: 12
- nay: 3
+ nature’s: 10
+ naught: 11
+ nay: 2
  nazianzen: 1
  ne: 1
- neal: 1
- near: 12
+ near: 10
  near-drawn: 1
  nearer: 2
  nearest: 2
  nearly: 2
  neat: 3
- neatly: 2
+ neatly: 1
  neatness: 1
  neck: 3
  necks: 1
  nectar: 1
  nectar-cup: 2
  nectary: 3
- need: 6
+ need: 3
  needed: 2
  needless: 1
  needlework: 1
- needs: 6
+ needs: 5
  needy: 1
  neere: 1
- neglect: 2
+ neglect: 1
  neglected: 3
  neglects: 1
  neighbour: 2
  neighbourhood: 1
  neighbouring: 1
  neighbours: 1
- neighbours:--the: 1
- neither: 6
- nelumbo: 1
- nemorosa: 1
+ neither: 5
  nepomucene: 1
- neri: 1
  nerve: 1
  nerved: 2
  nervous: 1
  nest: 2
- nest-flowered: 1
- nettle: 5
- nettles: 4
- never: 50
+ nettle: 2
+ nettles: 3
+ never: 43
  never-cloying: 1
  never-ending: 1
- new: 22
+ new: 18
  new-born--most: 1
  new-comer: 1
  new-found: 1
- new-holland: 1
  new-married: 2
  newer: 1
  newly: 1
  newly-gathered: 1
  newly-married: 1
- next: 6
- ne’er: 15
- nicandeo: 1
+ next: 4
+ ne’er: 14
  nice: 3
  nice-leaved: 1
  nicely: 1
- nicetas: 1
- nicholas: 1
- nichols: 1
  nicht!_”: 1
  nick: 1
- niger: 1
  nigh: 4
  nigh.”: 1
- night: 33
+ night: 30
  night--the: 1
  night-birds: 1
  night-wind: 1
@@ -5706,64 +4626,49 @@
  nightingale: 3
  nightingale’s: 1
  nightly: 1
- nights: 3
+ nights: 2
  nights,”: 1
- nightshade: 4
- nightshade-leafed: 1
+ nightshade: 3
  night’s: 3
- nilammon: 1
- nilotica: 1
  nilus: 1
  nine: 2
  nineteenth: 1
- nisibis: 1
  nismes: 1
- nitria: 1
- nivalis: 1
- nives: 1
- no: 110
+ no: 91
  no--for: 1
  nobilis: 1
- nobility: 3
- noble: 12
- noble--noble: 1
+ nobility: 2
+ noble: 11
  nobleness: 1
  nobler: 1
  noblest: 2
  nobles’: 1
  nod: 1
  nodded: 1
- nodding: 4
+ nodding: 3
  noise: 2
  noisy: 1
  nola: 1
- non: 1
- none: 11
- nonnatus: 1
+ none: 9
  nook: 3
  nooks: 1
  noon: 7
  noon-ray: 1
- nor: 63
- norbert: 1
- north: 6
- northern: 6
+ nor: 57
+ north: 5
+ northern: 5
  northward: 1
- norton: 2
- norwich: 2
+ norwich: 1
  nose: 1
  nosegay: 1
  noses: 1
  nostoc: 1
  nostrils: 1
- not: 218
+ not: 182
  not,”: 1
- not;--for: 1
- notch-leafed: 1
- note: 6
- noted: 1
+ note: 5
  notes: 2
- nothing: 21
+ nothing: 17
  notice: 1
  noticed: 3
  notion: 2
@@ -5774,36 +4679,28 @@
  novel: 1
  november: 2
  november’s: 1
- now: 71
- noyon: 1
+ now: 57
  nudicaule: 2
- nudiflora: 1
- nuit: 1
  number: 1
  numbers: 2
  numerous: 2
  nummularia: 1
- nun: 2
+ nun: 1
  nunilo: 1
  nuptials: 1
- nursed: 3
+ nursed: 2
  nurse’s: 1
- nurst: 1
  nut-brown: 2
  nut-crackers: 1
- nutans: 1
  nutritious: 1
  nuts: 1
  nymph: 4
- nympha: 1
  nymphs: 1
  nymphæa: 2
- o: 16
- oak: 25
- oakes: 1
+ o: 3
+ oak: 17
  oats: 2
  oats.”: 1
- obeyed: 1
  obeys: 1
  object: 7
  objections: 1
@@ -5814,7 +4711,6 @@
  obsequious: 1
  observance: 1
  observation: 2
- observations: 1
  observed: 4
  observer: 1
  observers: 1
@@ -5827,135 +4723,112 @@
  obtains: 1
  occasion,--makes: 1
  occasioned: 1
- occidentalis: 1
  occupy: 2
  occurs: 1
  ocean: 6
  oceans: 3
- ocean’s: 3
- ocimum: 1
+ ocean’s: 2
  october: 2
  odd: 1
- odorata: 3
+ odorata: 2
  odoratissima: 1
- odoratus: 1
- odorus: 1
  odour: 3
- odours: 5
- of: 1733
- off: 11
+ odours: 4
+ of: 1521
+ off: 10
  offence: 1
  offensive: 1
  offer: 4
  offered: 4
- offering: 2
+ offering: 1
  offering.”: 1
  offers: 1
  office: 2
  officer: 1
- offices: 1
  official: 1
- officinal: 1
- officinalis: 8
  offspring: 1
- oft: 20
- often: 15
- oftentimes: 3
+ oft: 17
+ often: 13
+ oftentimes: 2
  ofttimes: 1
  of|hours: 1
- oh: 54
+ oh: 31
  oil: 1
- old: 42
- old,--though: 2
+ old: 38
+ old,--though: 1
  old-fashioned: 2
  olden: 1
  oldest: 1
  olive: 1
- olympias: 1
  olympus: 6
  omens: 1
- omer: 1
  ominous: 1
  ominously: 1
- omphalodes: 1
- on: 256
+ on: 228
  on--i: 1
  on--your: 1
- on.--the: 1
- once: 23
- one: 103
- ones: 7
+ once: 20
+ one: 93
+ ones: 6
  one’s: 2
- only: 38
- onward: 2
- on’t: 1
+ only: 36
+ onward: 1
  oozing: 1
- open: 15
+ open: 14
  open-eyed: 1
  opened: 1
- opening: 8
+ opening: 7
  opening.|shutting: 1
  opens: 2
  ophelia: 2
  ophrys: 1
  opium: 1
  opposing: 1
- oppositifolium: 1
  oppressed: 2
  oppression: 1
  oppressive: 1
  opprest: 2
  opuntia: 1
- or: 209
- oracle: 4
+ or: 169
+ oracle: 3
  oracles: 1
- orange: 4
+ orange: 3
  orange-coloured: 1
- orange-flowering: 1
  orb: 1
  orbit: 1
  orbs: 2
  orchards: 1
- orchis: 10
- order: 7
+ orchis: 9
+ order: 6
  ordered: 1
  orderings: 1
- ordway: 1
  organ: 1
- organs: 7
+ organs: 6
  orient: 1
- orientale: 1
- orientalis: 3
- origin: 11
- original: 1
+ origin: 10
  originally: 1
  ornament: 3
  ornamented: 1
  ornamenting: 1
- ornithogalum: 2
  orpheus: 1
- orpine: 2
- osgood: 6
+ orpine: 1
  osier: 1
- osmunda: 2
  ossian’s: 1
- other: 37
+ other: 34
  others: 11
- otherwise: 1
  other’s: 4
- our: 123
+ our: 113
  ours: 4
  ourselves: 1
- out: 44
+ out: 42
  out--that: 1
  outdid: 1
  outshine: 1
- outsoared: 1
  outstretched: 1
  outward: 1
  outworn: 1
  oval: 1
- over: 26
+ over: 19
  over-blest: 1
  overcome: 2
  overflowing: 1
@@ -5963,7 +4836,6 @@
  overhung: 1
  overlooked: 2
  overpowered: 1
- overpowering: 1
  overrate: 1
  overspread: 1
  overtakes: 1
@@ -5973,24 +4845,21 @@
  ovid: 2
  owe: 1
  owed: 1
- owes: 4
- own: 42
+ owes: 3
+ own: 39
  owners: 1
  owns: 3
- ox-lip: 1
- oxalis: 6
  oxford: 1
- o’: 7
+ o’: 6
  o’clock: 1
- o’er: 54
+ o’er: 51
  o’ercast: 1
- p: 3
  pace: 1
  pactolus: 1
  padua: 1
- page: 4
+ page: 3
  paid: 3
- pain: 13
+ pain: 11
  pain,--it: 1
  paine: 1
  painful: 3
@@ -5998,70 +4867,56 @@
  painted: 2
  palace-stables: 1
  palaces: 1
- pale: 21
+ pale: 13
  pales: 1
- palfreys: 1
  pall: 2
  palm: 3
  palms: 1
  paludosus: 1
- palustris: 2
- pambo: 1
- pampered: 2
+ pampered: 1
  panes: 1
  pang: 2
  pangs: 1
  panniculatum: 1
- pansies: 3
- pansy: 5
- pantaleon: 1
+ pansies: 1
+ pansy: 3
  panted: 1
  panting: 1
  pants,--he: 1
- papaver: 6
+ papaver: 2
  paper: 1
  parade: 1
- paradise: 4
+ paradise: 3
  paralisos: 1
  paralysis: 1
  parching: 1
- pardalianches: 1
  parent: 1
  parents: 1
  parian: 1
- paris: 3
- park: 2
+ paris: 2
  parks: 1
  parlour: 1
  parnassus: 2
- parsley: 1
- part: 14
+ part: 13
  partake: 1
  parted: 4
  parterre: 1
  parterres: 1
- partial: 1
  particular: 4
  particularly: 4
  parties: 1
  parting: 1
  parts: 7
- paschal: 1
  pass: 6
  pass,--there: 1
  passably: 1
- passed: 14
- passerina: 1
- passeth: 1
- passiflora: 5
- passiflorus: 1
- passing: 6
- passion: 12
- passion-flower: 5
+ passed: 11
+ passing: 5
+ passion: 9
  passionate: 1
  passions: 6
  passion’s: 1
- past: 26
+ past: 21
  past--i: 1
  past--the: 1
  pasteboard: 1
@@ -6069,34 +4924,24 @@
  pasturing: 1
  path: 7
  pathless: 1
- paths: 1
  pathway: 1
  patience: 4
  patient: 3
- patriarch: 7
- patrick: 1
- patriot: 1
- patriotism: 2
- patriot’s: 1
- patron: 4
- patroness: 7
+ patriarch: 2
+ patriotism: 1
+ patron: 2
+ patroness: 5
  patrons: 1
  pattern: 1
- patula: 1
- paul: 7
- paula: 1
- paulding: 1
- paule: 1
- paulinus: 1
+ paul: 3
  paused: 1
  pavement: 1
- pay: 3
+ pay: 2
  paying: 1
- pea: 1
- peace: 20
+ peace: 15
  peace--reconciliation: 1
  peaceful: 4
- peach: 2
+ peach: 1
  peach-coloured: 1
  peak: 2
  peaks: 1
@@ -6104,68 +4949,48 @@
  pearls: 3
  pearly: 3
  peas: 1
- peasant: 3
- peasant-children’s: 1
+ peasant: 2
  peasantry: 2
- peasants: 3
+ peasants: 1
  peat-clad: 1
  pebble: 2
  peck: 2
  peculiar: 3
- pedunculatus: 1
- peep: 8
+ peep: 7
  peeped: 1
  peeping: 4
  peeps: 1
- peerbold: 7
  peered: 1
- peerless: 1
  peevishly: 1
  pegs: 1
- pellucid: 2
- pellucida: 1
- pellucidum: 1
- peltata: 1
  pelted: 1
  pelting: 1
  pen: 3
- penance: 1
  pence: 1
  pencil: 1
  pencilled: 1
  pendent: 1
- pendula: 1
- pendulous: 1
- pendulus: 1
- peneus: 3
+ peneus: 2
  penitential: 1
- pennafort: 1
  pennies: 1
  pennsylvania: 1
  pension: 1
- pensive: 7
- pensiveness: 2
+ pensive: 6
+ pensiveness: 1
  pensée: 1
- penury’s: 2
- peony: 6
+ penury’s: 1
+ peony: 2
  people: 7
- peopled: 3
+ peopled: 2
  peppermint: 1
  perceives: 1
  perceiving: 1
  perception: 1
- perchance: 5
- percival: 12
- peremptory: 1
- perennial: 2
- perennis: 3
- pereskia: 1
+ perchance: 4
  perfect: 9
- perfection: 9
+ perfection: 7
  perfectness: 2
  perfidy: 1
- perforated: 1
- perforatum: 1
  perform: 1
  performs: 1
  perfume: 14
@@ -6173,108 +4998,84 @@
  perfumer: 1
  perfumes: 1
  perfuming: 2
- perhaps: 6
+ perhaps: 5
  peri: 1
  perilous: 1
- period: 3
- periodical: 1
+ period: 2
  perish: 4
  perished: 2
  perisheth: 1
  perishing: 1
- periwinkle: 6
- periwinkle’s: 1
+ periwinkle: 3
  permit: 1
  permitted: 1
  pernicious: 1
- perpetua: 1
  perpetual: 1
  persia: 1
- persian: 1
- persica: 2
  person: 4
  personages: 1
  persons: 4
  persuasion’s: 1
  pert: 3
- peru: 6
+ peru: 5
  peruvian: 1
  perverse: 1
  pestles: 1
  pet: 1
  petal: 1
  petal--depth: 1
- petals: 2
- peter: 4
- petiolaris: 1
- petronilla: 1
+ petals: 1
+ peter: 1
  pettiest: 1
- peziza: 2
  pfeffel: 1
  ph: 1
  phantoms: 3
  pharisee: 2
- phascum: 2
  phases: 1
- pheasant’s: 1
  philadelphia: 2
- philadelphian: 1
- philadelphicum: 1
- philip: 3
- philogonius: 1
  philosophy: 2
- phleum: 2
- phocas: 1
  phosphoric: 1
  phyllis: 2
- physalis: 2
  phædra: 1
  phœbe: 1
  phœbus: 2
  phœbus’: 1
  pick: 1
  picked: 1
- picture: 5
- pictured: 8
+ picture: 3
+ pictured: 7
  pictures: 1
  pied: 1
  pierce: 1
  pierced: 2
  piety: 2
  pigmy: 1
- pike: 1
- pile: 6
+ pile: 5
  piled: 2
  piles: 1
  pillar: 1
  pillars: 1
  pillow: 1
- piloflora: 1
- pilosa: 1
- pilosella: 3
- pimpernel: 8
+ pilosella: 2
+ pimpernel: 4
  pimpernel.”: 1
  pin: 1
- pine: 13
+ pine: 7
  pine-apple: 1
- pinea: 1
- pined: 4
- pink: 18
+ pined: 3
+ pink: 14
  pinks: 1
  pins: 2
- pinus: 9
  pious: 1
  pipe: 1
  pipes: 1
  pirate’s: 1
- pitch: 1
  pitied: 1
  pities: 1
- pity: 10
+ pity: 7
  pitying: 2
  pity’s: 1
- pius: 1
- place: 18
+ place: 16
  placed: 5
  places: 2
  placidus: 1
@@ -6290,8 +5091,7 @@
  plane: 1
  planets: 1
  plans: 2
- plant: 47
- plantagineum: 1
+ plant: 37
  plantations: 1
  planted: 5
  planting: 2
@@ -6300,7 +5100,7 @@
  plashy: 1
  plastered: 1
  plate: 1
- play: 20
+ play: 17
  played: 3
  playful: 1
  playing: 2
@@ -6308,26 +5108,22 @@
  plead: 2
  pleasant: 9
  pleasantest: 1
- please: 5
+ please: 3
  pleased: 1
- pleases: 2
- pleasing: 5
+ pleases: 1
+ pleasing: 3
  pleasingly: 1
- pleasure: 13
- pleasures: 10
+ pleasure: 12
+ pleasures: 9
  pleasure’s: 1
  pledge: 3
- plena: 1
  plenteously: 1
  plentiful: 2
  plenty: 2
- plenus: 2
  pleugh: 1
- plimula: 1
  plod: 1
  plots: 1
  ploughs: 1
- plover: 1
  plover’s: 1
  pluck: 2
  plucked: 1
@@ -6342,17 +5138,14 @@
  plunged: 2
  plunging: 1
  pluto: 2
- pluvialis: 1
  pocket: 1
- poems: 2
+ poems: 1
  poesy: 1
- poet: 11
- poetic: 3
- poetica: 1
- poeticus: 1
- poetry: 9
- poets: 7
- poet’s: 5
+ poet: 5
+ poetic: 2
+ poetry: 6
+ poets: 5
+ poet’s: 2
  point: 2
  pointed: 3
  pointing: 2
@@ -6366,43 +5159,33 @@
  poland: 1
  polar: 1
  pole: 1
- polished: 4
+ polished: 3
  politician: 1
  polluted: 1
- polyanthos: 2
- polyanthus: 1
  polycarp: 1
- polytrichum: 1
  pomp: 5
- pomponium: 1
  pompous: 1
- ponthieva: 2
- pontica: 1
- ponticum: 1
  pontius: 1
  pony: 2
  pool: 2
  pools: 1
- poor: 24
+ poor: 18
  poor--of: 1
- pope: 24
+ pope: 2
  poplar: 1
- poppies: 3
- poppies.--their: 1
- poppy: 17
+ poppies: 2
+ poppy: 10
  poppy-clan: 1
- poppy-folk: 1
  poppy-tribe: 1
  populace: 1
  porch: 1
  porcupine.”: 1
- porrum: 1
  portals: 1
  portend: 1
  portion: 2
  portly: 1
  portrait: 1
- portugal: 4
+ portugal: 1
  positive: 1
  possess: 4
  possessed: 3
@@ -6415,11 +5198,11 @@
  posterity: 1
  pot: 1
  potato: 1
- pour: 2
+ pour: 1
  poured: 1
  pouring: 1
  poverty: 2
- power: 25
+ power: 20
  powerful: 4
  powers: 4
  practice: 1
@@ -6429,11 +5212,9 @@
  praises: 2
  praising: 2
  pranks: 2
- pratense: 1
- pratensis: 3
+ pratensis: 2
  prattling: 1
- praxedes: 1
- pray: 7
+ pray: 4
  prayed: 3
  prayer: 2
  prayers: 1
@@ -6442,7 +5223,7 @@
  precedence: 1
  precepts: 1
  precinct: 1
- precious: 6
+ precious: 4
  precious--oh: 1
  precisely: 1
  precocious: 1
@@ -6453,21 +5234,19 @@
  preference: 3
  preferred: 1
  preferring: 3
- prentice: 1
  preparation: 1
  prepared: 2
  prepares: 1
  prepossessing: 1
- presence: 5
- present: 11
- presentation: 1
+ presence: 4
+ present: 10
  presented: 3
  presents: 4
  preserve: 2
  preserved: 2
  preside: 1
  presided: 1
- press: 5
+ press: 4
  pressed: 3
  presses: 1
  pressure: 1
@@ -6478,33 +5257,28 @@
  presumption: 1
  presumptuous: 1
  pretended: 1
- pretty: 3
- prevail: 2
+ pretty: 2
+ prevail: 1
  prevailed: 1
  prevailing--and: 1
  prevention: 1
  prey: 2
- price: 1
  prices: 1
  pricked: 1
  prickly: 1
- pride: 21
+ pride: 17
  priest: 1
  priests: 1
  primate: 1
- prime: 6
- primeval: 1
+ prime: 5
  primitive: 1
- primrose: 16
+ primrose: 7
  primrose-tufts: 1
  primroses: 1
- primula: 8
- prince: 3
+ prince: 2
  princely: 3
  prince’s: 1
  principal: 5
- prisca: 1
- priscus: 1
  prison: 1
  prisoned: 1
  prisons: 1
@@ -6515,20 +5289,15 @@
  prizest: 1
  probably: 2
  proceeds: 2
- procera: 1
  procession: 2
  processions: 2
  proclaim: 1
- proclus: 1
- proctor: 1
- procumbens: 1
  procure: 1
  prodigal: 1
  prodigious: 1
  produce: 3
  produced: 2
  produces: 2
- profane: 1
  professing: 1
  profit: 3
  profound: 1
@@ -6543,15 +5312,14 @@
  promises: 2
  prompt: 2
  promptness: 1
- prompts: 1
  prone: 1
  pronounced: 1
- proof: 3
+ proof: 2
  proofs: 1
  propagate: 1
  propagates: 1
  proper: 3
- properties: 3
+ properties: 2
  property: 1
  prophecy: 2
  prophetic: 1
@@ -6559,66 +5327,49 @@
  proportions: 1
  proposed: 1
  propped: 1
- propriety: 1
  prose: 1
  proserpine: 2
  prospects: 1
  prosperity: 3
  prospero’s: 1
  protect: 1
- protection: 5
+ protection: 4
  protector: 1
  protectress: 1
- proterius: 1
- proud: 20
+ proud: 16
  proudest: 1
  proudly: 1
  prove: 3
  proved: 2
  proverb: 2
- proves: 2
+ proves: 1
  provinces: 1
- provincialis: 1
  prudent: 2
  pruned: 1
- prunus: 4
  pry: 1
- præcox: 1
  prætor: 1
  psalm: 1
- pseudo: 1
- pseudo-acorus: 1
- pubescens: 1
  public: 1
- publican: 2
+ publican: 1
  puffs: 1
- pulcheria: 1
- pulchrum: 1
  pulciano: 1
  pull: 1
- pulla: 1
  pulled: 1
- pulmonaria: 1
  pulse: 1
- pumilum: 1
  punished: 1
  punishing: 1
  punishment: 1
  purchase: 1
  purchased: 1
- pure: 24
+ pure: 19
  purer: 1
  purest: 5
- purification: 1
  purifies: 2
- purity: 6
- purple: 24
+ purity: 5
+ purple: 17
  purple’s: 1
  purpose: 3
  purposes: 3
- purpurea: 1
- purpureum: 2
- purpureus: 1
  purse-strings: 1
  purslain: 1
  pursue: 6
@@ -6630,18 +5381,14 @@
  pyramid: 1
  pyramids: 1
  pyramid’s: 1
- pyrethrum: 1
- pyrus: 1
- pæonia: 2
- quaint: 2
- quaintly: 1
- qualities: 8
- quality: 8
+ quaint: 1
+ qualities: 6
+ quality: 7
  quarry: 1
  quarters: 1
- queen: 18
+ queen: 16
  queenly: 1
- queer: 2
+ queer: 1
  quench: 1
  quenched: 1
  questions: 1
@@ -6649,88 +5396,73 @@
  quick: 4
  quickly: 4
  quicksand: 1
- quiet: 6
+ quiet: 5
  quietly: 3
  quietness: 1
- quince: 1
- quintin: 1
- quirinus: 1
  quirks: 1
  quite: 6
  quivering: 2
  quoted: 1
- quoth: 2
- r: 4
+ r: 1
  rabbit’s: 1
- race: 11
- racemosus: 1
- radiant: 2
+ race: 10
+ radiant: 1
  radiant-coloured: 1
- radiata: 1
  radigunda: 1
  rafters: 1
  rage: 3
  rages: 1
- ragged: 1
  ragland’s: 1
- ragwort: 2
  rain: 11
  rainbow’s: 1
  rains: 1
  rainy: 1
- raised: 5
+ raised: 3
  raising: 1
- raleigh: 1
  ran: 1
  rancour: 1
  rang: 1
  range: 2
- ranged: 2
- rank: 1
+ ranged: 1
  ranked: 1
  ranks: 1
- ranunculus: 8
+ ranunculus: 1
  rape: 1
  raphael’s: 1
- raphanistrum: 1
- raphanus: 1
- rapid: 3
+ rapid: 2
  rapidly: 1
  rapt: 1
  rapture: 1
- rare: 7
+ rare: 6
  rarely: 1
  rarest: 2
  rarity: 1
  rascally: 1
  rash: 1
- rather: 4
- rattle: 1
+ rather: 3
  rattling: 1
  ravenna: 1
  raven’s: 1
  ravishing: 1
- ray: 7
- raymond: 2
+ ray: 5
  rays: 8
  razure: 1
  reach: 4
  reaches: 1
- read: 16
- reader: 1
+ read: 15
  readers: 1
  read’st: 1
- real: 3
+ real: 1
  realized: 1
  really: 2
  realms: 3
  reap: 1
  reapers: 1
  rear: 1
- reared: 5
+ reared: 4
  rearing: 1
  rears: 2
- reason: 5
+ reason: 3
  rebuild: 1
  recall: 3
  recalled: 2
@@ -6739,37 +5471,31 @@
  receive: 1
  received: 6
  receives: 2
- recent: 3
+ recent: 2
  recess: 1
  reciprocally: 1
- reckless: 1
- reckon: 1
- recognise: 1
  recognised: 1
  recollection: 1
- recollections: 4
+ recollections: 3
  recommendation: 1
  recommended: 1
  reconciled: 1
- reconciliation: 3
+ reconciliation: 2
  reconciling: 2
  record: 2
  recording: 1
  records: 2
  recounting: 1
  recover: 1
- red: 44
- red-cap: 1
- red-caps: 3
+ red: 33
  red-hot: 1
- red-hued: 1
  red-rusted: 1
  reddish-purple: 1
  redeems: 1
  redoubled: 1
  redound: 1
- reed: 3
- reeds: 5
+ reed: 2
+ reeds: 4
  reedy: 1
  reeled: 1
  reels: 2
@@ -6787,12 +5513,10 @@
  refuted: 1
  regal: 2
  regalia: 1
- regalis: 2
  regard: 1
- regarded: 5
+ regarded: 4
  regardless: 2
  regio: 1
- region: 1
  regions: 1
  regrets: 1
  regular: 1
@@ -6801,19 +5525,17 @@
  reigning: 1
  reigns: 1
  rein: 1
- reindeer: 7
- reined: 1
+ reindeer: 6
  reingarda: 1
- rejected: 2
+ rejected: 1
  rejoice: 6
  rekindle: 1
  related: 2
  relates: 1
  relation: 1
  relations: 1
- relentless: 2
- relics: 2
- relief: 5
+ relentless: 1
+ relief: 4
  relieve: 1
  religion: 1
  relit: 1
@@ -6824,17 +5546,16 @@
  remark: 1
  remediless: 1
  remedy: 1
- remember: 8
+ remember: 5
  remember.”: 1
  remembered: 2
  remembering: 1
- remembrance: 6
+ remembrance: 4
  remembrancer: 2
- remigius: 1
  remind: 2
  remnants: 1
  remorse: 2
- remote: 2
+ remote: 1
  remoter: 1
  remotest: 1
  removed: 1
@@ -6847,12 +5568,10 @@
  renown: 2
  rent: 2
  rents: 1
- repair: 1
  repaired: 1
  repast: 1
  repay: 3
  repeats: 1
- repens: 1
  repentance: 1
  repine: 1
  repining: 1
@@ -6869,8 +5588,7 @@
  reptile: 1
  request: 1
  require: 1
- requires: 1
- reseda: 6
+ reseda: 5
  resedo: 1
  resemblance: 3
  resembles: 1
@@ -6878,13 +5596,12 @@
  reserve: 2
  reserved: 1
  residence: 2
- resinosa: 1
  resistance: 2
  resistless: 1
  resolution: 1
  resolved: 2
  resolves: 1
- resort: 3
+ resort: 2
  resound: 2
  respect: 2
  respects: 1
@@ -6894,17 +5611,16 @@
  responsive: 1
  rest: 20
  resting: 2
- resting-place: 2
- restless: 2
+ resting-place: 1
+ restless: 1
  restore: 3
- restored: 1
  restrain: 1
  restrained: 1
  result: 1
  resume: 1
  retain: 2
- retains: 3
- retired: 2
+ retains: 2
+ retired: 1
  retirement: 1
  retiring: 1
  retorted: 1
@@ -6921,34 +5637,27 @@
  revelry: 1
  revenge: 1
  reverence: 6
- reverenced: 1
  revive: 2
  revives: 2
  revivifying: 1
  revolving: 1
  reward: 1
  rheims: 1
- rhinanthus: 1
- rhododendron: 2
- rhododendrons: 2
+ rhododendrons: 1
  rhyme: 1
- ricci: 1
- rich: 14
- richarius: 1
+ rich: 9
  richer: 4
- riches: 10
+ riches: 8
  richly: 2
  richness: 1
- ridden: 1
  riddles: 1
  ride: 3
  rife: 1
  rifted: 1
- right: 8
+ right: 5
  righteously: 1
- rigida: 1
- rill: 3
- rim: 2
+ rill: 2
+ rim: 1
  rimy: 1
  ring-doves: 1
  ringing: 1
@@ -6956,100 +5665,80 @@
  rings: 3
  riot: 1
  riot,--even: 1
- ripen: 1
  ripened: 2
  ripple: 1
  ripples: 1
- rise: 14
+ rise: 12
  risen: 1
  risers: 1
- rises: 1
  riseth: 1
  rising: 5
  ritual: 1
- rival: 2
+ rival: 1
  riven: 2
- river: 7
- rivers: 5
- river’s: 2
+ river: 6
+ rivers: 4
  rivulet: 1
- road: 3
- roam: 3
+ road: 2
+ roam: 2
  roamed: 1
  roar: 2
  rob: 2
  robe: 4
  robed: 1
- robert: 3
- robertianum: 1
  robes: 1
- robin: 5
- robinson: 2
- robin’s: 1
- rock: 6
+ robin: 4
+ rock: 3
  rock-planted: 1
  rocking: 1
  rocks: 4
- rockwell: 1
- rod: 7
+ rod: 1
  rode: 1
- rogers: 1
  rogue: 1
  roll: 3
- rolling: 2
+ rolling: 1
  rolling-pins: 1
  rolls: 3
- roman: 6
+ roman: 3
  romance: 2
- romans: 6
- romanus: 2
- rome: 9
- romuald: 1
- roof: 4
+ romans: 5
+ rome: 8
+ roof: 3
  roofs: 1
  room: 2
- root: 5
- rooted: 2
- roots: 7
- rosa: 8
- rosalia: 1
+ root: 4
+ rooted: 1
+ roots: 5
  roscoe: 1
- rose: 71
- rose-bud: 2
+ rose: 47
+ rose-bud: 1
  rose-coloured: 1
  rose-red: 1
  rose-scented: 1
  rose-tree: 1
- rosea: 1
  rosebud: 1
- rosemary: 9
- roses: 13
+ rosemary: 7
+ roses: 12
  rosy: 5
- rotata: 1
- rotundifolia: 1
- rough: 2
- round: 32
- round-leafed: 1
+ rough: 1
+ round: 28
  rounded: 5
- rouse: 1
  rousseau: 1
  rousseau’s: 1
- rout: 2
- rowe: 1
+ rout: 1
  rows: 2
  royal: 4
  royalty: 1
  rubbish: 2
- rubra: 6
+ rubra: 4
  rubrum: 2
  ruby: 1
  ruddy: 3
  rude: 3
- rudely: 2
+ rudely: 1
  rudeness: 1
  rue: 1
  ruffs: 1
- rufina: 1
  rufus: 1
  rugged: 1
  ruin: 5
@@ -7061,94 +5750,75 @@
  rules: 2
  run: 8
  rung: 1
- runneth: 2
- runs: 2
+ runneth: 1
+ runs: 1
  rupture: 4
  rural: 6
  rush: 5
- rushes: 2
+ rushes: 1
  russet: 1
- rustic: 4
+ rustic: 2
  rustle: 1
  rustling: 2
  ruthless: 2
- s: 4
- sabinus: 1
- sacred: 10
+ sacred: 9
  sacrifice: 1
  sacrificed: 1
  sacrifices: 1
- sad: 13
+ sad: 9
  saddening: 1
  saddest: 1
  sadful: 1
- sadly: 5
- sadness: 5
- safe: 4
+ sadly: 4
+ sadness: 4
+ safe: 1
  safely: 1
  safety: 4
- saffron: 10
+ saffron: 2
  sagacious: 1
- sage: 3
+ sage: 2
  sager: 1
- said: 32
+ said: 28
  sail: 1
  sailest: 1
  sainfoil: 1
- saint: 8
- saintly: 1
+ saint: 7
  saint’s: 1
  sake: 1
  salem’s: 1
- sales: 1
- salicaria: 1
- saloon: 1
  salt: 1
  salzburg: 1
  same: 15
  sameness: 2
- samthana: 1
  sanction: 1
  sanctuary: 1
- sand: 4
+ sand: 3
  sandwort: 2
  sandy: 1
  sang: 5
  sank: 1
  sans: 1
- sanseviera: 1
- saponaria: 2
- sapor: 1
  saragossa: 1
  sardonia: 1
- sarniensis: 1
- sat: 11
+ sat: 9
  satanic: 1
- sate: 2
+ sate: 1
  satisfy: 1
- sativus: 1
  saturated: 1
  saturn: 1
- saturninus: 1
  satyr: 1
  satyrs: 1
  saucy: 2
  savage: 2
- save: 12
+ save: 11
  saved: 1
  saving: 1
- saviour: 1
- saw: 20
+ saw: 15
  saws: 1
- saxifraga: 1
- saxifrage: 2
  saxon: 1
- say: 11
+ say: 9
  saying: 3
  says: 7
- scabias: 1
- scabiosa: 1
- scabius: 1
  scale: 1
  scale-armour: 1
  scaly: 1
@@ -7157,12 +5827,12 @@
  scarcely: 2
  scares: 1
  scarfs: 1
- scarlet: 13
+ scarlet: 10
  scatter: 4
- scattered: 4
+ scattered: 2
  scene: 7
- scenes: 6
- scent: 8
+ scenes: 5
+ scent: 7
  scented: 4
  scenting: 1
  scentless: 2
@@ -7171,45 +5841,32 @@
  sceptreless: 1
  schemers: 1
  scholar’s: 1
- scholastica: 1
- school: 2
+ school: 1
  schoolboy’s: 1
  science: 1
  scimiters: 1
- scolopendrium: 1
- scopalia: 1
- scorching: 1
  scores: 1
- scorn: 8
- scorned: 1
- scornful: 1
+ scorn: 6
  scorning: 3
  scorns: 1
- scotch: 2
  scotland: 2
- scott: 1
- scottish: 1
  scourge: 1
  scowling: 1
  scrambling: 1
  scraps: 2
- screw: 1
  screws: 1
  screw’d: 1
- scriptus: 1
  scroll: 1
  scud: 1
  sculptured: 1
  scurvy: 1
  scythe’s: 1
- sea: 14
- sea-blue: 1
+ sea: 12
  sea-side: 1
  seal: 1
  seals: 2
  sear: 1
  search: 4
- searcher: 1
  searches: 1
  searching: 3
  seas: 5
@@ -7230,54 +5887,46 @@
  sedate: 1
  sedgy: 1
  seducing: 1
- sedum: 1
- see: 54
+ see: 45
  seed: 3
  seedling: 1
- seeds: 6
+ seeds: 4
  seeing: 2
  seek: 13
  seekest: 1
  seeking: 1
  seeks: 7
- seem: 16
+ seem: 15
  seemed: 5
  seeming: 4
- seems: 13
+ seems: 12
  seem’st: 1
- seen: 16
- sees: 6
+ seen: 13
+ sees: 5
  seize: 2
  seized: 1
  seizes: 1
- seldom: 4
+ seldom: 2
  selected: 4
- selena: 1
- self: 4
+ self: 3
  self-conceit: 1
  self-imposed: 1
- self-love: 5
+ self-love: 1
  self-respecting: 1
  self-will: 1
  selfishness: 1
  sell: 3
  selves: 1
  semblance: 1
- semilunar: 1
- semperflorens: 1
- sempervirens: 3
- send: 4
+ send: 3
  sending: 1
- senecio: 4
- sens: 1
  sense: 8
  senses: 2
  sensibility: 1
- sensitiva: 1
- sensitive: 5
+ sensitive: 3
  sent: 8
  sentiment: 1
- sentimental: 2
+ sentimental: 1
  sentiments: 2
  separated: 1
  separates: 1
@@ -7289,31 +5938,25 @@
  seraphic: 1
  seraph’s: 1
  sere: 2
- serenade: 2
+ serenade: 1
  serene: 1
  serenely: 1
  serener: 1
  serenity: 1
- serious: 2
- serotinum: 2
- serotinus: 1
- serpent: 1
  serpents: 1
- serratifolia: 1
  serve: 1
  serves: 2
- servianus: 1
  serving-men: 2
  servitor: 1
  servitude: 1
- set: 18
+ set: 16
  setewale: 1
  sets: 2
  setting: 1
  settle: 1
  settled: 4
  seven: 1
- seventh: 3
+ seventh: 1
  sever: 1
  several: 3
  severe: 1
@@ -7327,7 +5970,7 @@
  shaded: 1
  shades: 4
  shading: 2
- shadow: 13
+ shadow: 10
  shadowed: 1
  shadows: 6
  shadowy: 4
@@ -7337,66 +5980,57 @@
  shaken: 1
  shakes: 3
  shaking: 1
- shakspeare: 46
- shall: 79
+ shakspeare: 5
+ shall: 69
  shallow: 1
- shalt: 7
+ shalt: 6
  shame: 6
- shamrock: 1
  shape: 6
  shaped: 1
- shapes: 3
+ shapes: 1
  share: 3
  shared: 1
  sharer: 1
  shares: 1
- sharp: 3
+ sharp: 2
  shaw’d: 1
- she: 129
+ she: 112
  sheafed: 1
  sheaves: 1
- shed: 11
- shedding: 2
+ shed: 10
  sheds: 3
  shee: 1
  sheep: 1
  sheeted: 2
  shell: 3
- shelley: 4
  shelter: 5
  shelter-seeking: 1
- sheltered: 4
- sheltering: 1
+ sheltered: 3
  shelves: 1
- shelving: 1
- shenstone: 1
  shepherd: 2
  shepherds: 3
  shepherd’s: 1
  she’d: 1
  she’ll: 1
- she’s: 5
+ she’s: 4
  shield: 1
  shimmer: 1
- shine: 11
- shines: 5
- shining: 4
+ shine: 9
+ shines: 3
+ shining: 3
  shin’st: 1
  ship: 1
  ships: 1
- shirley: 2
- shivered: 1
  shivering: 1
  shoals: 1
  shock: 2
  shoemaker: 1
  shoemakers: 1
- shoes: 1
  shone: 3
- shook: 6
- shoot: 5
+ shook: 5
+ shoot: 4
  shoots: 3
- shore: 7
+ shore: 6
  shores: 1
  shoreward: 1
  short: 4
@@ -7405,25 +6039,25 @@
  shortness: 1
  short”--is: 1
  shot: 1
- should: 35
+ should: 30
  shoulder: 1
  shouldered: 1
  shouldst: 1
  shout: 2
  shouts: 1
- show: 12
+ show: 11
  showed: 2
  shower: 1
  shower.”: 1
  showered: 2
  showers: 4
- shown: 3
- shows: 6
+ shown: 2
+ shows: 4
  showy: 1
  shrill: 1
- shrine: 10
+ shrine: 8
  shrink: 1
- shrinking: 3
+ shrinking: 2
  shrinks: 3
  shroud: 1
  shrub: 9
@@ -7433,111 +6067,92 @@
  shuddering: 1
  shun: 4
  shunned: 1
- shut: 8
+ shut: 7
  shut-up: 1
  shuts: 3
- shutting: 4
+ shutting: 3
  shuttles: 1
- shy: 1
- sicilian: 1
- sick: 1
  sicken: 1
  sickens: 1
  sickles: 1
  sickly: 2
  sickness: 2
- side: 11
+ side: 7
  sides: 2
  siege: 2
- sienna: 3
- sigh: 14
+ sienna: 1
+ sigh: 13
  sigh?--(a: 1
  sighed: 4
  sighing: 4
  sighs: 10
- sight: 15
+ sight: 12
  sightless: 1
- sigifred: 1
  sign: 2
- signal: 1
  significance: 1
  signification: 3
- significations: 2
+ significations: 1
  signify: 2
- signs: 1
- sigourney: 2
  silence: 7
- silent: 12
+ silent: 9
  silent-winged: 1
  silently: 2
  silk: 1
  silken: 2
  silkworm’s: 1
- silky: 1
  silly: 2
- silphium: 4
- silver: 10
+ silver: 9
  silver-footed: 1
  silvered: 2
- silverius: 1
- silvery: 3
- simeon: 3
+ silvery: 2
  simmer: 1
- simms’s: 1
  simon: 1
- simple: 11
+ simple: 9
  simple.”: 1
  simplest: 1
- simplex: 1
  simplicity: 4
  sin: 2
- sinapus: 1
- since: 17
+ since: 15
  sincere: 1
  sincerely: 1
  sincerity: 2
- sing: 14
+ sing: 11
  singing: 6
- single: 11
+ single: 6
  single-flowered: 2
  sings: 4
  singular: 3
- singularity: 2
+ singularity: 1
  singularly-formed: 1
- sinica: 1
- sink: 4
+ sink: 3
  sinking: 3
  sinks: 1
  sink’st: 1
  sinner: 4
- sinnest: 1
  sins: 1
  sip: 3
- sir: 3
+ sir: 1
  sire: 1
  sirmium: 1
- sister: 7
+ sister: 3
  sister-buds: 1
  sisterhood: 1
  sister’s: 1
- sit: 7
+ sit: 6
  sits: 4
  situations: 2
  six: 1
- sixth: 5
- sixtus: 1
+ sixth: 4
  size: 3
  skeleton: 1
  sketched: 1
- skies: 10
+ skies: 9
  skilful: 1
  skill: 2
  skilled: 1
- skim: 1
  skirl: 1
  skulking: 1
- sky: 25
- sky-blue: 1
+ sky: 22
  sky-lark: 1
  sky-reflecting: 1
  slain: 1
@@ -7551,16 +6166,13 @@
  sledge: 1
  sleep: 17
  sleep.”: 1
- sleeping: 10
- sleepless: 1
- sleeps: 2
+ sleeping: 9
+ sleeps: 1
  sleepy: 1
- sleet: 2
+ sleet: 1
  sleight: 1
  slender: 4
- slender-leafed: 1
- slender-stalked: 1
- slept: 4
+ slept: 3
  slide: 2
  slides: 1
  slight: 1
@@ -7569,33 +6181,30 @@
  slightly: 1
  slim: 1
  slime: 1
- slipper: 4
- slips: 2
+ slipper: 2
+ slips: 1
  slope: 2
  sloped: 1
  sloping: 1
- slow: 5
+ slow: 4
  slower: 1
  slowly: 4
  slumber: 3
  slumbers: 1
- small: 26
- small-fruited: 1
- small-leafed: 1
+ small: 22
  smart: 2
  smell: 8
  smell.”: 1
  smilax: 1
- smile: 24
+ smile: 21
  smiled: 4
  smiles: 12
  smileth: 1
  smiling: 7
- smith: 1
- smitten: 2
+ smitten: 1
  smoke: 1
  smoky: 1
- smooth: 10
+ smooth: 6
  smooth,”: 1
  smoother: 1
  smoothest: 1
@@ -7605,29 +6214,25 @@
  snail-paced: 1
  snake: 2
  snap: 2
- snapdragon: 4
+ snapdragon: 1
  snapped: 1
- snare: 3
+ snare: 2
  snares: 1
  snatch: 1
- sneer: 1
  sneered: 1
  snorting: 1
- snow: 14
- snow-drop: 1
+ snow: 12
  snow-falls: 1
- snow-white: 2
- snowdrop: 13
+ snow-white: 1
+ snowdrop: 10
  snowdrops: 2
  snowdrop’s: 1
- snowflake: 1
  snows: 1
  snowy: 3
  snug: 1
- so: 182
+ so: 169
  so--for: 1
  so?”: 1
- soapwort: 2
  soar: 4
  soared: 1
  soaring: 1
@@ -7637,7 +6242,7 @@
  social: 1
  society: 1
  sod: 1
- soft: 22
+ soft: 19
  soften: 1
  softened: 1
  softer: 2
@@ -7648,116 +6253,100 @@
  soil: 6
  soils: 1
  sold: 2
- soldanella: 1
  soldier: 1
  sole: 3
- solemn: 5
+ solemn: 3
  solid: 1
- solidaginoides: 1
- solidago: 6
- solitary: 5
- solitary’s: 1
- solitude: 8
+ solitary: 4
+ solitude: 7
  solomon: 1
- some: 79
- somehow: 1
+ some: 71
  something: 3
- sometimes: 8
+ sometimes: 7
  somewhat: 1
  somewhere: 1
  son: 6
  son!”: 1
- sonchus: 5
- song: 14
+ sonchus: 2
+ song: 13
  sonne: 1
  sonnets: 1
- sons: 2
- soon: 16
+ sons: 1
+ soon: 13
  soone: 1
  sooner: 3
- sooth: 5
- soothe: 3
- soothed: 3
+ sooth: 3
+ soothe: 2
+ soothed: 2
  sophia’s: 1
  sophistries: 1
- sordid: 2
+ sordid: 1
  sore: 1
- sorrel: 7
- sorrow: 27
+ sorrel: 1
+ sorrow: 21
  sorrowful: 1
- sorrowing: 2
+ sorrowing: 1
  sorrows: 6
- sorrow’s: 5
+ sorrow’s: 3
  sort: 1
  sought: 5
- soul: 39
+ soul: 33
  soul-flower: 1
  souls: 6
  sound: 13
  sounding: 1
- sounds: 4
+ sounds: 3
  sour: 2
- source: 4
+ source: 2
  sources: 1
  sourness: 1
- sours: 1
  south: 3
- southernwood: 1
- southey: 2
  southward: 1
  southwards: 1
  sovereign: 2
  sowing: 2
  sown: 1
- sowthistle: 5
+ sowthistle: 2
  space: 1
  spaendonc: 1
  spake: 4
  span-lang: 1
  spangle: 1
  spaniards: 1
- spanish: 1
  spans: 1
- spare: 4
+ spare: 3
  spared: 2
  spark: 1
- sparkle: 1
  sparkless: 1
  sparkling: 5
  sparks: 2
- sparrow-wort: 1
  sparsely: 1
  spawn: 1
- speak: 6
+ speak: 4
  speaking: 1
- speaks: 8
+ speaks: 7
  spears: 1
- spearwort: 1
- special: 1
  species: 13
  specimens: 1
  speck: 1
- speckled: 2
+ speckled: 1
  specks: 1
  spectres: 1
- speech: 3
+ speech: 2
  speechless,--was: 1
  speed: 3
  speedily: 1
  speeds: 1
- speedwell: 3
- spell: 14
+ speedwell: 1
+ spell: 13
  spells: 1
- spenser: 5
  spent: 2
  sperone: 1
  speronella: 1
- sphenogyne: 1
- sphere: 5
+ sphere: 4
  spheres: 1
  sphery: 1
  sphinx: 1
- spicata: 1
  spice: 1
  spicy: 2
  spider: 2
@@ -7767,60 +6356,51 @@
  spilled: 1
  spindle-tree: 1
  spinne: 1
- spinosa: 1
  spinsters: 1
  spires: 2
- spiridion: 1
- spirit: 22
+ spirit: 21
  spirit,--such: 2
  spirit-touching: 1
- spirits: 12
+ spirits: 11
  spiritual: 1
  spirit’s: 4
  spit: 1
  spite: 3
- splash: 1
- spleen-wort: 2
- splendid: 4
- splendour: 7
+ splendid: 3
+ splendour: 6
  spoiled: 1
  spoilt: 1
- spoke: 3
+ spoke: 2
  sponge: 1
  spontaneous: 1
  spoons: 1
  sport: 1
  sporting: 1
  sportive: 1
- sports: 5
- spot: 17
- spot--though: 1
+ sports: 4
+ spot: 15
  spotless: 1
  spots: 4
- spotted: 2
+ spotted: 1
  spouse: 1
  spouse,”: 1
- sprague: 2
  sprang: 5
  spray: 1
  sprays: 1
- spread: 13
+ spread: 12
  spreading: 2
  spreads: 4
  sprig: 4
  sprightly: 1
- spring: 44
+ spring: 39
  spring-tide: 1
  spring-time: 2
  spring.”: 1
- springa: 1
- springing: 1
- springs: 8
+ springs: 7
  spring’s: 1
  sprinkle: 1
  sprite: 1
  sprites: 1
- spruce: 1
  sprung: 2
  spur: 3
  spur-like: 1
@@ -7831,51 +6411,43 @@
  squire: 1
  squires: 1
  squirrel: 1
- st: 368
+ st: 18
  stable: 1
  stacher: 1
  stack: 1
- staff: 1
  stag: 1
  stagnates: 1
  staid: 1
- stain: 6
+ stain: 5
  stainless: 1
- stalk: 8
- stalkless: 1
- stamens: 1
+ stalk: 7
  stamped: 2
- stand: 9
+ stand: 8
  standest: 1
  standing: 1
  stands: 5
- stapelia: 7
- star: 23
+ star: 16
  star--when: 1
  star--whene’er: 1
  star-clad: 1
  star-light: 1
- star-white: 1
- starch: 1
  starched: 1
  staring: 1
- starlike: 1
  starlit: 1
  starred: 2
- starry: 6
- stars: 16
+ starry: 4
+ stars: 15
  stars’: 1
  start: 2
  started: 1
- starting: 2
+ starting: 1
  startled: 1
  startling: 1
  starve: 3
  starves: 1
- starwort: 15
- state: 6
- statelier: 1
- stately: 6
+ starwort: 2
+ state: 4
+ stately: 5
  statue: 1
  stature: 2
  stay: 2
@@ -7885,10 +6457,10 @@
  staël: 3
  steadfast: 1
  steadier: 1
- steal: 3
+ steal: 2
  stealest: 1
  stealing: 2
- steals: 2
+ steals: 1
  steam: 1
  steed: 1
  steeds: 2
@@ -7896,24 +6468,20 @@
  steep: 1
  steered: 1
  steering: 1
- stellaria: 1
- stem: 9
+ stem: 8
  stems: 3
- step: 7
- stephen: 4
+ step: 6
+ stephen: 1
  stepped: 1
- stepping: 1
  steps: 3
- stereotyped: 1
  sterile: 1
- sterilis: 1
  stern: 7
  sterner: 1
  sterns: 1
  stick: 1
  stiff: 3
  stiffened: 2
- still: 86
+ still: 83
  still.--but: 1
  stillness: 2
  stilly: 3
@@ -7924,18 +6492,15 @@
  stirred: 3
  stirring: 1
  stirs: 2
- stitchwort: 1
- stock: 7
+ stock: 5
  stocks: 1
- stoicism: 3
+ stoicism: 2
  stolen: 1
- stone: 7
- stone-pine: 1
+ stone: 6
  stonecrop: 1
- stood: 20
+ stood: 14
  stoop: 3
  stooped: 1
- stoops: 1
  stop: 1
  stops: 1
  store: 3
@@ -7948,21 +6513,18 @@
  stormy: 5
  storm’s: 1
  storm”: 1
- story: 6
+ story: 4
  story-books--of: 1
  stout: 2
  straggling: 1
- straight: 4
+ straight: 3
  strain: 2
  straining: 1
  strains: 1
  strait: 1
- stramonium: 1
- stramony: 2
  strange: 6
- strangely: 2
- stranger: 2
- stranger--when: 1
+ strangely: 1
+ stranger: 1
  stranger.”: 1
  strangers: 1
  stranger’s: 1
@@ -7970,9 +6532,8 @@
  stratagem: 1
  strathspeys: 1
  straw: 7
- strawberry: 10
+ strawberry: 7
  stray: 3
- strayed: 1
  streaked: 1
  streaks: 1
  stream: 12
@@ -7980,18 +6541,18 @@
  streamed: 1
  streamlet: 1
  streamlets: 1
- streams: 13
- street: 3
- streets: 3
- strength: 16
+ streams: 10
+ street: 1
+ streets: 2
+ strength: 12
  strengthened: 1
  strengthening: 1
  strengthens: 1
  stretch: 1
  stretched: 3
  stretching: 1
- strew: 3
- strewed: 2
+ strew: 2
+ strewed: 1
  strewn: 1
  stricken: 1
  strict: 1
@@ -7999,18 +6560,16 @@
  stride: 1
  strided: 1
  strides: 1
- strife: 8
+ strife: 7
  strike: 5
- string: 1
- strings: 4
+ strings: 3
  stripped: 1
  strive: 1
  strives: 1
  striving: 1
- strobus: 1
  strokes: 2
  strolls: 1
- strong: 15
+ strong: 14
  stronger: 2
  strongest: 1
  struck: 4
@@ -8020,31 +6579,26 @@
  strugglest: 1
  struggling: 1
  strut: 1
- sts: 4
  studded: 1
  studied: 1
- studs: 1
  study: 4
  stung: 1
  stupid: 1
- stupidity: 5
+ stupidity: 3
  stupidly: 1
  stupify: 1
- sturdy: 2
+ sturdy: 1
  style: 2
  styled: 1
- stylites: 2
- suaveolens: 1
+ stylites: 1
  subdue: 1
- subdued: 1
  subdues: 1
  subject: 2
  sublime: 2
  sublimer: 1
  sublimest: 1
  sublunar: 1
- submission: 5
- submit: 1
+ submission: 4
  submits: 1
  subsided: 1
  subsist: 1
@@ -8052,13 +6606,10 @@
  substances: 1
  subterranean: 1
  subtile: 2
- subtle: 1
- succeeding: 2
+ succeeding: 1
  succession: 2
- succisa: 1
- such: 58
+ such: 48
  suck: 1
- suckling: 1
  sudden: 1
  suddenly: 1
  suffer: 2
@@ -8076,32 +6627,30 @@
  suits: 1
  sullen: 2
  sullying: 1
- sulphurea: 1
- sulphureus: 1
- sultan: 3
+ sultan: 1
  sultanas: 1
  sultans: 1
  sultry: 2
- summer: 23
+ summer: 16
  summers: 1
- summer’s: 3
- summit: 4
+ summer’s: 2
+ summit: 3
  summits: 1
  summon: 1
  summoned: 2
  summons: 1
- sun: 35
+ sun: 29
  sun-flowers: 1
  sunbeam: 2
- sunbeams: 3
+ sunbeams: 2
  sunbeam’s: 1
- sunflower: 12
+ sunflower: 8
  sunflowers: 1
  sung: 1
  sunk: 3
  sunlight: 2
  sunnier: 1
- sunny: 6
+ sunny: 4
  sunrise: 1
  suns: 4
  sunset: 11
@@ -8111,20 +6660,19 @@
  supercilious: 1
  superficial: 1
  superior: 5
- superstition: 8
+ superstition: 6
  superstition’s: 1
  superstitious: 1
  supinely: 1
  supplant: 1
- supplied: 1
  supply: 2
  support: 2
  supported: 1
  supporting: 1
  supports: 1
- supposed: 7
+ supposed: 6
  supremest: 1
- sure: 8
+ sure: 5
  surely: 1
  surer: 1
  surest: 1
@@ -8133,9 +6681,9 @@
  surliness: 1
  surly: 1
  surmount: 1
- surpass: 5
+ surpass: 4
  surpasses: 1
- surpassing: 2
+ surpassing: 1
  surprise: 5
  surrey: 2
  surround: 1
@@ -8144,54 +6692,44 @@
  survey: 2
  surveyed: 3
  survive: 1
- susanna: 1
- susianus: 1
  suspect: 1
  suspense: 1
  suspicion: 2
  sustain: 1
  swabia: 1
  swallow: 3
- swamp: 2
- swamps: 1
+ swamp: 1
  swan: 1
- swan-neck: 1
  swang: 1
  sward: 1
  swathed: 1
  sway: 4
  swaying: 1
- sweden: 3
+ sweden: 2
  sweep: 2
- sweeping: 1
- sweet: 69
- sweet-brier: 2
- sweet-flag--acorus: 1
- sweet-pea: 1
- sweet-scented: 4
+ sweet: 49
+ sweet-brier: 1
+ sweet-scented: 2
  sweet-smiling: 1
  sweet.”: 3
  sweete: 1
  sweeten: 1
  sweeter: 8
- sweetest: 10
+ sweetest: 8
  sweetheart: 1
  sweetly: 2
  sweetness: 5
  sweets: 5
  swell: 3
- swelled: 2
+ swelled: 1
  swelling: 2
  swells: 1
- sweney: 1
  swept: 3
- swift: 8
+ swift: 6
  swift--and: 1
- swiftly: 2
  swim: 2
  swimming: 2
  swims: 1
- swine: 1
  swiss: 1
  swithin: 1
  switzerland: 1
@@ -8203,29 +6741,24 @@
  sycamore: 1
  sylphs: 1
  sylvan: 1
- sylvestris: 3
  symbol: 6
  symmetry: 1
  sympathies: 1
  sympathize: 1
  sympathy: 3
- symphytum: 1
- symptoms: 1
  syne: 2
  syracuse: 2
  syringa: 1
  system: 1
- t: 1
  table: 3
- tables: 2
+ tables: 1
  tabor: 1
- tagetes: 2
- tail: 4
- take: 14
- taken: 2
- takes: 5
+ tail: 2
+ take: 13
+ taken: 1
+ takes: 4
  taking: 2
- tale: 10
+ tale: 9
  talents: 1
  tales: 5
  talisman: 2
@@ -8234,41 +6767,32 @@
  talk.”: 1
  talkers: 1
  talks: 2
- tall: 10
+ tall: 6
  tall,--i: 1
  tallest: 1
- tam: 2
- tambrigens: 1
- tanacetum: 1
+ tam: 1
  tangling: 2
- tansey: 1
- tansy: 1
- taper: 1
  tapers: 1
  tapestry: 2
- taraxacum: 3
+ taraxacum: 2
  tardy: 1
  tarry: 1
- task: 3
- taste: 9
+ task: 2
+ taste: 8
  taught: 8
  tawdry: 1
- tawny: 1
- taxus: 2
  tea: 1
  teach: 1
  teacher: 1
  teacheth: 1
- tear: 15
+ tear: 13
  tear-drops: 1
  tearful: 2
  tears: 25
  teasel: 1
  tectorum: 2
  teem: 1
- telephium: 1
- tell: 25
- telleth--what: 1
+ tell: 23
  telling: 1
  tells: 2
  temper: 5
@@ -8280,15 +6804,13 @@
  temples: 2
  temple’s: 1
  tempt: 3
- temptation: 1
  tempted: 1
  tempting: 1
  ten: 6
  ten-week: 1
- tenant: 1
  tend: 1
  tended: 1
- tender: 17
+ tender: 16
  tenderly: 1
  tenderness: 2
  tendril: 1
@@ -8296,39 +6818,35 @@
  tene: 1
  tenedos: 1
  tenement: 1
- tenuifolia: 1
- teresa: 1
  termed: 2
  terminating: 1
  terrible: 2
  terrors: 1
  texture: 2
- than: 62
- thankful: 2
+ than: 57
+ thankful: 1
  thankfully: 1
  thankfulness: 1
- thanks: 2
- that: 472
+ thanks: 1
+ that: 423
  thatched: 1
- that’s: 11
+ that’s: 8
  thaumaturgus: 1
- the: 3142
+ the: 2809
  thebes: 1
- thecla: 1
- thee: 113
- thee,--and: 1
+ thee: 93
  thee--but: 1
  thee--i: 2
  thee--thou: 1
  thee.”: 3
- their: 176
- theirs: 4
+ their: 168
+ theirs: 3
  theirs,--theirs: 1
- them: 72
+ them: 70
  theme: 3
  theme--imperial: 1
- themselves: 7
- then: 81
+ themselves: 6
+ then: 69
  then,”: 1
  then--let: 1
  thence: 4
@@ -8336,99 +6854,85 @@
  thence?_”: 1
  thenceforward: 1
  theo: 2
- theodora: 2
- theodoret: 1
  theodosius: 1
- there: 108
- therefore: 7
+ there: 85
+ therefore: 6
  therefore,--the: 1
  thereon: 2
- theresa: 3
- there’s: 15
- these: 54
+ theresa: 2
+ there’s: 9
+ these: 47
  theseus: 1
  thews: 1
- they: 193
+ they: 171
  they’ll: 5
  they’re: 4
  thick: 3
- thick-leafed: 1
  thick-leaved: 2
- thick-mantled: 1
  thicket: 1
  thickets: 1
  thickly: 1
  thief: 1
- thine: 27
+ thine: 23
  thine--still: 1
- thing: 27
- things: 35
+ thing: 20
+ things: 31
  things,--disdain: 1
- think: 36
+ think: 28
  thinker: 1
  thinking: 4
- thinks: 2
- think’st: 1
+ thinks: 1
  thinly: 2
- third: 3
+ third: 1
  thirst: 2
- thirsting: 1
  thirsts: 2
  thirteen: 1
- thirteenth: 1
  thirty: 2
- this: 128
- thistle: 3
- thomas: 7
- thomson: 4
- thorn: 4
- thorn-apple: 7
+ this: 109
+ thistle: 2
+ thomas: 2
+ thomson: 1
+ thorn: 3
+ thorn-apple: 4
  thorn.”: 1
  thorns: 3
- those: 62
- thou: 134
- though: 62
+ those: 56
+ thou: 106
+ though: 56
  thought: 34
  thought.”: 4
  thought;”: 1
- thoughtful: 2
+ thoughtful: 1
  thoughtless: 5
- thoughts: 24
- thoughts.”: 1
- thousand: 13
+ thoughts: 21
+ thousand: 11
  thousands: 3
  thou’lt: 2
- thou’rt: 3
+ thou’rt: 2
  thou’st: 1
  tho’: 2
  thrace: 1
- thrash: 1
- thrasilla: 1
  thread-like: 1
- thread-moss: 1
  threading: 1
  threads: 1
  threat: 2
  threatening: 2
  threats: 3
- three: 4
- three-coloured: 1
+ three: 3
  three-fold: 1
- three-leafed: 2
  three-masted: 1
  threw: 6
- thrice: 3
+ thrice: 2
  thrift: 1
- thrifty: 2
+ thrifty: 1
  thrilling: 1
- thriven: 1
  throat: 3
  throbs: 1
  throne: 3
  thrones: 1
  throng: 2
  thronging: 1
- through: 55
+ through: 53
  throughout: 2
  throw: 3
  throwing: 3
@@ -8436,88 +6940,70 @@
  throws: 4
  thro’: 2
  thrush: 2
- thuga: 3
  thunder: 3
  thunderer: 2
  thundering: 1
- thunder’s: 1
- thurlow: 1
- thus: 43
+ thus: 38
  thus--even: 1
  thus--on: 1
- thy: 131
- thyme: 7
+ thy: 116
+ thyme: 5
  thyme.”: 1
- thyoides: 1
  thyself: 1
  th’: 2
- tick-seed: 2
- ticking: 1
  tide: 7
  tides: 1
  tie: 2
  tied: 1
  ties: 2
- tiger: 3
+ tiger: 2
  tight: 1
- tigrum: 1
- till: 36
+ till: 35
  timber: 2
- time: 74
- time--’tis: 1
+ time: 57
  timely: 1
- times: 15
+ times: 14
  time’s: 2
- timid: 5
- timidity: 4
- timothy: 5
+ timid: 4
+ timidity: 3
+ timothy: 2
  tinged: 2
  tinging: 1
- tint: 4
+ tint: 2
  tinted: 1
- tintern’s: 1
- tinus: 1
- tiny: 6
+ tiny: 5
  tips: 1
  tire: 1
- tired: 4
- tirucalle: 1
- tis: 1
+ tired: 3
  tissue: 2
  titans: 1
  title: 2
  title-page: 1
- titles: 1
- titus: 1
- to: 895
+ to: 828
  to-day: 3
- to-day,”: 1
  to-morrow: 1
- to-night: 3
- toadflax: 1
+ to-night: 2
  todlin: 1
- together: 11
- toil: 5
+ together: 9
+ toil: 3
  toiled: 1
  toiler: 1
- toilet: 1
  toiling: 1
  toils: 1
- token: 5
- told: 8
+ token: 2
+ told: 6
  told.”: 1
- toll: 1
  tolls: 1
  tomahawks: 1
- tomb: 7
+ tomb: 6
  tombs: 1
- tone: 3
+ tone: 2
  tongs: 1
- tongue: 11
+ tongue: 7
  tongue-leafed: 2
  tongueless: 1
  tongues: 1
- too: 58
+ too: 53
  too.”: 1
  took: 2
  tool: 1
@@ -8530,7 +7016,6 @@
  tormented: 1
  torrent: 1
  tortoise: 1
- tortula: 1
  torture: 2
  toss: 2
  tossing: 1
@@ -8540,39 +7025,37 @@
  touching: 2
  touchingly: 1
  toulouse: 1
- toward: 3
+ toward: 1
  towards: 3
  tower: 3
  towered: 1
  towering: 2
- town: 6
+ town: 5
  towns: 1
  towzie: 1
  toy: 2
  toys: 2
- trace: 4
- traced: 5
+ trace: 2
+ traced: 4
  traces: 1
  track: 3
  trackless: 1
  tracks: 2
  tract: 1
  trade: 1
- tradescanti: 1
  tradition: 1
  traditions: 1
- tragopogon: 3
+ tragopogon: 2
  trailing: 3
- train: 6
+ train: 5
  training: 1
  trains: 1
  traitor: 1
- traitors: 3
+ traitors: 2
  tramp: 1
- trampled: 2
+ trampled: 1
  trampling: 1
  tranquility: 1
- transcendent: 1
  transformed: 3
  transgression: 1
  transient: 2
@@ -8587,119 +7070,96 @@
  traverse: 1
  treacherous: 1
  treachery: 2
- tread: 6
+ tread: 5
  treads: 2
  treason: 1
  treasure: 7
  treasures: 1
  treat: 1
- tree: 77
+ tree: 60
  tree.”: 1
  tree:--demophoon: 1
- trees: 21
- trefoil: 1
+ trees: 19
  trellis-work: 1
  tremble: 3
  trembles: 1
  trembling: 1
- tremella: 3
+ tremella: 1
  tremendous: 1
  tremulous: 2
- tresses: 3
- trial: 1
+ tresses: 2
  tribes: 1
  tribute: 1
- trichomanes: 1
  trickling: 1
- tricolor: 2
  tried: 1
  triflers: 1
  trifles: 1
- trifoliatum: 1
- trifolium: 1
  trim: 1
- trimly: 1
  trimmed: 1
- triphyllos: 1
- triphyllum: 1
- tripolium: 1
- tristis: 1
  triumph: 2
  triumphs: 1
  trivial: 1
  trod: 2
  trodden: 1
  trojans: 1
- trollius: 2
  troops: 3
  trophies: 1
  tropics: 1
- tropæolum: 1
- trotted: 1
  trotting: 1
  troubadors: 1
- troubled: 4
+ troubled: 3
  troubles: 1
  trow: 2
  troy: 3
  truant: 1
- true: 29
- true,”: 1
+ true: 24
  truer: 1
  truffle: 1
  truly: 4
- trumpet: 2
+ trumpet: 1
  trumpets: 1
  trunk: 4
  trunks: 2
- trust: 5
+ trust: 3
  trusted: 3
  trustful: 1
  trustingly: 1
- truth: 22
- truth?--a: 1
+ truth: 16
  truthful: 1
  truths: 1
  truth’s: 1
  try: 1
  tuam: 1
- tube-flowered: 1
- tuberose: 5
- tubiflora: 1
+ tuberose: 3
  tuft: 2
  tufts: 3
  tugs: 1
- tulip: 10
- tulipa: 3
+ tulip: 5
  tulips: 1
  tulip’s: 2
  tumult: 1
  tune: 3
- tupper: 2
- turf: 3
+ turf: 2
  turfy: 1
  turibius: 1
  turkey: 1
  turks: 2
- turk’s: 1
- turn: 21
+ turn: 18
  turned: 5
  turner: 1
- turning: 4
- turns: 13
+ turning: 3
+ turns: 12
  turtle-dove: 1
  tusks: 1
  tussilage: 1
- tussilago: 4
  tussocks: 1
  twa: 1
  twaine: 1
- twamley: 13
  twelve: 1
  twice: 1
  twilight: 2
  twilight,--for: 1
- twine: 4
+ twine: 3
  twine:--types: 1
  twined: 1
  twining: 1
@@ -8707,8 +7167,6 @@
  twisted: 2
  twists: 1
  two: 14
- two-coloured: 1
- two-pence: 1
  tyke: 1
  type: 1
  typha: 1
@@ -8717,13 +7175,8 @@
  tyrant-passion: 1
  tyrants: 2
  tyrian: 1
- tæda: 1
  ugly: 1
- ulex: 1
- ulric: 1
  ulysses: 1
- umbellatum: 2
- umbellatus: 1
  unable: 1
  unacquainted: 1
  unaided: 1
@@ -8741,26 +7194,22 @@
  unchristen’d: 1
  unclothed: 1
  unclouded: 2
- unco: 1
- uncommon: 1
  unconfined: 1
- unconscious: 2
+ unconscious: 1
  unconsciously: 1
  uncontaminated: 1
  uncultivated: 1
  undarkened: 1
  undaunted: 1
  undefiled: 1
- under: 21
+ under: 20
  undermined: 1
- understood: 1
  underwood: 1
  undeserved: 1
  undiscovered: 1
  undisturbed: 1
- undulata: 1
  unearthly: 1
- uneasy: 2
+ uneasy: 1
  unenvied: 1
  unexpecting: 1
  unexplored: 1
@@ -8785,7 +7234,7 @@
  united: 1
  unity: 1
  universal: 2
- universally: 2
+ universally: 1
  unkind: 1
  unkindly: 1
  unkindness: 1
@@ -8821,7 +7270,6 @@
  unseen: 3
  unshadowed: 1
  unshed: 1
- unshod: 1
  unsounded: 1
  unstained: 2
  unstinted: 1
@@ -8829,8 +7277,8 @@
  untaught: 1
  unthankful: 1
  until: 7
- untimely: 2
- unto: 20
+ untimely: 1
+ unto: 19
  untold: 1
  untrimmed: 1
  untrodden: 1
@@ -8841,29 +7289,25 @@
  unwithstood: 1
  unworthy: 2
  unyoked: 1
- up: 52
+ up: 44
  upas: 1
  upbraid: 1
  upclose: 1
- upland: 3
+ upland: 2
  uplift: 1
  uplifting: 1
  upmost: 1
- upon: 85
- upright: 2
+ upon: 76
+ upright: 1
  uprightly: 1
  upward: 2
  upwards: 1
- urban: 1
- urbanum: 1
  urn: 4
  urns: 1
- ursinum: 1
- ursula: 1
- us: 55
+ us: 49
  us_!”: 1
  use: 7
- used: 16
+ used: 15
  useful: 4
  usefulness: 1
  usher: 1
@@ -8879,17 +7323,15 @@
  uttermost: 1
  utters: 1
  uvaria: 1
- v: 1
  vacant: 4
- vagans: 1
- vain: 18
+ vain: 16
  vainly: 3
- vale: 5
+ vale: 4
  valencia: 1
  valentine: 1
- valerian: 6
- vales: 6
- valley: 10
+ valerian: 4
+ vales: 5
+ valley: 6
  valour: 1
  valuable: 3
  valued: 2
@@ -8901,18 +7343,15 @@
  vapours: 2
  vapoury: 1
  varied: 4
- variegata: 1
- variegated: 6
- variegatum: 1
+ variegated: 3
  varieties: 3
- variety: 13
- variety’s: 1
+ variety: 12
  various: 9
  varnished: 1
  varying: 1
  vase: 1
  vases: 1
- vast: 6
+ vast: 4
  vastness: 1
  vault: 1
  vaults: 1
@@ -8921,45 +7360,36 @@
  veil: 4
  veined: 1
  veins: 3
- veltheimia: 3
- velvet: 3
+ velvet: 2
  veneration: 1
  venice: 1
  ventured: 1
  venus: 5
  venus’s: 1
- verbascum: 2
  verdant: 4
  verdure: 4
- verily: 1
- veris: 1
  vermeil: 1
- verna: 3
  vernal: 1
- vernum: 1
- vernus: 3
- veronica: 5
- verse: 2
+ vernus: 1
+ veronica: 1
+ verse: 1
  vertumnus: 1
- vervain: 7
- very: 31
+ vervain: 6
+ very: 29
  vest: 1
  vestal: 1
  vestiges: 1
  vetch: 1
  vexed: 1
- vibernum: 1
  vice: 1
  vicinity: 1
  victims: 1
- victor: 1
- victoria: 1
  victorious: 1
  victor’s: 1
  victual: 1
  vie: 1
  vienna: 1
- view: 10
+ view: 7
  viewing: 1
  views: 2
  vigil: 1
@@ -8969,57 +7399,38 @@
  vile: 2
  vilest: 1
  village: 1
- vinca: 1
- vincent: 4
  vincula: 1
  vindicate: 1
  vine: 2
  vine-clad: 1
- viola: 5
  violator: 1
  violence: 1
  violent: 1
- violet: 20
+ violet: 12
  violet-flowers: 1
- violets: 5
+ violets: 4
  violet’s: 1
  viper: 1
- viper’s: 1
- virga: 1
- virgatum: 1
- virgil: 1
- virgin: 14
+ virgin: 9
  virgine: 1
- virginia: 1
- virginian: 1
- virginianum: 1
  virgins: 1
- virgin’s: 1
- viridiflorus: 2
- viridifolia: 1
- viridis: 1
  virtue: 13
- virtues: 10
- virtuous: 6
+ virtues: 9
+ virtuous: 5
  viscum: 1
  visible: 1
  vision: 2
- visions: 3
+ visions: 2
  visit: 1
  visitors: 1
  visits: 1
  visor: 1
  vital: 1
- vitalba: 1
- vitas: 1
- viterbo: 1
- vitus: 1
- vitæ: 2
  vogue: 1
- voice: 21
+ voice: 19
  voice-like: 1
  voices: 4
- volume: 4
+ volume: 3
  votary: 1
  votive: 2
  vouchsafe: 1
@@ -9028,9 +7439,6 @@
  voyage: 1
  voyages: 1
  vulgar: 3
- vulgare: 2
- vulgaris: 5
- w: 8
  wad: 1
  waft: 2
  wafted: 1
@@ -9040,32 +7448,24 @@
  wait: 4
  waiting: 2
  waits: 1
- wake: 6
+ wake: 4
  waked: 1
- waken: 1
  waking: 2
- walburg: 1
- wales: 1
- walk: 3
+ walk: 2
  walked: 1
  walking: 2
  walking--filling: 1
- walks: 1
- wall: 4
- wall-flower: 3
+ wall: 2
+ wall-flower: 1
  wall-flowers: 1
  walled: 1
- wallet: 1
- wallflower: 1
  walls: 8
  walls.”: 1
  walnut: 1
- walter: 1
- wan: 2
+ wan: 1
  wand: 1
- wand-like: 1
  wander: 5
- wandered: 2
+ wandered: 1
  wandering: 5
  wanders: 1
  wand’ring: 1
@@ -9074,75 +7474,69 @@
  wanted: 1
  wanting: 1
  wanton: 2
- war: 8
- war-horn: 1
+ war: 7
  wards: 1
  warens: 1
  warlike: 2
  warlocks: 1
- warm: 15
+ warm: 11
  warmer: 1
  warmest: 1
- warmly: 2
+ warmly: 1
  warms: 2
  warmth: 5
  warn: 1
  warning: 5
  warnings: 1
  warp: 1
- warped: 1
  warring: 3
  warrior: 2
  warrior’s: 4
- was: 187
+ was: 169
  washed: 2
  wast: 2
  waste: 7
  wasted: 5
  wastefully: 1
- wastes: 2
+ wastes: 1
  wasting: 1
- watch: 10
+ watch: 9
  watched: 5
  watchful: 1
  watching: 5
  watchpost: 1
- water: 15
- water-cress: 1
- water-lily: 6
+ water: 8
+ water-lily: 5
  water-nymphs: 1
- water-rats: 1
  water-violet: 1
  water.”: 1
  waterfall: 1
  waters: 9
  watery: 1
  watring: 1
- watson: 5
- wave: 8
+ wave: 6
  wave-washed: 1
  waved: 2
- waved-leafed: 1
  waveless: 1
  waver: 1
  wavers: 1
- waves: 9
- waving: 3
- wavy: 2
+ waves: 7
+ waving: 2
+ wavy: 1
  waxen: 1
- way: 30
+ way: 25
  way--and: 1
  way-worn: 1
- ways: 4
+ ways: 3
  wayside: 1
- we: 110
+ we: 94
  weak: 7
  weaker: 1
  weakness: 2
- wealth: 18
+ wealth: 17
  wealthy: 1
  weapon: 1
- wear: 9
+ wear: 8
  wear.”: 1
  wearer: 1
  wearied: 2
@@ -9150,157 +7544,137 @@
  weariness: 1
  wearing: 1
  wearisome: 1
- wears: 4
- weary: 9
+ wears: 2
+ weary: 8
  weary--half: 1
- weather: 6
- weather-glass: 2
+ weather: 5
+ weather-glass: 1
  weathers: 1
- weave: 1
  weavers’: 1
- weaves: 3
+ weaves: 2
  weaving: 1
  web: 1
- webster: 1
  wed: 1
  wedding: 1
- wee: 5
+ wee: 4
  wee-bit: 1
- weed: 6
+ weed: 5
  weeds: 5
  week: 1
  weeks: 1
- weep: 14
+ weep: 13
  weeping: 6
  weeps: 1
  weeps,--remember: 1
  weighs: 1
  weight: 6
  weilds: 1
- welcome: 4
+ welcome: 2
  welcomed: 1
  welcomes: 1
- well: 44
+ well: 38
  well--i: 1
  well-filled: 1
  well-known: 1
  well:”: 1
  wellnigh: 1
- wells: 3
- welsh: 1
+ wells: 1
  wend: 1
- went: 18
- went.--the: 2
+ went: 16
  wept: 5
- were: 78
+ were: 70
  wert: 6
  west: 5
  westward: 1
- wet: 5
- weymouth: 1
+ wet: 4
  we’d: 1
  we’ll: 3
  we’re: 3
  whale: 1
- what: 77
+ what: 63
  whatever: 4
  whate’er: 2
  wheat: 2
- wheel: 3
+ wheel: 1
  wheels: 3
- when: 208
+ when: 174
  when--flaming: 1
  whence: 5
  whenever: 2
- whene’er: 2
- where: 113
- wherefore: 1
+ whene’er: 1
+ where: 102
  wherein: 2
  whereof: 1
  whereon: 4
  whereto: 1
  wherever: 5
  wherewith: 1
- where’er: 6
+ where’er: 5
  whether: 8
- which: 225
+ which: 215
  whichever: 1
- while: 61
- whilome: 1
+ while: 56
  whilst: 4
  whims: 1
- whimsical: 1
  whimsically: 1
  whin: 1
  whirl: 3
  whirling: 2
  whisper: 2
  whispered: 2
- whispering: 2
+ whispering: 1
  whispers: 3
  whistle: 1
  whistling: 1
  whit: 1
- white: 74
+ white: 55
  white--then: 1
  whiteness: 3
  whiter: 1
  whitest: 1
  whither--it: 1
- whitlow: 1
- whittier: 2
- who: 129
- whoe’er: 1
+ who: 119
  whole: 14
  wholly: 2
- whom: 14
+ whom: 13
  whortleberry: 1
- whose: 48
+ whose: 40
  who’ve: 3
- why: 26
+ why: 20
  wicked: 1
  wicked?--is: 1
  wicker: 1
- wide: 20
+ wide: 18
  wife: 6
  wife,--thy: 1
- wiffen: 1
  wifie’s: 1
  wight: 1
- wild: 29
- wild-fowl: 1
+ wild: 25
  wild-rose: 1
  wildering: 1
  wilderness: 5
- wildest: 1
  wildly: 2
  wilds: 1
  wildwood: 2
  wiles: 1
- wilfred: 1
  wilful: 2
- will: 79
- willebord: 1
+ will: 73
  willed: 1
- william: 4
+ william: 1
  willing: 1
- willis: 11
  willow: 2
  wills: 1
  wilt: 7
  wimplin: 1
  win: 3
- winchester: 1
- wind: 18
+ wind: 16
  wind-flower: 1
- wind-flowers: 1
  window: 1
  window-frame: 1
  window’s: 1
- winds: 11
+ winds: 10
  windy: 1
  wine: 1
- winebald: 1
  wing: 5
  wing.”: 1
  winged: 3
@@ -9308,19 +7682,19 @@
  winning: 1
  winnock: 1
  wins: 1
- winsome: 4
- winter: 21
+ winsome: 3
+ winter: 18
  winter,--a: 1
  winters: 1
  winters.”: 1
  winters’: 1
- winter’s: 7
+ winter’s: 6
  wintry: 5
  wipe: 2
- wisdom: 10
+ wisdom: 9
  wisdom-written: 1
  wisdom’s: 1
- wise: 9
+ wise: 7
  wisely: 2
  wiser: 2
  wish: 11
@@ -9331,70 +7705,66 @@
  witch: 1
  witches: 1
  witchingly: 1
- with: 407
+ with: 374
  withal: 1
  withdraw: 1
  wither: 3
  withered: 3
  withering: 1
- withers: 2
- within: 23
+ withers: 1
+ within: 20
  within--trust: 1
- without: 24
+ without: 23
  witnessed: 1
  wits: 1
  wi’: 8
- wm: 1
  wo: 10
  woes: 1
  woful: 1
  wold: 2
- wolfram: 1
  wolves: 1
- woman: 9
+ woman: 8
  woman-kind: 1
  womanish: 1
  womankind: 1
- woman’s: 5
- women: 4
- won: 8
- wonder: 6
+ woman’s: 4
+ women: 3
+ won: 7
+ wonder: 5
  wonderful: 3
  wondering: 3
  wonders: 1
- wondrous: 5
+ wondrous: 3
  wondrously: 1
- wont: 2
- wood: 22
+ wont: 1
+ wood: 16
  wood-cuts: 1
  wood-pigeons: 1
  wood-top: 1
- woodbine: 7
+ woodbine: 5
  wooden: 2
  woodlands: 3
  woodman’s: 1
- woods: 12
- woody: 4
+ woods: 11
+ woody: 3
  wooed: 2
  wooing: 1
  woollen: 1
- woolly: 1
  woos: 1
  word: 10
  word--farewell: 1
- words: 17
- wordsworth: 9
+ words: 15
  wore: 2
- work: 7
+ work: 6
  workings: 1
  works: 4
- world: 47
+ world: 40
  worldlings: 1
  worldling’s: 1
- world’s: 5
+ world’s: 2
  worm: 2
  worms: 2
- wormwood: 5
+ wormwood: 4
  worn: 3
  worn--the: 1
  worn-out: 1
@@ -9404,20 +7774,19 @@
  worshippers: 1
  worships: 1
  worst: 2
- wort: 5
- worth: 6
+ wort: 2
+ worth: 5
  worthier: 1
- worthiest: 2
- worthy: 6
- would: 76
- wouldst: 5
+ worthiest: 1
+ worthy: 4
+ would: 71
+ wouldst: 3
  wound: 3
  wounded: 5
  wounds: 1
  wove: 1
- wrapped: 1
  wrapt: 1
- wrath: 2
+ wrath: 1
  wreath: 8
  wreathing: 1
  wrecks: 2
@@ -9426,67 +7795,56 @@
  wretchedness: 1
  wretches: 1
  wrinkled: 1
- writ: 3
+ writ: 2
  write: 2
- writers: 8
+ writers: 7
  writhes: 1
  writing: 1
- written: 3
- wrong: 4
+ written: 2
+ wrong: 3
  wronged: 1
- wrongest: 1
  wrongs: 1
  wrote: 1
  wrought: 5
- xavier: 1
  yare: 2
- yarrow: 1
- ye: 26
- ye--if: 1
+ ye: 20
  yea: 2
- year: 24
- yearning: 3
+ year: 20
+ yearning: 2
  yearnings: 1
- years: 23
+ years: 18
  yeeld: 1
- yellow: 49
- yes: 4
- yet: 85
- yew: 11
- yield: 7
+ yellow: 22
+ yes: 1
+ yet: 72
+ yew: 7
+ yield: 6
  yielding: 3
  yields: 7
  yoke: 1
  yon: 5
- york: 3
- you: 93
- young: 47
+ york: 1
+ you: 78
+ young: 32
  young--when: 1
  young;”: 1
  younger: 2
- your: 62
+ your: 46
  yours: 1
  yourself: 1
- youth: 29
+ youth: 20
  youth!--no: 1
  youthful: 6
  youth’s: 1
  you’d: 2
  you’ll: 6
- you’re: 2
- yvo: 1
- zachary: 1
+ you’re: 1
  zealot: 1
  zeno: 1
  zephyr: 3
- zephyrinus: 1
- zinnia: 2
  zion’s: 1
- zosimus: 1
- æschylus: 1
  æson: 1
  æsop: 1
- œnothera: 1
  œnotheras: 1
  ‘there’s: 1
  ’broidered: 1
@@ -9496,35 +7854,31 @@
  ’mong: 2
  ’mongst: 1
  ’neath: 3
- ’tis: 32
- ’twas: 20
+ ’tis: 22
+ ’twas: 14
  ’twere: 5
  ’twill: 1
  ’twixt: 1
  ’twould: 2
  ’yond: 1
- “_and: 1
  “_vergiss: 1
  “a: 1
- “and: 5
- “basket-maker”: 2
+ “and: 2
+ “basket-maker”: 1
  “be: 1
  “betokening: 1
  “beware: 1
  “blue: 1
  “bonny: 1
- “but: 1
- “call: 1
  “dark: 1
  “flame: 1
  “floral: 1
- “for: 2
+ “for: 1
  “forget-me-not!”: 1
  “give: 1
  “gleaming: 1
  “go: 1
  “good-night: 1
- “ha: 2
  “he: 4
  “heaven’s: 1
  “henceforth: 1
@@ -9536,14 +7890,12 @@
  “in: 1
  “indeed: 1
  “it: 4
- “i’ll: 1
  “lady: 2
  “look: 1
- “lullaby: 1
  “made: 1
  “man: 1
  “musical: 1
- “my: 2
+ “my: 1
  “nay: 1
  “new: 1
  “next: 1
@@ -9553,34 +7905,24 @@
  “old: 1
  “on: 1
  “ought.”: 1
- “our: 1
  “precursor: 1
  “quills: 1
  “sad: 1
  “say: 1
  “shakspeare’s: 1
- “she: 1
  “since: 1
- “stay: 1
  “store: 1
  “studies: 1
  “superstition?”--in: 1
  “sweet: 1
- “that: 1
- “the: 9
- “they: 1
+ “the: 7
  “thou: 1
  “though: 1
  “time: 1
  “to: 2
- “took: 1
  “useful”: 1
- “we: 2
  “well: 1
- “we’ll: 1
  “where: 1
- “while: 1
- “who: 2
- “why: 1
+ “who: 1
  “you’ll: 1
  
