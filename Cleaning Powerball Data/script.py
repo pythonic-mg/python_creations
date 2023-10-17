@@ -11,6 +11,10 @@ urlretrieve(url, pb_file)
 with open(pb_file, "r") as fileref:
     draws = fileref.readlines()
 
+# cut off numbers from before they changed the game in Oct 4, 2015
+
+draws = draws[593:]
+
 print(f"\nThere are {len(draws)} lines of data in this file.\n")
 
 print(f"Your original data looks like this: {draws[:1]} \n")
