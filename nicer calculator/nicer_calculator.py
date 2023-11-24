@@ -1,11 +1,9 @@
-import tkinter as tk
-from tkinter import ttk
+import customtkinter as ctk 
 
-# window
-window = tk.Tk()
-window.title("Calculator")
+class Calculator(ctk.CTK):
+    def __init__(self):
+        super().__init__()
+        self.mainloop()
 
+Calculator()
 
-
-# run
-window.mainloop()
