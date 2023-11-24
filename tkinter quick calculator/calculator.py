@@ -5,6 +5,7 @@ root.title("Calculator")
 
 #create input field
 input = Entry(root, width=55, borderwidth=5)
+
 #put input field onto the grid
 input.grid(row=0, column=0, columnspan=4, padx=10, pady=10)
 
