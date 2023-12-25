@@ -153,7 +153,7 @@ def register():
     password_register = tk.StringVar()
     email_register = tk.StringVar()
 
-    global login_username_input, login_password_input, email_input
+    global register_username_input, register_password_input, register_email_input
 
     # title
     title_lable = ttk.Label(master = register_window,
@@ -175,13 +175,13 @@ def register():
                               padding = 5)
     
     # username input field
-    login_username_input = ttk.Entry(master = username_frame, 
+    register_username_input = ttk.Entry(master = username_frame, 
                                width=20,
                                textvariable=username_register)
 
     # pack username text and input field into username frame 
     username_text.pack(side = "left")
-    login_username_input.pack(side = "left")
+    register_username_input.pack(side = "left")
 
     # pack username frame
     username_frame.pack()
@@ -197,13 +197,13 @@ def register():
                               padding = 5)
     
     # password input field 
-    login_password_input = ttk.Entry(master = password_frame,
+    register_password_input = ttk.Entry(master = password_frame,
                                width = 20,
                                textvariable=password_register)
 
     # pack into password frame
     password_text.pack(side = "left")
-    login_password_input.pack(side = "left")
+    register_password_input.pack(side = "left")
 
     # pack password frame into window
     password_frame.pack()
@@ -219,13 +219,13 @@ def register():
                            padding = 5)
     
     # email input 
-    email_input = ttk.Entry(master = email_frame,
+    register_email_input = ttk.Entry(master = email_frame,
                             width = 20,
                             textvariable=email_register)
     
     # pack email text and input into email fram e
     email_text.pack(side = "left")
-    email_input.pack(side = "left")
+    register_email_input.pack(side = "left")
     email_frame.pack()
 
     # button frame 
@@ -264,20 +264,29 @@ def log_in():
 # register screen button
 
 def submit():
-    username = username_register.get()
-    password = password_register.get()
-    email = email_register.get()
+    registered = False
+    username = register_username_input.get()
+    password = register_password_input.get()
+    email = register_email_input.get()
 
-    with open("credentials.txt", "a") as file:
-        file.write(f"""
-                    Username: {username} 
-                    Password: {password} 
-                    Email: {email}
-                    """)
+    file = open("credentials.txt", "a")
+    for line in open("credentials.txt", "r").readlines():
+        login_info = line.split()
+        if username == login_info[1]:
+            registered = True
+    if registered:
+        file.close()
+        register_username_input.delete(0, 'end')
+        register_password_input.delete(0, 'end')
+        register_email_input.delete(0, 'end')
+    else:
+        file.write(f"Username: {username} Password: {password} Email: {email}\n")
+        file.close()
+        register_username_input.delete(0, 'end')
+        register_password_input.delete(0, 'end')
+        register_email_input.delete(0, 'end')
+
     
-    login_username_input.delete(0,'end')
-    login_password_input.delete(0,'end')
-    email_input.delete(0,'end')
 
     
         
