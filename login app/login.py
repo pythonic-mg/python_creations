@@ -140,8 +140,6 @@ def login():
     # pack button frame into window
     button_frame.pack(pady=10)
 
-    main_window.state("withdrawn")
-
 
 ## REGISTER WINDOW ## 
 
@@ -154,6 +152,8 @@ def register():
     username_register = tk.StringVar()
     password_register = tk.StringVar()
     email_register = tk.StringVar()
+
+    global login_username_input, login_password_input, email_input
 
     # title
     title_lable = ttk.Label(master = register_window,
@@ -175,13 +175,13 @@ def register():
                               padding = 5)
     
     # username input field
-    username_input = ttk.Entry(master = username_frame, 
+    login_username_input = ttk.Entry(master = username_frame, 
                                width=20,
                                textvariable=username_register)
 
     # pack username text and input field into username frame 
     username_text.pack(side = "left")
-    username_input.pack(side = "left")
+    login_username_input.pack(side = "left")
 
     # pack username frame
     username_frame.pack()
@@ -197,13 +197,13 @@ def register():
                               padding = 5)
     
     # password input field 
-    password_input = ttk.Entry(master = password_frame,
+    login_password_input = ttk.Entry(master = password_frame,
                                width = 20,
                                textvariable=password_register)
 
     # pack into password frame
     password_text.pack(side = "left")
-    password_input.pack(side = "left")
+    login_password_input.pack(side = "left")
 
     # pack password frame into window
     password_frame.pack()
@@ -254,7 +254,6 @@ def register():
     # pack button frame into window
     button_frame.pack(pady=10)
 
-    main_window.state("withdrawn")
 
 # login screen button
 
@@ -269,6 +268,19 @@ def submit():
     password = password_register.get()
     email = email_register.get()
 
+    with open("credentials.txt", "a") as file:
+        file.write(f"""
+                    Username: {username} 
+                    Password: {password} 
+                    Email: {email}
+                    """)
+    
+    login_username_input.delete(0,'end')
+    login_password_input.delete(0,'end')
+    email_input.delete(0,'end')
+
+    
+        
 
 ## RETURN TO MAIN WINDOW ## 
 
