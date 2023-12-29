@@ -62,6 +62,8 @@ def login():
     username_login = tk.StringVar()
     password_login = tk.StringVar()
 
+    global username_input, password_input
+
     # title
     title_label = ttk.Label(master = login_window, 
                             text = "Log In", 
@@ -105,6 +107,7 @@ def login():
     # password input field 
     password_input = ttk.Entry(master = password_frame,
                                width = 20,
+                               show="*",
                                textvariable=password_login)
 
     # pack into password frame
@@ -123,19 +126,10 @@ def login():
                               style = 'warning',
                               command=log_in)
     
-    # register button 
-    register_button = ttk.Button(master = button_frame,
-                             text = "BACK",
-                             style = 'warning',
-                             command=back)
-    
     # pack buttons into button frame
     login_button.pack(side = 'left',
                       padx = 10,
                       pady = 10)
-    register_button.pack(side = 'left',
-                     padx = 10,
-                     pady = 10)
 
     # pack button frame into window
     button_frame.pack(pady=10)
@@ -199,6 +193,7 @@ def register():
     # password input field 
     register_password_input = ttk.Entry(master = password_frame,
                                width = 20,
+                               show="*",
                                textvariable=password_register)
 
     # pack into password frame
@@ -237,19 +232,11 @@ def register():
                               style = 'warning',
                               command=submit)
     
-    # back button 
-    back_button = ttk.Button(master = button_frame,
-                             text = "BACK",
-                             style = 'warning',
-                             command=back)
     
     # pack buttons into button frame
     submit_button.pack(side = 'left',
                       padx = 10,
                       pady = 10)
-    back_button.pack(side = 'left',
-                     padx = 10,
-                     pady = 10)
 
     # pack button frame into window
     button_frame.pack(pady=10)
@@ -258,8 +245,34 @@ def register():
 # login screen button
 
 def log_in():
-    username = username_login.get()
-    password = password_login.get()
+    username = username_input.get()
+    password = password_input.get()
+
+    user_found = False
+    file = open("credentials.txt", "r")
+    for line in file.readlines():
+        login_info = line.split()
+        if username == login_info[1] and password == login_info[3]:
+            user_found = True
+
+    if user_found:
+        file.close()
+        username_input.delete(0,'end')
+        password_input.delete(0,'end')
+        successfully_logged_in_window = tk.Toplevel(main_window)
+        successfully_logged_in_window.geometry("200x150")
+        text = ttk.Label(master=successfully_logged_in_window,
+                         text="Success!",
+                         font="Calibri 12").pack()
+    else:
+        file.close()
+        username_input.delete(0,'end')
+        password_input.delete(0,'end')
+        unsucessfully_logged_in_window = tk.Toplevel(main_window)
+        unsucessfully_logged_in_window.geometry("200x150")
+        text = ttk.Label(master=unsucessfully_logged_in_window,
+                         text="User not found.",
+                         font="Calibri 12").pack()
 
 # register screen button
 
@@ -279,59 +292,26 @@ def submit():
         register_username_input.delete(0, 'end')
         register_password_input.delete(0, 'end')
         register_email_input.delete(0, 'end')
+        unsuccessfully_registered_window = tk.Toplevel(main_window)
+        unsuccessfully_registered_window.geometry("200x150")
+        unsucess_text = ttk.Label(master = unsuccessfully_registered_window,
+                              text = "User already exists.",
+                              font = "Calibri 12",
+                              padding = 5).pack()
+
     else:
         file.write(f"Username: {username} Password: {password} Email: {email}\n")
         file.close()
         register_username_input.delete(0, 'end')
         register_password_input.delete(0, 'end')
         register_email_input.delete(0, 'end')
+        successfully_registered_window = tk.Toplevel(main_window)
+        successfully_registered_window.geometry("200x150")
+        sucess_text = ttk.Label(master = successfully_registered_window,
+                              text = "Success!",
+                              font = "Calibri 12",
+                              padding = 5).pack()
 
-    
-
-    
-        
-
-## RETURN TO MAIN WINDOW ## 
-
-def back():
-    main_window1 = tk.Toplevel(main_window)
-    main_window1.title(" ")
-    main_window1.geometry("325x235")
-
-    # title
-    title_label = ttk.Label(master = main_window1, 
-                            text = "Welcome", 
-                            font = "Calibri 20",
-                            padding=10)
-    
-    # place title in window
-    title_label.pack()
-
-    # button frame 
-    button_frame = ttk.Frame(master = main_window1)
-
-    # login button 
-    login_button = ttk.Button(master = button_frame,
-                              text = "LOGIN",
-                              style = 'warning',
-                              command=login)
-    
-    # register button 
-    register_button = ttk.Button(master = button_frame,
-                             text = "REGISTER",
-                             style = 'warning',
-                             command=register)
-    
-    # pack buttons into button frame
-    login_button.pack(side = 'left',
-                      padx = 10,
-                      pady = 10)
-    register_button.pack(side = 'left',
-                     padx = 10,
-                     pady = 10)
-
-    # pack button frame into window
-    button_frame.pack(pady=10)
 
 # test
 m_window()
