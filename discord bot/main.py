@@ -21,6 +21,8 @@ if TOKEN is not None:
   @client.event
   async def on_message(message):
     if message.author != client.user and message.content.startswith("!roll"):
+      # we use await to tell the on_message function to wait for this process to finish before moving on. 
+      # that's because this process is creating a connection to discord 
       await message.channel.send("Which-sided die?:\n**4**,**6**,**8**,**10**,**12**,**20**")
 
       try:
