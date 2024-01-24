@@ -27,7 +27,9 @@ if TOKEN is not None:
         die = await client.wait_for("message", timeout = 30.0)
         d = die.content
 
-        if d != "4" and d != "6" and d != "8" and d != "10" and d != "12" and d != "20":
+        check_die = [4,6,8,10,12,20]
+
+        if d not in check_die:
             await message.channel.send("Sorry, invalid choice.")
             return
           
