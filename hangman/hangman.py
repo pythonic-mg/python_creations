@@ -1,7 +1,7 @@
 import tkinter as tk
 import ttkbootstrap as ttk
 
-global current_guess, total_guess
+global total_guess
 
 total_guess = ["_" for x in range(6)]
 
