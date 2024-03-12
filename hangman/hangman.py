@@ -1,16 +1,23 @@
 import tkinter as tk
 import ttkbootstrap as ttk
+import requests
 
-global total_guess
+global total_guess, word
 
-total_guess = ["_" for x in range(6)]
+page = requests.get("https://random-word-api.herokuapp.com/word")
+list = list(page.json())
+x = str(list[0])
+print(x)
+word = []
+for char in x: 
+    word.append(char)
+
+total_guess = ["_" for x in word]
 
 def guess():
-    word = ['p','y','t','h','o','n']
-
     old_guesses = guess_string.get()
     new_guess = entry_letter.get()
-    if len(new_guess) and new_guess not in old_guesses:
+    if len(new_guess) == 1 and new_guess not in old_guesses:
         new_guess_string = old_guesses + new_guess
         guess_string.set(new_guess_string)
     guess_count = guesses.get()
@@ -24,7 +31,7 @@ def guess():
     if new_guess not in word:
         guess_count = guess_count + 1
         guesses.set(guess_count)
-    if guess_count >= 6:
+    if guess_count == 6:
         new_string = "YOU LOSE"
         guess_string.set(new_string)
     entry_letter.set("")
