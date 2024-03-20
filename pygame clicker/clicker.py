@@ -25,7 +25,6 @@ def main():
 
     # game variables 
     bananas_per_second = 0
- 
     bananas = 0 
 
     
@@ -59,10 +58,6 @@ def main():
 
     def draw_rectangle(color, x_coord, y_coord):
         return pygame.draw.rect(screen, color, [x_coord, y_coord, 18, 18], 1)
-    
-    def format_number(number):
-        pass
-    
 
     running = True
 
@@ -138,7 +133,7 @@ def main():
             banana_holder = bananas
             banana_text = banana_font.render(str(banana_holder), True, WHITE)
         if bananas > 1000000 and bananas < 1000000000:
-            banana_holder = str(bananas)[:2] + "." + str(bananas)[3:5] + "mil"
+            banana_holder = str(bananas)[:2] + "." + str(bananas)[2:5] + "mil"
             banana_text = banana_font.render(str(banana_holder), True, WHITE)
         if bananas > 1000000000 and bananas < 1000000000000:
             banana_holder = str(bananas)[:2] + "." + str(bananas)[3:5] + "bil"
