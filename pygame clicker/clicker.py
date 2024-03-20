@@ -26,7 +26,6 @@ def main():
     # game variables 
     bananas_per_second = 0
     bananas = 0 
-
     
     clicker_production = 0
     field_production = 0
@@ -49,12 +48,12 @@ def main():
     bank_base_cost = 1500
     time_shipment_base_cost = 10000
 
-    clicker_next_cost = clicker_base_cost * (1.08 ** clickers_owned) if clickers_owned > 0 else 2
-    field_next_cost = field_base_cost * (1.20 ** fields_owned) if fields_owned > 0 else 5
-    mine_next_cost = mine_base_cost * (1.43 ** mines_owned) if mines_owned > 0 else 100
-    factory_next_cost = factory_base_cost * (1.35 ** factories_owned) if factories_owned > 0 else 500
-    bank_next_cost = bank_base_cost * (1.75 ** banks_owned) if banks_owned > 0 else 1500
-    time_shipment_next_cost = time_shipment_base_cost * (1.05 ** time_shipments_owned) if time_shipments_owned > 0 else 10000
+    clicker_next_cost = int(clicker_base_cost * (1.08 ** clickers_owned))
+    field_next_cost = int(field_base_cost * (1.20 ** fields_owned))
+    mine_next_cost = int(mine_base_cost * (1.43 ** mines_owned)) 
+    factory_next_cost = int(factory_base_cost * (1.35 ** factories_owned))
+    bank_next_cost = int(bank_base_cost * (1.75 ** banks_owned))
+    time_shipment_next_cost = int(time_shipment_base_cost * (1.05 ** time_shipments_owned))
 
     def draw_rectangle(color, x_coord, y_coord):
         return pygame.draw.rect(screen, color, [x_coord, y_coord, 18, 18], 1)
